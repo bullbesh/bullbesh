@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [OscilloScope art generator on python](https://www.reddit.com/r/Python/comments/1rdow87/oscilloscope_art_generator_on_python/)
-- [MAP v1.0 - Deterministic identity for structured data. Zero deps, 483-line frozen spec, MIT](https://www.reddit.com/r/Python/comments/1rdluk7/map_v10_deterministic_identity_for_structured/)
-- [anthropic-compat - drop-in fix for a Claude API breaking change](https://www.reddit.com/r/Python/comments/1rdlpif/anthropiccompat_dropin_fix_for_a_claude_api/)
-- [Introducing Windows Auto-venv tool: CDV 🎉 !](https://www.reddit.com/r/Python/comments/1rdhu1n/introducing_windows_autovenv_tool_cdv/)
-- [Built a tiny decorator-based execution gate in Python](https://www.reddit.com/r/Python/comments/1rdgol8/built_a_tiny_decoratorbased_execution_gate_in/)
+- [I&#39;m tired of guessing keys and refactoring string paths, so I wrote a small type-safe alternative](https://www.reddit.com/r/Python/comments/1rfof18/im_tired_of_guessing_keys_and_refactoring_string/)
+- [safezip - A small, zero-dependency wrapper for secure ZIP extraction](https://www.reddit.com/r/Python/comments/1rfnali/safezip_a_small_zerodependency_wrapper_for_secure/)
+- [A TikTok-style feed for personalized AI virtual try-ons](https://www.reddit.com/r/Python/comments/1rfls88/a_tiktokstyle_feed_for_personalized_ai_virtual/)
+- [Cherche binôme dev débutant &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/1rfing5/cherche_binôme_dev_débutant_python/)
+- [Python Module for Loading Data to the SQL Database — DBMerge](https://www.reddit.com/r/Python/comments/1rfhqhn/python_module_for_loading_data_to_the_sql/)
 <!-- BLOG-POST-LIST:END -->
