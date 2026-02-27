@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1rfqxve/friday_daily_thread_rpython_meta_and_freetalk/)
 - [I&#39;m tired of guessing keys and refactoring string paths, so I wrote a small type-safe alternative](https://www.reddit.com/r/Python/comments/1rfof18/im_tired_of_guessing_keys_and_refactoring_string/)
 - [safezip - A small, zero-dependency wrapper for secure ZIP extraction](https://www.reddit.com/r/Python/comments/1rfnali/safezip_a_small_zerodependency_wrapper_for_secure/)
 - [A TikTok-style feed for personalized AI virtual try-ons](https://www.reddit.com/r/Python/comments/1rfls88/a_tiktokstyle_feed_for_personalized_ai_virtual/)
 - [Cherche binôme dev débutant &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/1rfing5/cherche_binôme_dev_débutant_python/)
-- [Python Module for Loading Data to the SQL Database — DBMerge](https://www.reddit.com/r/Python/comments/1rfhqhn/python_module_for_loading_data_to_the_sql/)
 <!-- BLOG-POST-LIST:END -->
