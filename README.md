@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I am finding people who are interested in coding.](https://www.reddit.com/r/Python/comments/1rg0vf0/i_am_finding_people_who_are_interested_in_coding/)
+- [I Made a Auto-complete form scratch in python and I decided to use family guy episodes as a database](https://www.reddit.com/r/Python/comments/1rfx38h/i_made_a_autocomplete_form_scratch_in_python_and/)
+- [MyDisk Open Source Project](https://www.reddit.com/r/Python/comments/1rfw0df/mydisk_open_source_project/)
+- [Built a Python tool that auto-fixes hardcoded secrets — but refuses when unsafe](https://www.reddit.com/r/Python/comments/1rfvbfu/built_a_python_tool_that_autofixes_hardcoded/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1rfqxve/friday_daily_thread_rpython_meta_and_freetalk/)
-- [I&#39;m tired of guessing keys and refactoring string paths, so I wrote a small type-safe alternative](https://www.reddit.com/r/Python/comments/1rfof18/im_tired_of_guessing_keys_and_refactoring_string/)
-- [safezip - A small, zero-dependency wrapper for secure ZIP extraction](https://www.reddit.com/r/Python/comments/1rfnali/safezip_a_small_zerodependency_wrapper_for_secure/)
-- [A TikTok-style feed for personalized AI virtual try-ons](https://www.reddit.com/r/Python/comments/1rfls88/a_tiktokstyle_feed_for_personalized_ai_virtual/)
-- [Cherche binôme dev débutant &lpar;Python&rpar;](https://www.reddit.com/r/Python/comments/1rfing5/cherche_binôme_dev_débutant_python/)
 <!-- BLOG-POST-LIST:END -->
