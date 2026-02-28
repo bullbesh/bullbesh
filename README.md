@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ReactXPy — Build React apps using Python syntax &lpar;pip install reactxpy&rpar;](https://www.reddit.com/r/Python/comments/1rh1loe/reactxpy_build_react_apps_using_python_syntax_pip/)
+- [I built a durable, simple workflow lib in Rust with Python bindings](https://www.reddit.com/r/Python/comments/1rh13b0/i_built_a_durable_simple_workflow_lib_in_rust/)
+- [Spectra: Python pipeline to turn bank CSV/PDF exports into an automated finance dashboard](https://www.reddit.com/r/Python/comments/1rh132i/spectra_python_pipeline_to_turn_bank_csvpdf/)
 - [Shellman — a TUI file manager I built in Python](https://www.reddit.com/r/Python/comments/1rgz19v/shellman_a_tui_file_manager_i_built_in_python/)
 - [Python multi-channel agent: lessons learned on tool execution and memory](https://www.reddit.com/r/Python/comments/1rgxf42/python_multichannel_agent_lessons_learned_on_tool/)
-- [Distill the Flow: Pure Python Token Forensic Processing pipeline and Clearner](https://www.reddit.com/r/Python/comments/1rgwyj4/distill_the_flow_pure_python_token_forensic/)
-- [PyCharm alternative for commercial use that is not VSCode / AI Editor](https://www.reddit.com/r/Python/comments/1rgwrpz/pycharm_alternative_for_commercial_use_that_is/)
-- [I built a Python SDK that unifies OpenFDA, PubMed, and ClinicalTrials.gov](https://www.reddit.com/r/Python/comments/1rgt58i/i_built_a_python_sdk_that_unifies_openfda_pubmed/)
 <!-- BLOG-POST-LIST:END -->
