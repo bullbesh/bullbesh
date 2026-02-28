@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need contributors for my long-term Open source project](https://www.reddit.com/r/Python/comments/1rgxrvt/need_contributors_for_my_longterm_open_source/)
 - [Python multi-channel agent: lessons learned on tool execution and memory](https://www.reddit.com/r/Python/comments/1rgxf42/python_multichannel_agent_lessons_learned_on_tool/)
 - [Distill the Flow: Pure Python Token Forensic Processing pipeline and Clearner](https://www.reddit.com/r/Python/comments/1rgwyj4/distill_the_flow_pure_python_token_forensic/)
 - [PyCharm alternative for commercial use that is not VSCode / AI Editor](https://www.reddit.com/r/Python/comments/1rgwrpz/pycharm_alternative_for_commercial_use_that_is/)
 - [I built a Python SDK that unifies OpenFDA, PubMed, and ClinicalTrials.gov](https://www.reddit.com/r/Python/comments/1rgt58i/i_built_a_python_sdk_that_unifies_openfda_pubmed/)
-- [migate – Xiaomi authentication library for Python](https://www.reddit.com/r/Python/comments/1rgs7g8/migate_xiaomi_authentication_library_for_python/)
 <!-- BLOG-POST-LIST:END -->
