@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [templit — scaffold any Python project in one command, no Jinja2, no config files, no dependencies](https://www.reddit.com/r/Python/comments/1rh66ik/templit_scaffold_any_python_project_in_one/)
 - [ReactXPy — Build React Apps Using Python-Style Syntax](https://www.reddit.com/r/Python/comments/1rh5abi/reactxpy_build_react_apps_using_pythonstyle_syntax/)
-- [A QA Engineer job, I asked ai to describe it.](https://www.reddit.com/r/Python/comments/1rh5519/a_qa_engineer_job_i_asked_ai_to_describe_it/)
 - [I’m a complete novice and am looking for advice](https://www.reddit.com/r/Python/comments/1rh4prg/im_a_complete_novice_and_am_looking_for_advice/)
 - [Low-Latency Python: Separating Signal from Noise](https://www.reddit.com/r/Python/comments/1rh4741/lowlatency_python_separating_signal_from_noise/)
 - [ReactXPy — Build React apps using Python syntax &lpar;pip install reactxpy&rpar;](https://www.reddit.com/r/Python/comments/1rh1loe/reactxpy_build_react_apps_using_python_syntax_pip/)
