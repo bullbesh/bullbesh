@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python multi-channel agent: lessons learned on tool execution and memory](https://www.reddit.com/r/Python/comments/1rgxf42/python_multichannel_agent_lessons_learned_on_tool/)
+- [Distill the Flow: Pure Python Token Forensic Processing pipeline and Clearner](https://www.reddit.com/r/Python/comments/1rgwyj4/distill_the_flow_pure_python_token_forensic/)
+- [PyCharm alternative for commercial use that is not VSCode / AI Editor](https://www.reddit.com/r/Python/comments/1rgwrpz/pycharm_alternative_for_commercial_use_that_is/)
 - [I built a Python SDK that unifies OpenFDA, PubMed, and ClinicalTrials.gov](https://www.reddit.com/r/Python/comments/1rgt58i/i_built_a_python_sdk_that_unifies_openfda_pubmed/)
 - [migate – Xiaomi authentication library for Python](https://www.reddit.com/r/Python/comments/1rgs7g8/migate_xiaomi_authentication_library_for_python/)
-- [Python library to access local Calendar in macOS](https://www.reddit.com/r/Python/comments/1rgnoeq/python_library_to_access_local_calendar_in_macos/)
-- [A simple gradient calculation library in raw python](https://www.reddit.com/r/Python/comments/1rgnnhz/a_simple_gradient_calculation_library_in_raw/)
-- [Signed clearance gate](https://www.reddit.com/r/Python/comments/1rgnk35/signed_clearance_gate/)
 <!-- BLOG-POST-LIST:END -->
