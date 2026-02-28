@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [ReactXPy — Build React Apps Using Python-Style Syntax](https://www.reddit.com/r/Python/comments/1rh5abi/reactxpy_build_react_apps_using_pythonstyle_syntax/)
+- [A QA Engineer job, I asked ai to describe it.](https://www.reddit.com/r/Python/comments/1rh5519/a_qa_engineer_job_i_asked_ai_to_describe_it/)
+- [I’m a complete novice and am looking for advice](https://www.reddit.com/r/Python/comments/1rh4prg/im_a_complete_novice_and_am_looking_for_advice/)
+- [Low-Latency Python: Separating Signal from Noise](https://www.reddit.com/r/Python/comments/1rh4741/lowlatency_python_separating_signal_from_noise/)
 - [ReactXPy — Build React apps using Python syntax &lpar;pip install reactxpy&rpar;](https://www.reddit.com/r/Python/comments/1rh1loe/reactxpy_build_react_apps_using_python_syntax_pip/)
-- [Spectra: Python pipeline to turn bank CSV/PDF exports into an automated finance dashboard](https://www.reddit.com/r/Python/comments/1rh132i/spectra_python_pipeline_to_turn_bank_csvpdf/)
-- [Shellman — a TUI file manager I built in Python](https://www.reddit.com/r/Python/comments/1rgz19v/shellman_a_tui_file_manager_i_built_in_python/)
-- [Python multi-channel agent: lessons learned on tool execution and memory](https://www.reddit.com/r/Python/comments/1rgxf42/python_multichannel_agent_lessons_learned_on_tool/)
-- [Distill the Flow: Pure Python Token Forensic Processing pipeline and Clearner](https://www.reddit.com/r/Python/comments/1rgwyj4/distill_the_flow_pure_python_token_forensic/)
 <!-- BLOG-POST-LIST:END -->
