@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I am finding people who are interested in coding.](https://www.reddit.com/r/Python/comments/1rg0vf0/i_am_finding_people_who_are_interested_in_coding/)
-- [I Made a Auto-complete form scratch in python and I decided to use family guy episodes as a database](https://www.reddit.com/r/Python/comments/1rfx38h/i_made_a_autocomplete_form_scratch_in_python_and/)
-- [MyDisk Open Source Project](https://www.reddit.com/r/Python/comments/1rfw0df/mydisk_open_source_project/)
-- [Built a Python tool that auto-fixes hardcoded secrets — but refuses when unsafe](https://www.reddit.com/r/Python/comments/1rfvbfu/built_a_python_tool_that_autofixes_hardcoded/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1rfqxve/friday_daily_thread_rpython_meta_and_freetalk/)
+- [I built a Python SDK that unifies OpenFDA, PubMed, and ClinicalTrials.gov](https://www.reddit.com/r/Python/comments/1rgt58i/i_built_a_python_sdk_that_unifies_openfda_pubmed/)
+- [migate – Xiaomi authentication library for Python](https://www.reddit.com/r/Python/comments/1rgs7g8/migate_xiaomi_authentication_library_for_python/)
+- [Python library to access local Calendar in macOS](https://www.reddit.com/r/Python/comments/1rgnoeq/python_library_to_access_local_calendar_in_macos/)
+- [A simple gradient calculation library in raw python](https://www.reddit.com/r/Python/comments/1rgnnhz/a_simple_gradient_calculation_library_in_raw/)
+- [Signed clearance gate](https://www.reddit.com/r/Python/comments/1rgnk35/signed_clearance_gate/)
 <!-- BLOG-POST-LIST:END -->
