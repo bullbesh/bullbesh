@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Built an agent library because I was sick of LangChain - aiming to make it the most dev-friendly](https://www.reddit.com/r/Python/comments/1rh87kf/built_an_agent_library_because_i_was_sick_of/)
-- [ReactXPy — Build React Apps Using Python-Style Syntax](https://www.reddit.com/r/Python/comments/1rh5abi/reactxpy_build_react_apps_using_pythonstyle_syntax/)
-- [I’m a complete novice and am looking for advice](https://www.reddit.com/r/Python/comments/1rh4prg/im_a_complete_novice_and_am_looking_for_advice/)
-- [Low-Latency Python: Separating Signal from Noise](https://www.reddit.com/r/Python/comments/1rh4741/lowlatency_python_separating_signal_from_noise/)
-- [ReactXPy — Build React apps using Python syntax &lpar;pip install reactxpy&rpar;](https://www.reddit.com/r/Python/comments/1rh1loe/reactxpy_build_react_apps_using_python_syntax_pip/)
+- [ByteTok: A fast BPE tokenizer with a clean Python API](https://www.reddit.com/r/Python/comments/1ri9fij/bytetok_a_fast_bpe_tokenizer_with_a_clean_python/)
+- [I built a COBOL verification engine — it proves migrations are mathematically correct](https://www.reddit.com/r/Python/comments/1ri90db/i_built_a_cobol_verification_engine_it_proves/)
+- [browser2api - Turn browser-only AI tools into scriptable Python APIs using Playwright + CDP](https://www.reddit.com/r/Python/comments/1ri4a1v/browser2api_turn_browseronly_ai_tools_into/)
+- [Show r/Python: DagPipe - A zero-cost, crash-proof DAG orchestrator for LLM pipelines &lpar;v0.1.0&rpar;](https://www.reddit.com/r/Python/comments/1rhyh6v/show_rpython_dagpipe_a_zerocost_crashproof_dag/)
+- [City2Graph: A Python library for Graph Neural Networks &lpar;GNNs&rpar; on geospatial data](https://www.reddit.com/r/Python/comments/1rhwa3x/city2graph_a_python_library_for_graph_neural/)
 <!-- BLOG-POST-LIST:END -->
