@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DNA RAG - a pipeline that verifies LLM claims about your DNA against NCBI databases](https://www.reddit.com/r/Python/comments/1rio6zf/dna_rag_a_pipeline_that_verifies_llm_claims_about/)
 - [PEP 827 - Type Manipulation has just been published](https://www.reddit.com/r/Python/comments/1rimuu7/pep_827_type_manipulation_has_just_been_published/)
 - [I made an open source Python Mini SDK for Gemini that includes function calling, async support](https://www.reddit.com/r/Python/comments/1rijcgs/i_made_an_open_source_python_mini_sdk_for_gemini/)
 - [roast-my-code: static analyzer that catches AI-generated code patterns](https://www.reddit.com/r/Python/comments/1rigbn5/roastmycode_static_analyzer_that_catches/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1ridf96/monday_daily_thread_project_ideas/)
-- [I built a tool to automatically tailor your resume to a job description using Python](https://www.reddit.com/r/Python/comments/1rid6bx/i_built_a_tool_to_automatically_tailor_your/)
 <!-- BLOG-POST-LIST:END -->
