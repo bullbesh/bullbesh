@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Platform i built to practise python](https://www.reddit.com/r/Python/comments/1rj1jfm/platform_i_built_to_practise_python/)
+- [Engram – logs your terminal output to SQLite and lets you query it with a local LLM](https://www.reddit.com/r/Python/comments/1rj0eh5/engram_logs_your_terminal_output_to_sqlite_and/)
+- [What changed architecturally in FastAPI of 7 years? A 9-version structural analysis](https://www.reddit.com/r/Python/comments/1rj01dh/what_changed_architecturally_in_fastapi_of_7/)
 - [FlipMeOver Project](https://www.reddit.com/r/Python/comments/1riwvyf/flipmeover_project/)
 - [A compression library that beats zstd/lzma on structured data and searches compressed archives](https://www.reddit.com/r/Python/comments/1riwlrn/a_compression_library_that_beats_zstdlzma_on/)
-- [Pattern: Serve the same AI agent over HTTP, CLI, and STDIO from a single codebase](https://www.reddit.com/r/Python/comments/1rivu16/pattern_serve_the_same_ai_agent_over_http_cli_and/)
-- [the1conf — typed Python app configuration with deterministic source precedence](https://www.reddit.com/r/Python/comments/1rirf3k/the1conf_typed_python_app_configuration_with/)
-- [DNA RAG - a pipeline that verifies LLM claims about your DNA against NCBI databases](https://www.reddit.com/r/Python/comments/1rio6zf/dna_rag_a_pipeline_that_verifies_llm_claims_about/)
 <!-- BLOG-POST-LIST:END -->
