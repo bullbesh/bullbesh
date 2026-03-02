@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [python on termux,cute little gift](https://www.reddit.com/r/Python/comments/1rj7hnh/python_on_termuxcute_little_gift/)
+- [[Project] soul-agent — give your AI assistant persistent memory with two markdown files, no database](https://www.reddit.com/r/Python/comments/1rj8gcs/project_soulagent_give_your_ai_assistant/)
 - [Chasing a CI-only Python Heisenbug: timezone + cache key + test order &lpar;and what finally fixed it&rpar;](https://www.reddit.com/r/Python/comments/1rj6yt8/chasing_a_cionly_python_heisenbug_timezone_cache/)
 - [LANscape - A python based local network scanner](https://www.reddit.com/r/Python/comments/1rj51az/lanscape_a_python_based_local_network_scanner/)
 - [I built a DRF-inspired framework for FastAPI and published it to PyPI — would love feedback](https://www.reddit.com/r/Python/comments/1rj3mi5/i_built_a_drfinspired_framework_for_fastapi_and/)
