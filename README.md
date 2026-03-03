@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Self-replicating AI swarm that builds its own tools mid-run](https://www.reddit.com/r/Python/comments/1rjoyr3/selfreplicating_ai_swarm_that_builds_its_own/)
 - [I built a Python SDK that unifies OpenFDA, PubMed, and ClinicalTrials.gov &lpar;Try 2&rpar;](https://www.reddit.com/r/Python/comments/1rjjn0c/i_built_a_python_sdk_that_unifies_openfda_pubmed/)
 - [Anyone in here in the UAS Flight Test Engineer industry using python?](https://www.reddit.com/r/Python/comments/1rjhsgn/anyone_in_here_in_the_uas_flight_test_engineer/)
-- [Pydantic for jupyter notebooks](https://www.reddit.com/r/Python/comments/1rjgu26/pydantic_for_jupyter_notebooks/)
 - [VRE: What if AI agents couldn&#39;t act on knowledge they can&#39;t structurally justify?](https://www.reddit.com/r/Python/comments/1rjee1j/vre_what_if_ai_agents_couldnt_act_on_knowledge/)
 - [cMCP v0.4.0 released!](https://www.reddit.com/r/Python/comments/1rjd9v0/cmcp_v040_released/)
 <!-- BLOG-POST-LIST:END -->
