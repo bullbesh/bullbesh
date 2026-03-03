@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [VRE: What if AI agents couldn&#39;t act on knowledge they can&#39;t structurally justify?](https://www.reddit.com/r/Python/comments/1rjee1j/vre_what_if_ai_agents_couldnt_act_on_knowledge/)
 - [cMCP v0.4.0 released!](https://www.reddit.com/r/Python/comments/1rjd9v0/cmcp_v040_released/)
 - [scientific_pydantic: Pydantic adapters for common scientific data types](https://www.reddit.com/r/Python/comments/1rjaq3b/scientific_pydantic_pydantic_adapters_for_common/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1rj9qfu/tuesday_daily_thread_advanced_questions/)
 - [[Project] soul-agent — give your AI assistant persistent memory with two markdown files, no database](https://www.reddit.com/r/Python/comments/1rj8gcs/project_soulagent_give_your_ai_assistant/)
-- [Chasing a CI-only Python Heisenbug: timezone + cache key + test order &lpar;and what finally fixed it&rpar;](https://www.reddit.com/r/Python/comments/1rj6yt8/chasing_a_cionly_python_heisenbug_timezone_cache/)
 <!-- BLOG-POST-LIST:END -->
