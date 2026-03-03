@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pydantic for jupyter notebooks](https://www.reddit.com/r/Python/comments/1rjgu26/pydantic_for_jupyter_notebooks/)
 - [VRE: What if AI agents couldn&#39;t act on knowledge they can&#39;t structurally justify?](https://www.reddit.com/r/Python/comments/1rjee1j/vre_what_if_ai_agents_couldnt_act_on_knowledge/)
 - [cMCP v0.4.0 released!](https://www.reddit.com/r/Python/comments/1rjd9v0/cmcp_v040_released/)
 - [scientific_pydantic: Pydantic adapters for common scientific data types](https://www.reddit.com/r/Python/comments/1rjaq3b/scientific_pydantic_pydantic_adapters_for_common/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1rj9qfu/tuesday_daily_thread_advanced_questions/)
-- [[Project] soul-agent — give your AI assistant persistent memory with two markdown files, no database](https://www.reddit.com/r/Python/comments/1rj8gcs/project_soulagent_give_your_ai_assistant/)
 <!-- BLOG-POST-LIST:END -->
