@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PDF Oxide -- Fast PDF library for Python with engine in Rust &lpar;0.8ms mean, MIT/Apache license&rpar;](https://www.reddit.com/r/Python/comments/1rjsq84/pdf_oxide_fast_pdf_library_for_python_with_engine/)
+- [Building Post4U - a self-hosted social media scheduler with FastAPI + APScheduler](https://www.reddit.com/r/Python/comments/1rjsixm/building_post4u_a_selfhosted_social_media/)
 - [Self-replicating AI swarm that builds its own tools mid-run](https://www.reddit.com/r/Python/comments/1rjoyr3/selfreplicating_ai_swarm_that_builds_its_own/)
 - [I built a Python SDK that unifies OpenFDA, PubMed, and ClinicalTrials.gov &lpar;Try 2&rpar;](https://www.reddit.com/r/Python/comments/1rjjn0c/i_built_a_python_sdk_that_unifies_openfda_pubmed/)
 - [Anyone in here in the UAS Flight Test Engineer industry using python?](https://www.reddit.com/r/Python/comments/1rjhsgn/anyone_in_here_in_the_uas_flight_test_engineer/)
-- [VRE: What if AI agents couldn&#39;t act on knowledge they can&#39;t structurally justify?](https://www.reddit.com/r/Python/comments/1rjee1j/vre_what_if_ai_agents_couldnt_act_on_knowledge/)
-- [cMCP v0.4.0 released!](https://www.reddit.com/r/Python/comments/1rjd9v0/cmcp_v040_released/)
 <!-- BLOG-POST-LIST:END -->
