@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Google just open-sourced cel-expr-python &lpar;CEL&rpar; — safe, typed expressions for Python &lpar;C++ wrapper&rpar;](https://www.reddit.com/r/Python/comments/1rk8f3p/google_just_opensourced_celexprpython_cel_safe/)
-- [I built a cryptographic commitment platform with FastAPI and Bitcoin timestamps &lpar;MIT licensed&rpar;](https://www.reddit.com/r/Python/comments/1rk7t12/i_built_a_cryptographic_commitment_platform_with/)
-- [I updated Dracula-AI based on some advice and criticism. You can see here what changed.](https://www.reddit.com/r/Python/comments/1rk655z/i_updated_draculaai_based_on_some_advice_and/)
-- [formualizer: an Arrow-backed spreadsheet engine - 320+ functions, incremental recalc, PyO3 + Rust](https://www.reddit.com/r/Python/comments/1rjwuwc/formualizer_an_arrowbacked_spreadsheet_engine_320/)
-- [༄ streamable - sync/async iterable streams for Python](https://www.reddit.com/r/Python/comments/1rju5kh/streamable_syncasync_iterable_streams_for_python/)
+- [https://www.youtube.com/watch?v=qKkyBhXIJJU](https://www.reddit.com/r/Python/comments/1rkkk78/httpswwwyoutubecomwatchvqkkybhxijju/)
+- [Python Benchmark Challenge &lpar;prize for top scorer&rpar;](https://www.reddit.com/r/Python/comments/1rkjv7t/python_benchmark_challenge_prize_for_top_scorer/)
+- [I built a security-first AI agent in Python — subprocess sandboxing, AST scanning, ReAct loop](https://www.reddit.com/r/Python/comments/1rkjtgg/i_built_a_securityfirst_ai_agent_in_python/)
+- [VSCode uv Extension: uv Auto venv &lpar;PEP 723 &amp; pyproject.toml&rpar;](https://www.reddit.com/r/Python/comments/1rkjbvs/vscode_uv_extension_uv_auto_venv_pep_723/)
+- [Aegis-IR – A YAML-based, formally verified programming language designed for LLM code generation](https://www.reddit.com/r/Python/comments/1rkgm1b/aegisir_a_yamlbased_formally_verified_programming/)
 <!-- BLOG-POST-LIST:END -->
