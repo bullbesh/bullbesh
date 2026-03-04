@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Benchmarked: 10 Python Dependency Injection libraries vs Manual Wiring &lpar;50 rounds x 100k requests&rpar;](https://www.reddit.com/r/Python/comments/1rkos6s/benchmarked_10_python_dependency_injection/)
 - [https://www.youtube.com/watch?v=qKkyBhXIJJU](https://www.reddit.com/r/Python/comments/1rkkk78/httpswwwyoutubecomwatchvqkkybhxijju/)
 - [Python Benchmark Challenge &lpar;prize for top scorer&rpar;](https://www.reddit.com/r/Python/comments/1rkjv7t/python_benchmark_challenge_prize_for_top_scorer/)
 - [I built a security-first AI agent in Python — subprocess sandboxing, AST scanning, ReAct loop](https://www.reddit.com/r/Python/comments/1rkjtgg/i_built_a_securityfirst_ai_agent_in_python/)
 - [VSCode uv Extension: uv Auto venv &lpar;PEP 723 &amp; pyproject.toml&rpar;](https://www.reddit.com/r/Python/comments/1rkjbvs/vscode_uv_extension_uv_auto_venv_pep_723/)
-- [Aegis-IR – A YAML-based, formally verified programming language designed for LLM code generation](https://www.reddit.com/r/Python/comments/1rkgm1b/aegisir_a_yamlbased_formally_verified_programming/)
 <!-- BLOG-POST-LIST:END -->
