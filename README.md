@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Code efficiency when creating a function to classify float values](https://www.reddit.com/r/Python/comments/1rpersb/code_efficiency_when_creating_a_function_to/)
-- [Built an async energy price scraper with FastAPI, Celery, and the EIA API](https://www.reddit.com/r/Python/comments/1rpelcw/built_an_async_energy_price_scraper_with_fastapi/)
-- [Claude just launched Code Review &lpar;multi-agent, 20 min/PR&rpar;. I built the 0.01s pre-commit gate that ru](https://www.reddit.com/r/Python/comments/1rpbxe6/claude_just_launched_code_review_multiagent_20/)
-- [I built a free SaaS churn predictor in Python - Stripe + XGBoost + SHAP + LLM interventions](https://www.reddit.com/r/Python/comments/1rpbmvv/i_built_a_free_saas_churn_predictor_in_python/)
-- [VSCode extension for Postman](https://www.reddit.com/r/Python/comments/1rpa6gb/vscode_extension_for_postman/)
+- [VRE Update: New Site](https://www.reddit.com/r/Python/comments/1rq5pij/vre_update_new_site/)
+- [A web scraping trick that made my scrapers 10x faster](https://www.reddit.com/r/Python/comments/1rq5oql/a_web_scraping_trick_that_made_my_scrapers_10x/)
+- [Aegis: a security-first language for AI - taint tracking, capability restrictions, and audit trails](https://www.reddit.com/r/Python/comments/1rq3vqc/aegis_a_securityfirst_language_for_ai_taint/)
+- [strong-mode: ultra-strict TypeScript guardrails for safer vibe coding [AGAIN]](https://www.reddit.com/r/Python/comments/1rq3mg3/strongmode_ultrastrict_typescript_guardrails_for/)
+- [Building a Python Framework in Rust Step by Step to Learn Async](https://www.reddit.com/r/Python/comments/1rq251f/building_a_python_framework_in_rust_step_by_step/)
 <!-- BLOG-POST-LIST:END -->
