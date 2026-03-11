@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Repo-Stats - Analysis Tool](https://www.reddit.com/r/Python/comments/1rr29ez/repostats_analysis_tool/)
+- [What My Project Does](https://www.reddit.com/r/Python/comments/1rr20mw/what_my_project_does/)
 - [Open-sourced `ai-cost-calc`: Python SDK for AI API cost calculation with live ai api pricing.](https://www.reddit.com/r/Python/comments/1rqzw9a/opensourced_aicostcalc_python_sdk_for_ai_api_cost/)
 - [Free book: Master Machine Learning with scikit-learn](https://www.reddit.com/r/Python/comments/1rqzsuw/free_book_master_machine_learning_with_scikitlearn/)
 - [Documentation Buddy - An AI Assistant for your /docs page](https://www.reddit.com/r/Python/comments/1rqyyrh/documentation_buddy_an_ai_assistant_for_your_docs/)
-- [Visualize Python execution to understand the data model](https://www.reddit.com/r/Python/comments/1rqyxmq/visualize_python_execution_to_understand_the_data/)
-- [SafePip: A Python environment bodyguard to protect from PyPI malware](https://www.reddit.com/r/Python/comments/1rqy1eb/safepip_a_python_environment_bodyguard_to_protect/)
 <!-- BLOG-POST-LIST:END -->
