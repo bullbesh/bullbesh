@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [VRE Update: New Site](https://www.reddit.com/r/Python/comments/1rq5pij/vre_update_new_site/)
-- [A web scraping trick that made my scrapers 10x faster](https://www.reddit.com/r/Python/comments/1rq5oql/a_web_scraping_trick_that_made_my_scrapers_10x/)
-- [Aegis: a security-first language for AI - taint tracking, capability restrictions, and audit trails](https://www.reddit.com/r/Python/comments/1rq3vqc/aegis_a_securityfirst_language_for_ai_taint/)
-- [strong-mode: ultra-strict TypeScript guardrails for safer vibe coding [AGAIN]](https://www.reddit.com/r/Python/comments/1rq3mg3/strongmode_ultrastrict_typescript_guardrails_for/)
-- [Building a Python Framework in Rust Step by Step to Learn Async](https://www.reddit.com/r/Python/comments/1rq251f/building_a_python_framework_in_rust_step_by_step/)
+- [Open-sourced `ai-cost-calc`: Python SDK for AI API cost calculation with live ai api pricing.](https://www.reddit.com/r/Python/comments/1rqzw9a/opensourced_aicostcalc_python_sdk_for_ai_api_cost/)
+- [Free book: Master Machine Learning with scikit-learn](https://www.reddit.com/r/Python/comments/1rqzsuw/free_book_master_machine_learning_with_scikitlearn/)
+- [Documentation Buddy - An AI Assistant for your /docs page](https://www.reddit.com/r/Python/comments/1rqyyrh/documentation_buddy_an_ai_assistant_for_your_docs/)
+- [Visualize Python execution to understand the data model](https://www.reddit.com/r/Python/comments/1rqyxmq/visualize_python_execution_to_understand_the_data/)
+- [SafePip: A Python environment bodyguard to protect from PyPI malware](https://www.reddit.com/r/Python/comments/1rqy1eb/safepip_a_python_environment_bodyguard_to_protect/)
 <!-- BLOG-POST-LIST:END -->
