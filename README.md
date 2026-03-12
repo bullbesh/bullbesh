@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Repo-Stats - Analysis Tool](https://www.reddit.com/r/Python/comments/1rr29ez/repostats_analysis_tool/)
-- [What My Project Does](https://www.reddit.com/r/Python/comments/1rr20mw/what_my_project_does/)
-- [Open-sourced `ai-cost-calc`: Python SDK for AI API cost calculation with live ai api pricing.](https://www.reddit.com/r/Python/comments/1rqzw9a/opensourced_aicostcalc_python_sdk_for_ai_api_cost/)
-- [Free book: Master Machine Learning with scikit-learn](https://www.reddit.com/r/Python/comments/1rqzsuw/free_book_master_machine_learning_with_scikitlearn/)
-- [Documentation Buddy - An AI Assistant for your /docs page](https://www.reddit.com/r/Python/comments/1rqyyrh/documentation_buddy_an_ai_assistant_for_your_docs/)
+- [geobn - A Python library for running Bayesian network inference over geospatial data](https://www.reddit.com/r/Python/comments/1rrks6d/geobn_a_python_library_for_running_bayesian/)
+- [Built a meeting preparation tool with the Anthropic Python SDK](https://www.reddit.com/r/Python/comments/1rrkpw4/built_a_meeting_preparation_tool_with_the/)
+- [Most RAG frameworks are English only. Mine supports 27+ languages with offline voice, zero API keys.](https://www.reddit.com/r/Python/comments/1rriuqh/most_rag_frameworks_are_english_only_mine/)
+- [Python with typing](https://www.reddit.com/r/Python/comments/1rrfsba/python_with_typing/)
+- [I used asyncio and dataclasses to build a &quot;microkernel&quot; for LLM agents — here&#39;s what I learned](https://www.reddit.com/r/Python/comments/1rrehwo/i_used_asyncio_and_dataclasses_to_build_a/)
 <!-- BLOG-POST-LIST:END -->
