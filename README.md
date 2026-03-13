@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [geobn - A Python library for running Bayesian network inference over geospatial data](https://www.reddit.com/r/Python/comments/1rrks6d/geobn_a_python_library_for_running_bayesian/)
-- [Built a meeting preparation tool with the Anthropic Python SDK](https://www.reddit.com/r/Python/comments/1rrkpw4/built_a_meeting_preparation_tool_with_the/)
-- [Most RAG frameworks are English only. Mine supports 27+ languages with offline voice, zero API keys.](https://www.reddit.com/r/Python/comments/1rriuqh/most_rag_frameworks_are_english_only_mine/)
-- [Python with typing](https://www.reddit.com/r/Python/comments/1rrfsba/python_with_typing/)
-- [I used asyncio and dataclasses to build a &quot;microkernel&quot; for LLM agents — here&#39;s what I learned](https://www.reddit.com/r/Python/comments/1rrehwo/i_used_asyncio_and_dataclasses_to_build_a/)
+- [Funding rate bot](https://www.reddit.com/r/Python/comments/1rseq2q/funding_rate_bot/)
+- [Your Python agent framework is great — but the LLM writes better TypeScript than Python. Here&#39;s how](https://www.reddit.com/r/Python/comments/1rsdgt1/your_python_agent_framework_is_great_but_the_llm/)
+- [I wrote a CLI that easily saves over 90% of token usage when connecting to MCP or OpenAPI Servers](https://www.reddit.com/r/Python/comments/1rsaa6i/i_wrote_a_cli_that_easily_saves_over_90_of_token/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1rs7ruk/friday_daily_thread_rpython_meta_and_freetalk/)
+- [micropidash — A web dashboard library for MicroPython &lpar;ESP32/Pico W&rpar;](https://www.reddit.com/r/Python/comments/1rs3pw4/micropidash_a_web_dashboard_library_for/)
 <!-- BLOG-POST-LIST:END -->
