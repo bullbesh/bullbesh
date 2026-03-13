@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Funding rate bot](https://www.reddit.com/r/Python/comments/1rseq2q/funding_rate_bot/)
-- [Your Python agent framework is great — but the LLM writes better TypeScript than Python. Here&#39;s how](https://www.reddit.com/r/Python/comments/1rsdgt1/your_python_agent_framework_is_great_but_the_llm/)
-- [I wrote a CLI that easily saves over 90% of token usage when connecting to MCP or OpenAPI Servers](https://www.reddit.com/r/Python/comments/1rsaa6i/i_wrote_a_cli_that_easily_saves_over_90_of_token/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1rs7ruk/friday_daily_thread_rpython_meta_and_freetalk/)
-- [micropidash — A web dashboard library for MicroPython &lpar;ESP32/Pico W&rpar;](https://www.reddit.com/r/Python/comments/1rs3pw4/micropidash_a_web_dashboard_library_for/)
+- [Multi-tenant service - features, workflows and more, configurable per customer!](https://www.reddit.com/r/Python/comments/1rsq829/multitenant_service_features_workflows_and_more/)
+- [Perceptual hash clustering can create false duplicate groups &lpar;hash chaining&rpar; — here’s a simple fix](https://www.reddit.com/r/Python/comments/1rsnw9a/perceptual_hash_clustering_can_create_false/)
+- [I built my first Python CLI tool and published it on PyPI — looking for feedback](https://www.reddit.com/r/Python/comments/1rsnnjs/i_built_my_first_python_cli_tool_and_published_it/)
+- [I ended building an oversimplfied durable workflow engine after overcomplicating my data pipelines](https://www.reddit.com/r/Python/comments/1rsl8nj/i_ended_building_an_oversimplfied_durable/)
+- [I made a free, open-source deep-dive reference guide to Advanced Python — internals, GIL, concurrenc](https://www.reddit.com/r/Python/comments/1rskg34/i_made_a_free_opensource_deepdive_reference_guide/)
 <!-- BLOG-POST-LIST:END -->
