@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi-tenant service - features, workflows and more, configurable per customer!](https://www.reddit.com/r/Python/comments/1rsq829/multitenant_service_features_workflows_and_more/)
+- [Understanding OpenClaw By Building One](https://www.reddit.com/r/Python/comments/1rswo69/understanding_openclaw_by_building_one/)
+- [4 months of battle with Samsung&#39;s Knox &amp; Android 16: Building the Clear &amp; Recovery system](https://www.reddit.com/r/Python/comments/1rsujgm/4_months_of_battle_with_samsungs_knox_android_16/)
+- [PyTogether, the &#39;Google Docs&#39; for Python &lpar;free and open-source, real-time browser IDE&rpar;](https://www.reddit.com/r/Python/comments/1rsrz0x/pytogether_the_google_docs_for_python_free_and/)
 - [Perceptual hash clustering can create false duplicate groups &lpar;hash chaining&rpar; — here’s a simple fix](https://www.reddit.com/r/Python/comments/1rsnw9a/perceptual_hash_clustering_can_create_false/)
 - [I built my first Python CLI tool and published it on PyPI — looking for feedback](https://www.reddit.com/r/Python/comments/1rsnnjs/i_built_my_first_python_cli_tool_and_published_it/)
-- [I ended building an oversimplfied durable workflow engine after overcomplicating my data pipelines](https://www.reddit.com/r/Python/comments/1rsl8nj/i_ended_building_an_oversimplfied_durable/)
-- [I made a free, open-source deep-dive reference guide to Advanced Python — internals, GIL, concurrenc](https://www.reddit.com/r/Python/comments/1rskg34/i_made_a_free_opensource_deepdive_reference_guide/)
 <!-- BLOG-POST-LIST:END -->
