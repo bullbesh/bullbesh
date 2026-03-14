@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I just found out that you can catch a KeyboardInterrupt like an error](https://www.reddit.com/r/Python/comments/1rszxv1/i_just_found_out_that_you_can_catch_a/)
-- [I built a Python library to push custom workouts to FORM swim goggles over BLE [reverse engineered]](https://www.reddit.com/r/Python/comments/1rsz4x4/i_built_a_python_library_to_push_custom_workouts/)
-- [4 months of battle with Samsung&#39;s Knox &amp; Android 16: Building the Clear &amp; Recovery system](https://www.reddit.com/r/Python/comments/1rsujgm/4_months_of_battle_with_samsungs_knox_android_16/)
-- [PyTogether, the &#39;Google Docs&#39; for Python &lpar;free and open-source, real-time browser IDE&rpar;](https://www.reddit.com/r/Python/comments/1rsrz0x/pytogether_the_google_docs_for_python_free_and/)
-- [Perceptual hash clustering can create false duplicate groups &lpar;hash chaining&rpar; — here’s a simple fix](https://www.reddit.com/r/Python/comments/1rsnw9a/perceptual_hash_clustering_can_create_false/)
+- [Python Tests Kakeya Conjecture Tube Families To Included Polygonal, Curved, Branching and Hybrid&#39;s](https://www.reddit.com/r/Python/comments/1rtcfmo/python_tests_kakeya_conjecture_tube_families_to/)
+- [Can anyone tell me how the heck those people create their own ai to generate text, image, video,etc?](https://www.reddit.com/r/Python/comments/1rt6ws8/can_anyone_tell_me_how_the_heck_those_people/)
+- [A simple auto-PPPOE python script!](https://www.reddit.com/r/Python/comments/1rt5vbd/a_simple_autopppoe_python_script/)
+- [widemem — AI memory layer with importance scoring, decay, and contradiction detection](https://www.reddit.com/r/Python/comments/1rt5myt/widemem_ai_memory_layer_with_importance_scoring/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1rt453t/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
