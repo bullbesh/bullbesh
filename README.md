@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Tests Kakeya Conjecture Tube Families To Included Polygonal, Curved, Branching and Hybrid&#39;s](https://www.reddit.com/r/Python/comments/1rtcfmo/python_tests_kakeya_conjecture_tube_families_to/)
-- [Can anyone tell me how the heck those people create their own ai to generate text, image, video,etc?](https://www.reddit.com/r/Python/comments/1rt6ws8/can_anyone_tell_me_how_the_heck_those_people/)
-- [A simple auto-PPPOE python script!](https://www.reddit.com/r/Python/comments/1rt5vbd/a_simple_autopppoe_python_script/)
-- [widemem — AI memory layer with importance scoring, decay, and contradiction detection](https://www.reddit.com/r/Python/comments/1rt5myt/widemem_ai_memory_layer_with_importance_scoring/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1rt453t/saturday_daily_thread_resource_request_and/)
+- [**I made a &quot;Folding@home&quot; swarm for local LLM research**](https://www.reddit.com/r/Python/comments/1ruihdp/i_made_a_foldinghome_swarm_for_local_llm_research/)
+- [Built a CLI tool that runs pre-training checks on PyTorch pipelines — pip install preflight-ml](https://www.reddit.com/r/Python/comments/1rui1dq/built_a_cli_tool_that_runs_pretraining_checks_on/)
+- [Robyn &lpar;finally&rpar; offers first party Pydantic integration 🎉](https://www.reddit.com/r/Python/comments/1rufc3o/robyn_finally_offers_first_party_pydantic/)
+- [justx - An interactive command library for your terminal, powered by just](https://www.reddit.com/r/Python/comments/1ruemue/justx_an_interactive_command_library_for_your/)
+- [Scraping Amazon Product Data With Python Without Getting Blocked](https://www.reddit.com/r/Python/comments/1ruek51/scraping_amazon_product_data_with_python_without/)
 <!-- BLOG-POST-LIST:END -->
