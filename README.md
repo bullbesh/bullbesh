@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [**I made a &quot;Folding@home&quot; swarm for local LLM research**](https://www.reddit.com/r/Python/comments/1ruihdp/i_made_a_foldinghome_swarm_for_local_llm_research/)
-- [Built a CLI tool that runs pre-training checks on PyTorch pipelines — pip install preflight-ml](https://www.reddit.com/r/Python/comments/1rui1dq/built_a_cli_tool_that_runs_pretraining_checks_on/)
-- [Robyn &lpar;finally&rpar; offers first party Pydantic integration 🎉](https://www.reddit.com/r/Python/comments/1rufc3o/robyn_finally_offers_first_party_pydantic/)
-- [justx - An interactive command library for your terminal, powered by just](https://www.reddit.com/r/Python/comments/1ruemue/justx_an_interactive_command_library_for_your/)
-- [Scraping Amazon Product Data With Python Without Getting Blocked](https://www.reddit.com/r/Python/comments/1ruek51/scraping_amazon_product_data_with_python_without/)
+- [Making an app run in the background](https://www.reddit.com/r/Python/comments/1ruq8hj/making_an_app_run_in_the_background/)
+- [Pywho - Python Environment Interceptor](https://www.reddit.com/r/Python/comments/1ruppfh/pywho_python_environment_interceptor/)
+- [I made a Python tool to detect performance regressions - Oracletrace](https://www.reddit.com/r/Python/comments/1rupjar/i_made_a_python_tool_to_detect_performance/)
+- [Pymetrica: a new quality analysis tool](https://www.reddit.com/r/Python/comments/1rupci4/pymetrica_a_new_quality_analysis_tool/)
+- [Unrooted tree for multidimentional projection of data in XY space](https://www.reddit.com/r/Python/comments/1rum88e/unrooted_tree_for_multidimentional_projection_of/)
 <!-- BLOG-POST-LIST:END -->
