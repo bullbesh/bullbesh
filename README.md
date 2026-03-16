@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [PackageFix — paste your requirements.txt, get a fixed manifest back. Live CVE scan via OSV + CISA KE](https://www.reddit.com/r/Python/comments/1rvb23k/packagefix_paste_your_requirementstxt_get_a_fixed/)
-- [Comparing Python Type Checkers: Typing Spec Conformance](https://www.reddit.com/r/Python/comments/1rv80tj/comparing_python_type_checkers_typing_spec/)
-- [Update: We’re adding real-time collaborative coding to our open dev platform](https://www.reddit.com/r/Python/comments/1rv7ocn/update_were_adding_realtime_collaborative_coding/)
-- [Showcase: kokage-ui — build FastAPI UIs in pure Python &lpar;no JS, no templates, no build step&rpar;](https://www.reddit.com/r/Python/comments/1rv7lcs/showcase_kokageui_build_fastapi_uis_in_pure/)
-- [A quick review of `tyro`, a CLI library.](https://www.reddit.com/r/Python/comments/1rv7agv/a_quick_review_of_tyro_a_cli_library/)
+- [I built a minimal web-based MySQL/MariaDB GUI you can install with pip. Would love your feedback.](https://www.reddit.com/r/Python/comments/1rvf2hk/i_built_a_minimal_webbased_mysqlmariadb_gui_you/)
+- [nobody asked but I organized national FBI crime data into a searchable site &lpar;My first real website&rpar;](https://www.reddit.com/r/Python/comments/1rve8k1/nobody_asked_but_i_organized_national_fbi_crime/)
+- [tethered - Runtime network egress control for Python in one function call](https://www.reddit.com/r/Python/comments/1rvdqdz/tethered_runtime_network_egress_control_for/)
+- [[Project] NetGlance - A macOS-inspired network monitor for the Windows Taskbar &lpar;PyQt6 + NumPy&rpar;](https://www.reddit.com/r/Python/comments/1rvd76d/project_netglance_a_macosinspired_network_monitor/)
+- [ARC - Automatic Recovery Controller for PyTorch training failures](https://www.reddit.com/r/Python/comments/1rvct0q/arc_automatic_recovery_controller_for_pytorch/)
 <!-- BLOG-POST-LIST:END -->
