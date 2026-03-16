@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A quick review of `tyro`, a CLI library.](https://www.reddit.com/r/Python/comments/1rv7agv/a_quick_review_of_tyro_a_cli_library/)
+- [Library to integrate Logbook with Rich and Journald](https://www.reddit.com/r/Python/comments/1rv6q4l/library_to_integrate_logbook_with_rich_and/)
 - [Little game I&#39;m working on: BSCP](https://www.reddit.com/r/Python/comments/1rv672u/little_game_im_working_on_bscp/)
 - [Scripting in API tools using Python &lpar;showcase&rpar;](https://www.reddit.com/r/Python/comments/1rv5sl0/scripting_in_api_tools_using_python_showcase/)
 - [song-download-api-when-spotify-metadata is present](https://www.reddit.com/r/Python/comments/1rv5jnm/songdownloadapiwhenspotifymetadata_is_present/)
-- [I built a simple online compiler for my students to practice coding](https://www.reddit.com/r/Python/comments/1rv31yr/i_built_a_simple_online_compiler_for_my_students/)
-- [roche-sandbox: context manager for running untrusted code in sandbox with secure defaults](https://www.reddit.com/r/Python/comments/1ruzt2x/rochesandbox_context_manager_for_running/)
 <!-- BLOG-POST-LIST:END -->
