@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [roche-sandbox: context manager for running untrusted code in sandbox with secure defaults](https://www.reddit.com/r/Python/comments/1ruzt2x/rochesandbox_context_manager_for_running/)
+- [I built an open-source Python tool for semantic code search + AI agent tooling &lpar;2.5k downloads so fa](https://www.reddit.com/r/Python/comments/1ruy56p/i_built_an_opensource_python_tool_for_semantic/)
 - [Used FastF1, FastAPI, and LightGBM to build an F1 race strategy simulator](https://www.reddit.com/r/Python/comments/1ruxquu/used_fastf1_fastapi_and_lightgbm_to_build_an_f1/)
 - [Asyncio Port Scanner in Python &lpar;CSV/JSON reports&rpar;](https://www.reddit.com/r/Python/comments/1ruwl1a/asyncio_port_scanner_in_python_csvjson_reports/)
 - [[Showcase] pytest-gremlins v1.5.0: Fast mutation testing as a pytest plugin.](https://www.reddit.com/r/Python/comments/1ruv4wx/showcase_pytestgremlins_v150_fast_mutation/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1ruu3rw/monday_daily_thread_project_ideas/)
-- [Intermediate in Python and want to build mobile applications](https://www.reddit.com/r/Python/comments/1ruu0zh/intermediate_in_python_and_want_to_build_mobile/)
 <!-- BLOG-POST-LIST:END -->
