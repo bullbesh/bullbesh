@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Making an app run in the background](https://www.reddit.com/r/Python/comments/1ruq8hj/making_an_app_run_in_the_background/)
-- [Pywho - Python Environment Interceptor](https://www.reddit.com/r/Python/comments/1ruppfh/pywho_python_environment_interceptor/)
-- [I made a Python tool to detect performance regressions - Oracletrace](https://www.reddit.com/r/Python/comments/1rupjar/i_made_a_python_tool_to_detect_performance/)
-- [Pymetrica: a new quality analysis tool](https://www.reddit.com/r/Python/comments/1rupci4/pymetrica_a_new_quality_analysis_tool/)
-- [Unrooted tree for multidimentional projection of data in XY space](https://www.reddit.com/r/Python/comments/1rum88e/unrooted_tree_for_multidimentional_projection_of/)
+- [Used FastF1, FastAPI, and LightGBM to build an F1 race strategy simulator](https://www.reddit.com/r/Python/comments/1ruxquu/used_fastf1_fastapi_and_lightgbm_to_build_an_f1/)
+- [Asyncio Port Scanner in Python &lpar;CSV/JSON reports&rpar;](https://www.reddit.com/r/Python/comments/1ruwl1a/asyncio_port_scanner_in_python_csvjson_reports/)
+- [[Showcase] pytest-gremlins v1.5.0: Fast mutation testing as a pytest plugin.](https://www.reddit.com/r/Python/comments/1ruv4wx/showcase_pytestgremlins_v150_fast_mutation/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1ruu3rw/monday_daily_thread_project_ideas/)
+- [Intermediate in Python and want to build mobile applications](https://www.reddit.com/r/Python/comments/1ruu0zh/intermediate_in_python_and_want_to_build_mobile/)
 <!-- BLOG-POST-LIST:END -->
