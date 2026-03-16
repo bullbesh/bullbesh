@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [printo: Auto-generate __repr__ from __init__ with zero boilerplate](https://www.reddit.com/r/Python/comments/1rvipw2/printo_autogenerate_repr_from_init_with_zero/)
+- [Myelin Kernel: a lightweight reinforcement-based memory kernel for Python AI agents &lpar;open source&rpar;](https://www.reddit.com/r/Python/comments/1rvh67l/myelin_kernel_a_lightweight_reinforcementbased/)
+- [Image region of interest tracker in Python3 using OpenCV](https://www.reddit.com/r/Python/comments/1rvg7iy/image_region_of_interest_tracker_in_python3_using/)
 - [I built a minimal web-based MySQL/MariaDB GUI you can install with pip. Would love your feedback.](https://www.reddit.com/r/Python/comments/1rvf2hk/i_built_a_minimal_webbased_mysqlmariadb_gui_you/)
 - [nobody asked but I organized national FBI crime data into a searchable site &lpar;My first real website&rpar;](https://www.reddit.com/r/Python/comments/1rve8k1/nobody_asked_but_i_organized_national_fbi_crime/)
-- [tethered - Runtime network egress control for Python in one function call](https://www.reddit.com/r/Python/comments/1rvdqdz/tethered_runtime_network_egress_control_for/)
-- [[Project] NetGlance - A macOS-inspired network monitor for the Windows Taskbar &lpar;PyQt6 + NumPy&rpar;](https://www.reddit.com/r/Python/comments/1rvd76d/project_netglance_a_macosinspired_network_monitor/)
-- [ARC - Automatic Recovery Controller for PyTorch training failures](https://www.reddit.com/r/Python/comments/1rvct0q/arc_automatic_recovery_controller_for_pytorch/)
 <!-- BLOG-POST-LIST:END -->
