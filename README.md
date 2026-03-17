@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made Redis 99x cheaper — 65ms on 500KB, 201ms for 10MB, one decorator](https://www.reddit.com/r/Python/comments/1rw8fdx/i_made_redis_99x_cheaper_65ms_on_500kb_201ms_for/)
+- [Marketing Pipeline in Python Using Claude Code &lpar;repo and forkable example&rpar;](https://www.reddit.com/r/Python/comments/1rw7vay/marketing_pipeline_in_python_using_claude_code/)
+- [I built a one‑line, local‑first debugger for ai agents – finally, no more log spelunking](https://www.reddit.com/r/Python/comments/1rw7bk2/i_built_a_oneline_localfirst_debugger_for_ai/)
+- [Python devs, you are on demand!](https://www.reddit.com/r/Python/comments/1rw76f8/python_devs_you_are_on_demand/)
 - [tryke: A fast, modern test framework for Python](https://www.reddit.com/r/Python/comments/1rw5ujy/tryke_a_fast_modern_test_framework_for_python/)
-- [HydraStream: A pure Python streaming downloader I built to bypass disk I/O](https://www.reddit.com/r/Python/comments/1rw5pqm/hydrastream_a_pure_python_streaming_downloader_i/)
-- [I just added a built-in Real-Time Cloud IDE synced with GitHub](https://www.reddit.com/r/Python/comments/1rw312s/i_just_added_a_builtin_realtime_cloud_ide_synced/)
-- [AI grc library,](https://www.reddit.com/r/Python/comments/1rw29z3/ai_grc_library/)
-- [ClipForge: AI-powered short-form video generator in Python &lpar;~2K lines, MIT&rpar;](https://www.reddit.com/r/Python/comments/1rw1nb4/clipforge_aipowered_shortform_video_generator_in/)
 <!-- BLOG-POST-LIST:END -->
