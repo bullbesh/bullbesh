@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Developers pain points](https://www.reddit.com/r/Python/comments/1rvx52k/developers_pain_points/)
+- [Building a Reliable AI Streaming API using FastAPI + Redis Streams](https://www.reddit.com/r/Python/comments/1rvwetx/building_a_reliable_ai_streaming_api_using/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1rvqus3/tuesday_daily_thread_advanced_questions/)
+- [`acs-nativity`: A Python package for analyzing U.S. immigration trends](https://www.reddit.com/r/Python/comments/1rvqbtk/acsnativity_a_python_package_for_analyzing_us/)
 - [I&#39;m building a terminal chat app on top of my own TCP library, would you use it?](https://www.reddit.com/r/Python/comments/1rvpwnb/im_building_a_terminal_chat_app_on_top_of_my_own/)
-- [i built a Python library that tells you who said what in any audio file](https://www.reddit.com/r/Python/comments/1rvoxl3/i_built_a_python_library_that_tells_you_who_said/)
-- [Featurevisor: Git based feature flag and remote config management tool with Python SDK &lpar;open source&rpar;](https://www.reddit.com/r/Python/comments/1rvkvdd/featurevisor_git_based_feature_flag_and_remote/)
-- [Myelin Kernel: a lightweight reinforcement-based memory kernel for Python AI agents &lpar;open source&rpar;](https://www.reddit.com/r/Python/comments/1rvh67l/myelin_kernel_a_lightweight_reinforcementbased/)
 <!-- BLOG-POST-LIST:END -->
