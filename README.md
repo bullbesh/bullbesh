@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using the walrus operator := to self-document if conditions](https://www.reddit.com/r/Python/comments/1rw18i5/using_the_walrus_operator_to_selfdocument_if/)
 - [Developers pain points](https://www.reddit.com/r/Python/comments/1rvx52k/developers_pain_points/)
 - [Building a Reliable AI Streaming API using FastAPI + Redis Streams](https://www.reddit.com/r/Python/comments/1rvwetx/building_a_reliable_ai_streaming_api_using/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1rvqus3/tuesday_daily_thread_advanced_questions/)
 - [`acs-nativity`: A Python package for analyzing U.S. immigration trends](https://www.reddit.com/r/Python/comments/1rvqbtk/acsnativity_a_python_package_for_analyzing_us/)
-- [I&#39;m building a terminal chat app on top of my own TCP library, would you use it?](https://www.reddit.com/r/Python/comments/1rvpwnb/im_building_a_terminal_chat_app_on_top_of_my_own/)
 <!-- BLOG-POST-LIST:END -->
