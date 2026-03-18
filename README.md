@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for someone to build random cool stuff with](https://www.reddit.com/r/Python/comments/1rx1g0y/looking_for_someone_to_build_random_cool_stuff/)
-- [Built a platform to find dev teammates + live code together &lpar;now fully in English&rpar;](https://www.reddit.com/r/Python/comments/1rx1fs7/built_a_platform_to_find_dev_teammates_live_code/)
-- [Flask email classifier powered by LLMs — dashboard UI, 182 tests, no frontend build step](https://www.reddit.com/r/Python/comments/1rx18dj/flask_email_classifier_powered_by_llms_dashboard/)
-- [Free Spotify Ad Muter](https://www.reddit.com/r/Python/comments/1rwzqoy/free_spotify_ad_muter/)
-- [Is it a sensible move?](https://www.reddit.com/r/Python/comments/1rwygat/is_it_a_sensible_move/)
+- [Thoughts and comments on AI generated code](https://www.reddit.com/r/Python/comments/1rxk2pi/thoughts_and_comments_on_ai_generated_code/)
+- [AI agents aren&#39;t magic — I built an interactive course showing the full stack in 60 lines of Python](https://www.reddit.com/r/Python/comments/1rxjl4m/ai_agents_arent_magic_i_built_an_interactive/)
+- [I built a professional local web testing framework with Python &amp; Cloudflare tunnels.](https://www.reddit.com/r/Python/comments/1rxjid5/i_built_a_professional_local_web_testing/)
+- [How to pass command line arguments to setup.py when the project is built with the pyptoject.toml ?](https://www.reddit.com/r/Python/comments/1rxiqan/how_to_pass_command_line_arguments_to_setuppy/)
+- [I built a pip package that blocks bad AI prompt deploys before they reach production](https://www.reddit.com/r/Python/comments/1rxi69q/i_built_a_pip_package_that_blocks_bad_ai_prompt/)
 <!-- BLOG-POST-LIST:END -->
