@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [engram-forge: experiential memory for AI agents —crystallize it into reusable skills](https://www.reddit.com/r/Python/comments/1rwws0g/engramforge_experiential_memory_for_ai_agents/)
+- [We let type hints completely ruin the readability of python..](https://www.reddit.com/r/Python/comments/1rwwjug/we_let_type_hints_completely_ruin_the_readability/)
+- [Spotify Ad Muter](https://www.reddit.com/r/Python/comments/1rww9me/spotify_ad_muter/)
+- [cql-track – Schema migrations for Cassandra CQL linter for Fast API/Django Integration](https://www.reddit.com/r/Python/comments/1rwvqih/cqltrack_schema_migrations_for_cassandra_cql/)
 - [conjecscore.org &lpar;alpha version&rpar; - A scoreboard for open problems.](https://www.reddit.com/r/Python/comments/1rwrfff/conjecscoreorg_alpha_version_a_scoreboard_for/)
-- [I built &quot;Primaclaw&quot; - A distributed swarm for e-waste. Runs fast Qwen2.5 on my 2009 Pentium laptop.](https://www.reddit.com/r/Python/comments/1rwowce/i_built_primaclaw_a_distributed_swarm_for_ewaste/)
-- [Mods have a couple of months to stop AI slop project spam before this sub is dead](https://www.reddit.com/r/Python/comments/1rwoq79/mods_have_a_couple_of_months_to_stop_ai_slop/)
-- [albums: interactive tool to manage a music library &lpar;with video intro&rpar;](https://www.reddit.com/r/Python/comments/1rwm19s/albums_interactive_tool_to_manage_a_music_library/)
-- [My First Port Scanner with multithreading and banner grabbing and I want improving it](https://www.reddit.com/r/Python/comments/1rwjuhc/my_first_port_scanner_with_multithreading_and/)
 <!-- BLOG-POST-LIST:END -->
