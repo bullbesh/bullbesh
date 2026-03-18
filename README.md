@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [conjecscore.org &lpar;alpha version&rpar; - A scoreboard for open problems.](https://www.reddit.com/r/Python/comments/1rwrfff/conjecscoreorg_alpha_version_a_scoreboard_for/)
+- [I built &quot;Primaclaw&quot; - A distributed swarm for e-waste. Runs fast Qwen2.5 on my 2009 Pentium laptop.](https://www.reddit.com/r/Python/comments/1rwowce/i_built_primaclaw_a_distributed_swarm_for_ewaste/)
+- [Mods have a couple of months to stop AI slop project spam before this sub is dead](https://www.reddit.com/r/Python/comments/1rwoq79/mods_have_a_couple_of_months_to_stop_ai_slop/)
 - [albums: interactive tool to manage a music library &lpar;with video intro&rpar;](https://www.reddit.com/r/Python/comments/1rwm19s/albums_interactive_tool_to_manage_a_music_library/)
 - [My First Port Scanner with multithreading and banner grabbing and I want improving it](https://www.reddit.com/r/Python/comments/1rwjuhc/my_first_port_scanner_with_multithreading_and/)
-- [pip install runcycles — hard budget limits for AI agent calls, enforced before they run](https://www.reddit.com/r/Python/comments/1rwh4vr/pip_install_runcycles_hard_budget_limits_for_ai/)
-- [I built FileForge — a professional file organizer with auto-classification, SHA-256 duplicate detect](https://www.reddit.com/r/Python/comments/1rwffus/i_built_fileforge_a_professional_file_organizer/)
-- [built an open-source CLI that scans Python AI projects for EU AI Act compliance — benchmarked it ag](https://www.reddit.com/r/Python/comments/1rwb879/built_an_opensource_cli_that_scans_python_ai/)
 <!-- BLOG-POST-LIST:END -->
