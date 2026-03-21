@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [About &quot;Children Technology Organise&quot;](https://www.reddit.com/r/Python/comments/1rxw5ct/about_children_technology_organise/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1rxktbu/thursday_daily_thread_python_careers_courses_and/)
-- [Thoughts and comments on AI generated code](https://www.reddit.com/r/Python/comments/1rxk2pi/thoughts_and_comments_on_ai_generated_code/)
-- [I built a professional local web testing framework with Python &amp; Cloudflare tunnels.](https://www.reddit.com/r/Python/comments/1rxjid5/i_built_a_professional_local_web_testing/)
-- [How to pass command line arguments to setup.py when the project is built with the pyptoject.toml ?](https://www.reddit.com/r/Python/comments/1rxiqan/how_to_pass_command_line_arguments_to_setuppy/)
+- [Custom Orchestrator For Locust Based Load-Plan Execution](https://www.reddit.com/r/Python/comments/1rzzxad/custom_orchestrator_for_locust_based_loadplan/)
+- [I&#39;m a solo entrepreneur who built a simple AI script to score my Hubspot CRM leads — open source](https://www.reddit.com/r/Python/comments/1rzylsm/im_a_solo_entrepreneur_who_built_a_simple_ai/)
+- [Showcase: AxonPulse VS - A Python Visual Scripter for AI &amp; Hardware](https://www.reddit.com/r/Python/comments/1rzy4sm/showcase_axonpulse_vs_a_python_visual_scripter/)
+- [Learning in Public CS of whole 4 years want feedback](https://www.reddit.com/r/Python/comments/1rzvrbo/learning_in_public_cs_of_whole_4_years_want/)
+- [Built a presentation orchestrator that fires n8n workflows live on cue — 3 full pipelines in the rep](https://www.reddit.com/r/Python/comments/1rzsxxc/built_a_presentation_orchestrator_that_fires_n8n/)
 <!-- BLOG-POST-LIST:END -->
