@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Orchestrator For Locust Based Load-Plan Execution](https://www.reddit.com/r/Python/comments/1rzzxad/custom_orchestrator_for_locust_based_loadplan/)
-- [I&#39;m a solo entrepreneur who built a simple AI script to score my Hubspot CRM leads — open source](https://www.reddit.com/r/Python/comments/1rzylsm/im_a_solo_entrepreneur_who_built_a_simple_ai/)
-- [Showcase: AxonPulse VS - A Python Visual Scripter for AI &amp; Hardware](https://www.reddit.com/r/Python/comments/1rzy4sm/showcase_axonpulse_vs_a_python_visual_scripter/)
-- [Learning in Public CS of whole 4 years want feedback](https://www.reddit.com/r/Python/comments/1rzvrbo/learning_in_public_cs_of_whole_4_years_want/)
-- [Built a presentation orchestrator that fires n8n workflows live on cue — 3 full pipelines in the rep](https://www.reddit.com/r/Python/comments/1rzsxxc/built_a_presentation_orchestrator_that_fires_n8n/)
+- [Show HN: Git Genie – A Python suite to automate GitHub Repo + ProjectV2 setup in one command.](https://www.reddit.com/r/Python/comments/1s090f0/show_hn_git_genie_a_python_suite_to_automate/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1s06sou/sunday_daily_thread_whats_everyone_working_on/)
+- [[Showcase] I wrote a Python script to extract and visualize real-time I2C sensor data &lpar;9-axis IMU...](https://www.reddit.com/r/Python/comments/1s04h8n/showcase_i_wrote_a_python_script_to_extract_and/)
+- [rsloop: An event loop for asyncio written in Rust](https://www.reddit.com/r/Python/comments/1s04g42/rsloop_an_event_loop_for_asyncio_written_in_rust/)
+- [PSA: onnx.hub.load&lpar;silent=True&rpar; suppresses ALL security warnings during model loading. CVE-2026-2850](https://www.reddit.com/r/Python/comments/1s02in4/psa_onnxhubloadsilenttrue_suppresses_all_security/)
 <!-- BLOG-POST-LIST:END -->
