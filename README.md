@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: Git Genie – A Python suite to automate GitHub Repo + ProjectV2 setup in one command.](https://www.reddit.com/r/Python/comments/1s090f0/show_hn_git_genie_a_python_suite_to_automate/)
+- [I built a terminal ASCII banner generator in Python — fonts, colors, and optional animation](https://www.reddit.com/r/Python/comments/1s0cl61/i_built_a_terminal_ascii_banner_generator_in/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1s06sou/sunday_daily_thread_whats_everyone_working_on/)
 - [[Showcase] I wrote a Python script to extract and visualize real-time I2C sensor data &lpar;9-axis IMU...](https://www.reddit.com/r/Python/comments/1s04h8n/showcase_i_wrote_a_python_script_to_extract_and/)
 - [rsloop: An event loop for asyncio written in Rust](https://www.reddit.com/r/Python/comments/1s04g42/rsloop_an_event_loop_for_asyncio_written_in_rust/)
