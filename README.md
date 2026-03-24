@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1s1y4kh/tuesday_daily_thread_advanced_questions/)
-- [Safely using claude code to fix PyPy test failures](https://www.reddit.com/r/Python/comments/1s1v9v5/safely_using_claude_code_to_fix_pypy_test_failures/)
-- [[Release] dynamic-des v0.1.1 - Make SimPy simulations dynamic and stream outputs in real-time](https://www.reddit.com/r/Python/comments/1s1tsky/release_dynamicdes_v011_make_simpy_simulations/)
-- [I Fixed python autocomplete](https://www.reddit.com/r/Python/comments/1s1plga/i_fixed_python_autocomplete/)
-- [CloudHop - GUI for cloud-to-cloud file transfers with pywebview](https://www.reddit.com/r/Python/comments/1s1n5rt/cloudhop_gui_for_cloudtocloud_file_transfers_with/)
+- [Python library and CLI for terminal user input &lpar;based on Textual&rpar;](https://www.reddit.com/r/Python/comments/1s2rbht/python_library_and_cli_for_terminal_user_input/)
+- [used ANTLR4 + Python to build a deterministic COBOL verification engine](https://www.reddit.com/r/Python/comments/1s2q1bx/used_antlr4_python_to_build_a_deterministic_cobol/)
+- [What is the best AI chatbot for Python?](https://www.reddit.com/r/Python/comments/1s2knyt/what_is_the_best_ai_chatbot_for_python/)
+- [Litellm 1.82.7 and 1.82.8 on PyPI are compromised, do not update!](https://www.reddit.com/r/Python/comments/1s2c1gy/litellm_1827_and_1828_on_pypi_are_compromised_do/)
+- [Designing a Python Language Server: Lessons from Pyre that Shaped Pyrefly](https://www.reddit.com/r/Python/comments/1s2bvrc/designing_a_python_language_server_lessons_from/)
 <!-- BLOG-POST-LIST:END -->
