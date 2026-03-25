@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [French Discord programming server](https://www.reddit.com/r/Python/comments/1s3bn51/french_discord_programming_server/)
-- [French Discord programming server](https://www.reddit.com/r/Python/comments/1s3blmt/french_discord_programming_server/)
-- [Improving Pydantic memory usage and performance using bitsets](https://www.reddit.com/r/Python/comments/1s39tt9/improving_pydantic_memory_usage_and_performance/)
-- [Spectra v0.4.0 – local finance dashboard from bank exports, now with one-command Docker setup](https://www.reddit.com/r/Python/comments/1s39csb/spectra_v040_local_finance_dashboard_from_bank/)
-- [I built a CLI that explains legacy code, reviews PRs, and generates OpenAPI specs using Claude AI](https://www.reddit.com/r/Python/comments/1s36c3o/i_built_a_cli_that_explains_legacy_code_reviews/)
+- [MLForge - A Visual Machine Learning Pipeline Editor](https://www.reddit.com/r/Python/comments/1s3k584/mlforge_a_visual_machine_learning_pipeline_editor/)
+- [Pyre: 220k req/s &lpar;M4 mini&rpar; Python web framework using Per-Interpreter GIL &lpar;PEP 684&rpar;](https://www.reddit.com/r/Python/comments/1s3jxep/pyre_220k_reqs_m4_mini_python_web_framework_using/)
+- [Open source respiration rate resources](https://www.reddit.com/r/Python/comments/1s3j008/open_source_respiration_rate_resources/)
+- [Grove — a CLI that manages git worktree workspaces across multiple repos](https://www.reddit.com/r/Python/comments/1s3id30/grove_a_cli_that_manages_git_worktree_workspaces/)
+- [Published Roleplay Bot 🤖 — a Role-Playing Chatbot Library in Python](https://www.reddit.com/r/Python/comments/1s3hadg/published_roleplay_bot_a_roleplaying_chatbot/)
 <!-- BLOG-POST-LIST:END -->
