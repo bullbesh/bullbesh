@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is GPU Python packaging still this broken?](https://www.reddit.com/r/Python/comments/1s3plzu/why_is_gpu_python_packaging_still_this_broken/)
 - [built a Python self-driving agent to autonomously play slowroads.io](https://www.reddit.com/r/Python/comments/1s3nver/built_a_python_selfdriving_agent_to_autonomously/)
 - [MLForge - A Visual Machine Learning Pipeline Editor](https://www.reddit.com/r/Python/comments/1s3k584/mlforge_a_visual_machine_learning_pipeline_editor/)
 - [Pyre: 220k req/s &lpar;M4 mini&rpar; Python web framework using Per-Interpreter GIL &lpar;PEP 684&rpar;](https://www.reddit.com/r/Python/comments/1s3jxep/pyre_220k_reqs_m4_mini_python_web_framework_using/)
 - [Open source respiration rate resources](https://www.reddit.com/r/Python/comments/1s3j008/open_source_respiration_rate_resources/)
-- [Grove — a CLI that manages git worktree workspaces across multiple repos](https://www.reddit.com/r/Python/comments/1s3id30/grove_a_cli_that_manages_git_worktree_workspaces/)
 <!-- BLOG-POST-LIST:END -->
