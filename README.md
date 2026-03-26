@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why is GPU Python packaging still this broken?](https://www.reddit.com/r/Python/comments/1s3plzu/why_is_gpu_python_packaging_still_this_broken/)
-- [built a Python self-driving agent to autonomously play slowroads.io](https://www.reddit.com/r/Python/comments/1s3nver/built_a_python_selfdriving_agent_to_autonomously/)
-- [MLForge - A Visual Machine Learning Pipeline Editor](https://www.reddit.com/r/Python/comments/1s3k584/mlforge_a_visual_machine_learning_pipeline_editor/)
-- [Pyre: 220k req/s &lpar;M4 mini&rpar; Python web framework using Per-Interpreter GIL &lpar;PEP 684&rpar;](https://www.reddit.com/r/Python/comments/1s3jxep/pyre_220k_reqs_m4_mini_python_web_framework_using/)
-- [Open source respiration rate resources](https://www.reddit.com/r/Python/comments/1s3j008/open_source_respiration_rate_resources/)
+- [LogXide - Rust-powered logging for Python, 12.5x faster than stdlib &lpar;FileHandler benchmark&rpar;](https://www.reddit.com/r/Python/comments/1s3xjj3/logxide_rustpowered_logging_for_python_125x/)
+- [Fully Functional Ternary Lattice Logic System: 6-Gem Tier 3 via Python!](https://www.reddit.com/r/Python/comments/1s3u90w/fully_functional_ternary_lattice_logic_system/)
+- [Polymarket-Whales](https://www.reddit.com/r/Python/comments/1s3tzr5/polymarketwhales/)
+- [Improved Python to EXE](https://www.reddit.com/r/Python/comments/1s3ry2w/improved_python_to_exe/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1s3rtwe/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
