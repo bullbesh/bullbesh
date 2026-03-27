@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Were you one of the 47,000 hacked by litellm?](https://www.reddit.com/r/Python/comments/1s49d0u/were_you_one_of_the_47000_hacked_by_litellm/)
-- [breathe-memory: context optimization for LLM apps — associative injection instead of RAG stuffing](https://www.reddit.com/r/Python/comments/1s47v44/breathememory_context_optimization_for_llm_apps/)
-- [TgVectorDB – A free, unlimited vector database that stores embeddings in your Telegram account](https://www.reddit.com/r/Python/comments/1s47oy9/tgvectordb_a_free_unlimited_vector_database_that/)
-- [Getting back into Python after focusing on PHP — what should I build next?](https://www.reddit.com/r/Python/comments/1s40j3y/getting_back_into_python_after_focusing_on_php/)
-- [LogXide - Rust-powered logging for Python, 12.5x faster than stdlib &lpar;FileHandler benchmark&rpar;](https://www.reddit.com/r/Python/comments/1s3xjj3/logxide_rustpowered_logging_for_python_125x/)
+- [We launched 2 weeks ago and already have 60 developers collaborating on projects](https://www.reddit.com/r/Python/comments/1s4yszs/we_launched_2_weeks_ago_and_already_have_60/)
+- [Token Enhancer: a local proxy that strips HTML noise before it hits your AI agent context](https://www.reddit.com/r/Python/comments/1s4x4aw/token_enhancer_a_local_proxy_that_strips_html/)
+- [How I started learning AI/ML without feeling lost](https://www.reddit.com/r/Python/comments/1s4w2so/how_i_started_learning_aiml_without_feeling_lost/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1s4oc8e/friday_daily_thread_rpython_meta_and_freetalk/)
+- [When to use __repr__&lpar;&rpar; and __str__&lpar;&rpar; Methods Effectively?](https://www.reddit.com/r/Python/comments/1s4iw7z/when_to_use_repr_and_str_methods_effectively/)
 <!-- BLOG-POST-LIST:END -->
