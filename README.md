@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Moira: a pure-Python astronomical engine using JPL DE441 + IAU 2000A/2006, with astrology layered on](https://www.reddit.com/r/Python/comments/1s5cxdv/moira_a_purepython_astronomical_engine_using_jpl/)
+- [The simplest way to build scalable data pipelines in Python &lpar;like 10k vCPU scale&rpar;](https://www.reddit.com/r/Python/comments/1s5cbvy/the_simplest_way_to_build_scalable_data_pipelines/)
+- [Two high-performance tools for volatility &amp; options research](https://www.reddit.com/r/Python/comments/1s5bxg3/two_highperformance_tools_for_volatility_options/)
 - [PySide6-OsmAnd-SDK: An Offline Map Integration Workspace for Qt6 / PySide6 Desktop Applications](https://www.reddit.com/r/Python/comments/1s58zz6/pyside6osmandsdk_an_offline_map_integration/)
 - [bottrace – headless CLI debugging controller for Python, built for LLM agents](https://www.reddit.com/r/Python/comments/1s55p74/bottrace_headless_cli_debugging_controller_for/)
-- [I added a feature to my AutoML library… for robots, not humans](https://www.reddit.com/r/Python/comments/1s55odx/i_added_a_feature_to_my_automl_library_for_robots/)
-- [How to make flask able to handle large number of io requests?](https://www.reddit.com/r/Python/comments/1s53kyz/how_to_make_flask_able_to_handle_large_number_of/)
-- [Built an asyncio pipeline that generates full-stack GitHub repos using 8 AI agents — lessons learned](https://www.reddit.com/r/Python/comments/1s50qgo/built_an_asyncio_pipeline_that_generates/)
 <!-- BLOG-POST-LIST:END -->
