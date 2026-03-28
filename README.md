@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Real Drosophila connectome &lpar;1,373 neurons&rpar; driving a MuJoCo physics body in Python](https://www.reddit.com/r/Python/comments/1s5o3b5/real_drosophila_connectome_1373_neurons_driving_a/)
+- [bottle-sipper: simple, zero-configuration command-line static HTTP server](https://www.reddit.com/r/Python/comments/1s5njk1/bottlesipper_simple_zeroconfiguration_commandline/)
+- [Cevahir AI - Built an end-to-end AI engine from scratch in 16 months](https://www.reddit.com/r/Python/comments/1s5ll4h/cevahir_ai_built_an_endtoend_ai_engine_from/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1s5l0ur/saturday_daily_thread_resource_request_and/)
 - [Mads Music app release](https://www.reddit.com/r/Python/comments/1s5itfu/mads_music_app_release/)
-- [The 8 year old issue on pth files.](https://www.reddit.com/r/Python/comments/1s5idoz/the_8_year_old_issue_on_pth_files/)
-- [Building your first ASGI framework - step-by-step lessons](https://www.reddit.com/r/Python/comments/1s5fhbu/building_your_first_asgi_framework_stepbystep/)
-- [Moira: a pure-Python astronomical engine using JPL DE441 + IAU 2000A/2006, with astrology layered on](https://www.reddit.com/r/Python/comments/1s5cxdv/moira_a_purepython_astronomical_engine_using_jpl/)
-- [The simplest way to build scalable data pipelines in Python &lpar;like 10k vCPU scale&rpar;](https://www.reddit.com/r/Python/comments/1s5cbvy/the_simplest_way_to_build_scalable_data_pipelines/)
 <!-- BLOG-POST-LIST:END -->
