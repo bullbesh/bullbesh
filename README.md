@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Python: Evolution or Succession — Brett Slatkin - PyCascades 2026](https://www.reddit.com/r/Python/comments/1s5r01l/the_future_of_python_evolution_or_succession/)
+- [Would someone be willing to sanity-check this? A simple formula system is matching particle and nucl](https://www.reddit.com/r/Python/comments/1s5puka/would_someone_be_willing_to_sanitycheck_this_a/)
 - [Real Drosophila connectome &lpar;1,373 neurons&rpar; driving a MuJoCo physics body in Python](https://www.reddit.com/r/Python/comments/1s5o3b5/real_drosophila_connectome_1373_neurons_driving_a/)
 - [bottle-sipper: simple, zero-configuration command-line static HTTP server](https://www.reddit.com/r/Python/comments/1s5njk1/bottlesipper_simple_zeroconfiguration_commandline/)
 - [Cevahir AI - Built an end-to-end AI engine from scratch in 16 months](https://www.reddit.com/r/Python/comments/1s5ll4h/cevahir_ai_built_an_endtoend_ai_engine_from/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1s5l0ur/saturday_daily_thread_resource_request_and/)
-- [Mads Music app release](https://www.reddit.com/r/Python/comments/1s5itfu/mads_music_app_release/)
 <!-- BLOG-POST-LIST:END -->
