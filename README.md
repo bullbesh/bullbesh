@@ -12,5 +12,5 @@
 - [Started automating internal transaction workflows with Python after 5 years of doing them manually](https://www.reddit.com/r/Python/comments/1s7kjt8/started_automating_internal_transaction_workflows/)
 - [Fun Python projects where you &quot;translate&quot; a problem into a totally different form?](https://www.reddit.com/r/Python/comments/1s7iiqb/fun_python_projects_where_you_translate_a_problem/)
 - [The amount of AI generated project showcases here are insane](https://www.reddit.com/r/Python/comments/1s7gw20/the_amount_of_ai_generated_project_showcases_here/)
-- [Libro Protocolo Cero](https://www.reddit.com/r/Python/comments/1s7f5j3/libro_protocolo_cero/)
+- [FreeWhisper - Cloud-grade dictation on macOS for free](https://www.reddit.com/r/Python/comments/1s7eenn/freewhisper_cloudgrade_dictation_on_macos_for_free/)
 <!-- BLOG-POST-LIST:END -->
