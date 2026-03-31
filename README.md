@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a Python CLI to automate ClusPro protein docking &lpar;batch submission, queue monitoring, result](https://www.reddit.com/r/Python/comments/1s8gwsu/i_built_a_python_cli_to_automate_cluspro_protein/)
-- [Any tool or Library for parsing research papers?](https://www.reddit.com/r/Python/comments/1s8g17q/any_tool_or_library_for_parsing_research_papers/)
-- [I tested my RNG against 125 years of earthquakes, financial crashes, and natural disasters. KS test:](https://www.reddit.com/r/Python/comments/1s8fwhk/i_tested_my_rng_against_125_years_of_earthquakes/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1s87odq/tuesday_daily_thread_advanced_questions/)
-- [[P] I rebuilt PyRadiomics in PyTorch to make it 25× faster — here&#39;s what it took](https://www.reddit.com/r/Python/comments/1s86g2q/p_i_rebuilt_pyradiomics_in_pytorch_to_make_it_25/)
+- [I like Karis CLI&#39;s &quot;atomic tools&quot; idea feels like the missing piece for Python automation](https://www.reddit.com/r/Python/comments/1s90z5u/i_like_karis_clis_atomic_tools_idea_feels_like/)
+- [Estimating ISS speed from images using Python &lpar;OpenCV, SIFT, FLANN&rpar;](https://www.reddit.com/r/Python/comments/1s8t3cy/estimating_iss_speed_from_images_using_python/)
+- [I built an open source Python framework for AI agents with a different architecture than Langchain](https://www.reddit.com/r/Python/comments/1s8rapc/i_built_an_open_source_python_framework_for_ai/)
+- [Mark lutz or Eric lutz?](https://www.reddit.com/r/Python/comments/1s8otza/mark_lutz_or_eric_lutz/)
+- [Dynantic - A Pydantic-v2 ORM for DynamoDB &lpar;because I was tired of duplicating models&rpar;](https://www.reddit.com/r/Python/comments/1s8o20u/dynantic_a_pydanticv2_orm_for_dynamodb_because_i/)
 <!-- BLOG-POST-LIST:END -->
