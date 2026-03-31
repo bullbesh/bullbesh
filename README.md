@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a dev blog! First deep dive: How Ruff and UV changed my mind about Python setups.](https://www.reddit.com/r/Python/comments/1s7lna7/i_built_a_dev_blog_first_deep_dive_how_ruff_and/)
-- [Started automating internal transaction workflows with Python after 5 years of doing them manually](https://www.reddit.com/r/Python/comments/1s7kjt8/started_automating_internal_transaction_workflows/)
-- [Fun Python projects where you &quot;translate&quot; a problem into a totally different form?](https://www.reddit.com/r/Python/comments/1s7iiqb/fun_python_projects_where_you_translate_a_problem/)
-- [The amount of AI generated project showcases here are insane](https://www.reddit.com/r/Python/comments/1s7gw20/the_amount_of_ai_generated_project_showcases_here/)
-- [FreeWhisper - Cloud-grade dictation on macOS for free](https://www.reddit.com/r/Python/comments/1s7eenn/freewhisper_cloudgrade_dictation_on_macos_for_free/)
+- [I built a Python CLI to automate ClusPro protein docking &lpar;batch submission, queue monitoring, result](https://www.reddit.com/r/Python/comments/1s8gwsu/i_built_a_python_cli_to_automate_cluspro_protein/)
+- [Any tool or Library for parsing research papers?](https://www.reddit.com/r/Python/comments/1s8g17q/any_tool_or_library_for_parsing_research_papers/)
+- [I tested my RNG against 125 years of earthquakes, financial crashes, and natural disasters. KS test:](https://www.reddit.com/r/Python/comments/1s8fwhk/i_tested_my_rng_against_125_years_of_earthquakes/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1s87odq/tuesday_daily_thread_advanced_questions/)
+- [[P] I rebuilt PyRadiomics in PyTorch to make it 25× faster — here&#39;s what it took](https://www.reddit.com/r/Python/comments/1s86g2q/p_i_rebuilt_pyradiomics_in_pytorch_to_make_it_25/)
 <!-- BLOG-POST-LIST:END -->
