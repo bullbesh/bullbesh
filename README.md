@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I like Karis CLI&#39;s &quot;atomic tools&quot; idea feels like the missing piece for Python automation](https://www.reddit.com/r/Python/comments/1s90z5u/i_like_karis_clis_atomic_tools_idea_feels_like/)
-- [Estimating ISS speed from images using Python &lpar;OpenCV, SIFT, FLANN&rpar;](https://www.reddit.com/r/Python/comments/1s8t3cy/estimating_iss_speed_from_images_using_python/)
-- [I built an open source Python framework for AI agents with a different architecture than Langchain](https://www.reddit.com/r/Python/comments/1s8rapc/i_built_an_open_source_python_framework_for_ai/)
-- [Mark lutz or Eric lutz?](https://www.reddit.com/r/Python/comments/1s8otza/mark_lutz_or_eric_lutz/)
-- [Dynantic - A Pydantic-v2 ORM for DynamoDB &lpar;because I was tired of duplicating models&rpar;](https://www.reddit.com/r/Python/comments/1s8o20u/dynantic_a_pydanticv2_orm_for_dynamodb_because_i/)
+- [How py-spy Became a Godsend When Phantom Tide&#39;s GeoJSON Path Ate the CPU](https://www.reddit.com/r/Python/comments/1s9xk9j/how_pyspy_became_a_godsend_when_phantom_tides/)
+- [I started my Intro to Python class and made a game to learn the language instead of using the book](https://www.reddit.com/r/Python/comments/1s9tfkg/i_started_my_intro_to_python_class_and_made_a/)
+- [Cutting Python Web App Memory Over 31%](https://www.reddit.com/r/Python/comments/1s9qtic/cutting_python_web_app_memory_over_31/)
+- [I built a program that lets you control your PC with hand gestures](https://www.reddit.com/r/Python/comments/1s9pgpr/i_built_a_program_that_lets_you_control_your_pc/)
+- [Best Python framework for industry-level desktop app? &lpar;PySide/PyQt/wxPython/Kivy/Web approacg&rpar;](https://www.reddit.com/r/Python/comments/1s9oh61/best_python_framework_for_industrylevel_desktop/)
 <!-- BLOG-POST-LIST:END -->
