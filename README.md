@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built an open-source Python package that scans LLM inputs and outputs for injections — pydefend](https://www.reddit.com/r/Python/comments/1sab1dh/i_built_an_opensource_python_package_that_scans/)
+- [Starting point for python](https://www.reddit.com/r/Python/comments/1sa7db0/starting_point_for_python/)
 - [Stanford CS 25 Transformers Course &lpar;OPEN TO ALL | Starts Tomorrow&rpar;](https://www.reddit.com/r/Python/comments/1sa3jjr/stanford_cs_25_transformers_course_open_to_all/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1sa1qcz/thursday_daily_thread_python_careers_courses_and/)
 - [We reimplemented Claude Code entirely in Python — open source, works with local models](https://www.reddit.com/r/Python/comments/1sa0fg6/we_reimplemented_claude_code_entirely_in_python/)
-- [How py-spy Became a Godsend When Phantom Tide&#39;s GeoJSON Path Ate the CPU](https://www.reddit.com/r/Python/comments/1s9xk9j/how_pyspy_became_a_godsend_when_phantom_tides/)
-- [I started my Intro to Python class and made a game to learn the language instead of using the book](https://www.reddit.com/r/Python/comments/1s9tfkg/i_started_my_intro_to_python_class_and_made_a/)
 <!-- BLOG-POST-LIST:END -->
