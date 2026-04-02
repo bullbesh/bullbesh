@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a component-based NiceGUI template for Python web apps](https://www.reddit.com/r/Python/comments/1safi31/i_built_a_componentbased_nicegui_template_for/)
-- [KillPy: A CLI tool to find and clean Python environments across venv, Poetry, pipx, etc.](https://www.reddit.com/r/Python/comments/1safd3s/killpy_a_cli_tool_to_find_and_clean_python/)
-- [Python scraper for housing.com](https://www.reddit.com/r/Python/comments/1saf8fh/python_scraper_for_housingcom/)
-- [Niquests 3.18 — 3 Years of Innovations in HTTP](https://www.reddit.com/r/Python/comments/1sackyi/niquests_318_3_years_of_innovations_in_http/)
-- [I built an open-source Python package that scans LLM inputs and outputs for injections — pydefend](https://www.reddit.com/r/Python/comments/1sab1dh/i_built_an_opensource_python_package_that_scans/)
+- [What Is Reference Count and Why It&#39;s Related To Memory Space?](https://www.reddit.com/r/Python/comments/1samerb/what_is_reference_count_and_why_its_related_to/)
+- [I created a generalist clustering algorithm that handles arbitrary data fairly well](https://www.reddit.com/r/Python/comments/1saljqa/i_created_a_generalist_clustering_algorithm_that/)
+- [I have built InstagramPostScrapper – Python + Selenium/Edge scraper with human-like behavior to avoi](https://www.reddit.com/r/Python/comments/1sal5j2/i_have_built_instagrampostscrapper_python/)
+- [Everything Claude Saw: full access logs and similarity data from the chardet v7 rewrite](https://www.reddit.com/r/Python/comments/1sak3na/everything_claude_saw_full_access_logs_and/)
+- [Is match ... case In Python Reliable as if .. elif .. else](https://www.reddit.com/r/Python/comments/1sajd5i/is_match_case_in_python_reliable_as_if_elif_else/)
 <!-- BLOG-POST-LIST:END -->
