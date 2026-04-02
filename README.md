@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stanford CS 25 Transformers Course &lpar;OPEN TO ALL | Starts Tomorrow&rpar;](https://www.reddit.com/r/Python/comments/1sa3jjr/stanford_cs_25_transformers_course_open_to_all/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1sa1qcz/thursday_daily_thread_python_careers_courses_and/)
+- [We reimplemented Claude Code entirely in Python — open source, works with local models](https://www.reddit.com/r/Python/comments/1sa0fg6/we_reimplemented_claude_code_entirely_in_python/)
 - [How py-spy Became a Godsend When Phantom Tide&#39;s GeoJSON Path Ate the CPU](https://www.reddit.com/r/Python/comments/1s9xk9j/how_pyspy_became_a_godsend_when_phantom_tides/)
 - [I started my Intro to Python class and made a game to learn the language instead of using the book](https://www.reddit.com/r/Python/comments/1s9tfkg/i_started_my_intro_to_python_class_and_made_a/)
-- [Cutting Python Web App Memory Over 31%](https://www.reddit.com/r/Python/comments/1s9qtic/cutting_python_web_app_memory_over_31/)
-- [I built a program that lets you control your PC with hand gestures](https://www.reddit.com/r/Python/comments/1s9pgpr/i_built_a_program_that_lets_you_control_your_pc/)
-- [Best Python framework for industry-level desktop app? &lpar;PySide/PyQt/wxPython/Kivy/Web approacg&rpar;](https://www.reddit.com/r/Python/comments/1s9oh61/best_python_framework_for_industrylevel_desktop/)
 <!-- BLOG-POST-LIST:END -->
