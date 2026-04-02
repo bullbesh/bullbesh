@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a component-based NiceGUI template for Python web apps](https://www.reddit.com/r/Python/comments/1safi31/i_built_a_componentbased_nicegui_template_for/)
+- [KillPy: A CLI tool to find and clean Python environments across venv, Poetry, pipx, etc.](https://www.reddit.com/r/Python/comments/1safd3s/killpy_a_cli_tool_to_find_and_clean_python/)
+- [Python scraper for housing.com](https://www.reddit.com/r/Python/comments/1saf8fh/python_scraper_for_housingcom/)
+- [Niquests 3.18 — 3 Years of Innovations in HTTP](https://www.reddit.com/r/Python/comments/1sackyi/niquests_318_3_years_of_innovations_in_http/)
 - [I built an open-source Python package that scans LLM inputs and outputs for injections — pydefend](https://www.reddit.com/r/Python/comments/1sab1dh/i_built_an_opensource_python_package_that_scans/)
-- [Starting point for python](https://www.reddit.com/r/Python/comments/1sa7db0/starting_point_for_python/)
-- [Stanford CS 25 Transformers Course &lpar;OPEN TO ALL | Starts Tomorrow&rpar;](https://www.reddit.com/r/Python/comments/1sa3jjr/stanford_cs_25_transformers_course_open_to_all/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1sa1qcz/thursday_daily_thread_python_careers_courses_and/)
-- [We reimplemented Claude Code entirely in Python — open source, works with local models](https://www.reddit.com/r/Python/comments/1sa0fg6/we_reimplemented_claude_code_entirely_in_python/)
 <!-- BLOG-POST-LIST:END -->
