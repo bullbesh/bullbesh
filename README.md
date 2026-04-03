@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is Reference Count and Why It&#39;s Related To Memory Space?](https://www.reddit.com/r/Python/comments/1samerb/what_is_reference_count_and_why_its_related_to/)
-- [I created a generalist clustering algorithm that handles arbitrary data fairly well](https://www.reddit.com/r/Python/comments/1saljqa/i_created_a_generalist_clustering_algorithm_that/)
-- [I have built InstagramPostScrapper – Python + Selenium/Edge scraper with human-like behavior to avoi](https://www.reddit.com/r/Python/comments/1sal5j2/i_have_built_instagrampostscrapper_python/)
-- [Everything Claude Saw: full access logs and similarity data from the chardet v7 rewrite](https://www.reddit.com/r/Python/comments/1sak3na/everything_claude_saw_full_access_logs_and/)
-- [Is match ... case In Python Reliable as if .. elif .. else](https://www.reddit.com/r/Python/comments/1sajd5i/is_match_case_in_python_reliable_as_if_elif_else/)
+- [Multi-LSP support for Python in Emacs with eglot-python-preset](https://www.reddit.com/r/Python/comments/1sb1n21/multilsp_support_for_python_in_emacs_with/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1say0s1/friday_daily_thread_rpython_meta_and_freetalk/)
+- [OTRv4+ – full OTRv4 with post‑quantum crypto &lpar;ML‑KEM/ML‑DSA&rpar; in a single‑file Python](https://www.reddit.com/r/Python/comments/1saxdy4/otrv4_full_otrv4_with_postquantum_crypto/)
+- [Built my first open-source tool — AutoEDA, automated dataset analysis in one command](https://www.reddit.com/r/Python/comments/1sauyiy/built_my_first_opensource_tool_autoeda_automated/)
+- [Flask + Gunicorn: what&#39;s the way to monitor active and queued requests?](https://www.reddit.com/r/Python/comments/1sasy6z/flask_gunicorn_whats_the_way_to_monitor_active/)
 <!-- BLOG-POST-LIST:END -->
