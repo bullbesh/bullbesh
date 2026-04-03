@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for sanity check. I built an open-source AI citation auditor.](https://www.reddit.com/r/Python/comments/1sbiqbm/looking_for_sanity_check_i_built_an_opensource_ai/)
+- [Looking for feedback: lightweight Python library for ML model diagnostics](https://www.reddit.com/r/Python/comments/1sbk7er/looking_for_feedback_lightweight_python_library/)
 - [gridoptim: a Python grid search optimizer ~429× faster than scipy.brute](https://www.reddit.com/r/Python/comments/1sbh0w2/gridoptim_a_python_grid_search_optimizer_429/)
 - [Fake steam gambling website](https://www.reddit.com/r/Python/comments/1sbgcr0/fake_steam_gambling_website/)
 - [Tkinter on Android?](https://www.reddit.com/r/Python/comments/1sbfoa7/tkinter_on_android/)
