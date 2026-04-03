@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [“CoryFlow – a lightweight RSS ticker for Linux &lpar;PySide6&rpar;”](https://www.reddit.com/r/Python/comments/1sbqfy6/coryflow_a_lightweight_rss_ticker_for_linux/)
+- [[Update] I just updated my first ever Python library on PyPI....](https://www.reddit.com/r/Python/comments/1sbovy4/update_i_just_updated_my_first_ever_python/)
 - [Listas e dicionários](https://www.reddit.com/r/Python/comments/1sblqsa/listas_e_dicionários/)
 - [I built an open-source tool that query SQL databases in plain English using a local LLM.](https://www.reddit.com/r/Python/comments/1sbksu9/i_built_an_opensource_tool_that_query_sql/)
 - [Built a Python “semantic memory DB” with SQLite + compressed embeddings &lpar;TurboMemory&rpar;](https://www.reddit.com/r/Python/comments/1sbkqkh/built_a_python_semantic_memory_db_with_sqlite/)
-- [I open-sourced a Python desktop app, CLI, and SDK for BLE-enabled Fluke meters](https://www.reddit.com/r/Python/comments/1sbkowz/i_opensourced_a_python_desktop_app_cli_and_sdk/)
-- [2 New Discord Based Projects: RSS to Discord Webhook](https://www.reddit.com/r/Python/comments/1sbkfd2/2_new_discord_based_projects_rss_to_discord/)
 <!-- BLOG-POST-LIST:END -->
