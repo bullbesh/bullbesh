@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Looking for feedback: lightweight Python library for ML model diagnostics](https://www.reddit.com/r/Python/comments/1sbk7er/looking_for_feedback_lightweight_python_library/)
-- [gridoptim: a Python grid search optimizer ~429× faster than scipy.brute](https://www.reddit.com/r/Python/comments/1sbh0w2/gridoptim_a_python_grid_search_optimizer_429/)
-- [Fake steam gambling website](https://www.reddit.com/r/Python/comments/1sbgcr0/fake_steam_gambling_website/)
-- [Tkinter on Android?](https://www.reddit.com/r/Python/comments/1sbfoa7/tkinter_on_android/)
-- [`safer`: a tiny utility to avoid partial writes to files and streams](https://www.reddit.com/r/Python/comments/1sbfk0p/safer_a_tiny_utility_to_avoid_partial_writes_to/)
+- [Listas e dicionários](https://www.reddit.com/r/Python/comments/1sblqsa/listas_e_dicionários/)
+- [I built an open-source tool that query SQL databases in plain English using a local LLM.](https://www.reddit.com/r/Python/comments/1sbksu9/i_built_an_opensource_tool_that_query_sql/)
+- [Built a Python “semantic memory DB” with SQLite + compressed embeddings &lpar;TurboMemory&rpar;](https://www.reddit.com/r/Python/comments/1sbkqkh/built_a_python_semantic_memory_db_with_sqlite/)
+- [I open-sourced a Python desktop app, CLI, and SDK for BLE-enabled Fluke meters](https://www.reddit.com/r/Python/comments/1sbkowz/i_opensourced_a_python_desktop_app_cli_and_sdk/)
+- [2 New Discord Based Projects: RSS to Discord Webhook](https://www.reddit.com/r/Python/comments/1sbkfd2/2_new_discord_based_projects_rss_to_discord/)
 <!-- BLOG-POST-LIST:END -->
