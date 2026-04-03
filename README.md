@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [VectraSDK v1.0.0 is out – open-source RAG framework, now stable &lpar;Python + JS&rpar;](https://www.reddit.com/r/Python/comments/1sb75jh/vectrasdk_v100_is_out_opensource_rag_framework/)
-- [I built a civic transparency platform with FastAPI that aggregates 40+ government APIs](https://www.reddit.com/r/Python/comments/1sb6vly/i_built_a_civic_transparency_platform_with/)
-- [7 months ago, you guys gave me feedback on my SQLite wrapper. 374 commits later, it&#39;s a real NoSQL e](https://www.reddit.com/r/Python/comments/1sb4th4/7_months_ago_you_guys_gave_me_feedback_on_my/)
-- [Janus / Tachyon-RS - A git-like state tracker for python objects with a Rust backend](https://www.reddit.com/r/Python/comments/1sb3t9l/janus_tachyonrs_a_gitlike_state_tracker_for/)
-- [Power Query Alternative Excel Adddon](https://www.reddit.com/r/Python/comments/1sb200g/power_query_alternative_excel_adddon/)
+- [Looking for sanity check. I built an open-source AI citation auditor.](https://www.reddit.com/r/Python/comments/1sbiqbm/looking_for_sanity_check_i_built_an_opensource_ai/)
+- [gridoptim: a Python grid search optimizer ~429× faster than scipy.brute](https://www.reddit.com/r/Python/comments/1sbh0w2/gridoptim_a_python_grid_search_optimizer_429/)
+- [Fake steam gambling website](https://www.reddit.com/r/Python/comments/1sbgcr0/fake_steam_gambling_website/)
+- [Tkinter on Android?](https://www.reddit.com/r/Python/comments/1sbfoa7/tkinter_on_android/)
+- [`safer`: a tiny utility to avoid partial writes to files and streams](https://www.reddit.com/r/Python/comments/1sbfk0p/safer_a_tiny_utility_to_avoid_partial_writes_to/)
 <!-- BLOG-POST-LIST:END -->
