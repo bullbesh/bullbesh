@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1sbu1et/saturday_daily_thread_resource_request_and/)
+- [CÓMO PUEDO GANAR EXPERIENCIA](https://www.reddit.com/r/Python/comments/1sbtq4h/cómo_puedo_ganar_experiencia/)
+- [PyPI stats 2026 from the piwheels team](https://www.reddit.com/r/Python/comments/1sbtj5s/pypi_stats_2026_from_the_piwheels_team/)
 - [“CoryFlow – a lightweight RSS ticker for Linux &lpar;PySide6&rpar;”](https://www.reddit.com/r/Python/comments/1sbqfy6/coryflow_a_lightweight_rss_ticker_for_linux/)
 - [[Update] I just updated my first ever Python library on PyPI....](https://www.reddit.com/r/Python/comments/1sbovy4/update_i_just_updated_my_first_ever_python/)
-- [Listas e dicionários](https://www.reddit.com/r/Python/comments/1sblqsa/listas_e_dicionários/)
-- [I built an open-source tool that query SQL databases in plain English using a local LLM.](https://www.reddit.com/r/Python/comments/1sbksu9/i_built_an_opensource_tool_that_query_sql/)
-- [Built a Python “semantic memory DB” with SQLite + compressed embeddings &lpar;TurboMemory&rpar;](https://www.reddit.com/r/Python/comments/1sbkqkh/built_a_python_semantic_memory_db_with_sqlite/)
 <!-- BLOG-POST-LIST:END -->
