@@ -12,5 +12,5 @@
 - [Built a Nepali calendar computation engine in Python, turns out there&#39;s no formula for it](https://www.reddit.com/r/Python/comments/1sc34oc/built_a_nepali_calendar_computation_engine_in/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1sbu1et/saturday_daily_thread_resource_request_and/)
 - [PyPI stats 2026 from the piwheels team](https://www.reddit.com/r/Python/comments/1sbtj5s/pypi_stats_2026_from_the_piwheels_team/)
-- [Looking for feedback: lightweight Python library for ML model diagnostics](https://www.reddit.com/r/Python/comments/1sbk7er/looking_for_feedback_lightweight_python_library/)
+- [`safer`: a tiny utility to avoid partial writes to files and streams](https://www.reddit.com/r/Python/comments/1sbfk0p/safer_a_tiny_utility_to_avoid_partial_writes_to/)
 <!-- BLOG-POST-LIST:END -->
