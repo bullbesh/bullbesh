@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Improved markdown quality, code intelligence for 248 languages, and more in Kreuzberg v4.7.0](https://www.reddit.com/r/Python/comments/1scvedm/improved_markdown_quality_code_intelligence_for/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1scorgg/sunday_daily_thread_whats_everyone_working_on/)
 - [Showcase Thread](https://www.reddit.com/r/Python/comments/1scd2pn/showcase_thread/)
 - [Built a Nepali calendar computation engine in Python, turns out there&#39;s no formula for it](https://www.reddit.com/r/Python/comments/1sc34oc/built_a_nepali_calendar_computation_engine_in/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1sbu1et/saturday_daily_thread_resource_request_and/)
-- [PyPI stats 2026 from the piwheels team](https://www.reddit.com/r/Python/comments/1sbtj5s/pypi_stats_2026_from_the_piwheels_team/)
-- [`safer`: a tiny utility to avoid partial writes to files and streams](https://www.reddit.com/r/Python/comments/1sbfk0p/safer_a_tiny_utility_to_avoid_partial_writes_to/)
 <!-- BLOG-POST-LIST:END -->
