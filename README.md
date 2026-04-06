@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Built a Python CLI tool for multi-source research paper search](https://www.reddit.com/r/Python/comments/1sdstfn/built_a_python_cli_tool_for_multisource_research/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1sdj7x4/monday_daily_thread_project_ideas/)
 - [Python open source projects to contribute](https://www.reddit.com/r/Python/comments/1sdan8c/python_open_source_projects_to_contribute/)
 - [Are there any Python packages that still require numpy-1.x now, in April 2026 ?](https://www.reddit.com/r/Python/comments/1sd7dqj/are_there_any_python_packages_that_still_require/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1scorgg/sunday_daily_thread_whats_everyone_working_on/)
-- [Showcase Thread](https://www.reddit.com/r/Python/comments/1scd2pn/showcase_thread/)
-- [Built a Nepali calendar computation engine in Python, turns out there&#39;s no formula for it](https://www.reddit.com/r/Python/comments/1sc34oc/built_a_nepali_calendar_computation_engine_in/)
 <!-- BLOG-POST-LIST:END -->
