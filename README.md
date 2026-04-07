@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I built an async Python SDK for Rapyd payments because the official one looks like it&#39;s abandoned](https://www.reddit.com/r/Python/comments/1se7evc/i_built_an_async_python_sdk_for_rapyd_payments/)
-- [I wrote a comprehensive guide to NATS — the messaging system that replaces Kafka, Redis, and RabbitM](https://www.reddit.com/r/Python/comments/1se5bxo/i_wrote_a_comprehensive_guide_to_nats_the/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1sdj7x4/monday_daily_thread_project_ideas/)
-- [Python open source projects to contribute](https://www.reddit.com/r/Python/comments/1sdan8c/python_open_source_projects_to_contribute/)
-- [Are there any Python packages that still require numpy-1.x now, in April 2026 ?](https://www.reddit.com/r/Python/comments/1sd7dqj/are_there_any_python_packages_that_still_require/)
+- [Using JAX and Scikit-Learn to build Gradient Boosting Spline and other Parameter-dependent Models](https://www.reddit.com/r/Python/comments/1sevx2j/using_jax_and_scikitlearn_to_build_gradient/)
+- [Introducing Scythe: An SQL Compiler and Linter in Rust, with Codegen support for 10 languages](https://www.reddit.com/r/Python/comments/1seunjg/introducing_scythe_an_sql_compiler_and_linter_in/)
+- [Blog: Choosing a Type Checker for Positron &lpar;Python/R Data Science IDE&rpar;](https://www.reddit.com/r/Python/comments/1seum79/blog_choosing_a_type_checker_for_positron_pythonr/)
+- [Blog: Supporting Notebooks in a Python Language Server](https://www.reddit.com/r/Python/comments/1seubci/blog_supporting_notebooks_in_a_python_language/)
+- [Any Python library for LLM conversation storage + summarization &lpar;not memory/agent systems&rpar;?](https://www.reddit.com/r/Python/comments/1sessap/any_python_library_for_llm_conversation_storage/)
 <!-- BLOG-POST-LIST:END -->
