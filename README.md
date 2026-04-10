@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [asyncio to_thread and cancellation](https://www.reddit.com/r/Python/comments/1shcwwd/asyncio_to_thread_and_cancellation/)
+- [What constitutes AI slop? Discussion thread](https://www.reddit.com/r/Python/comments/1shhyfp/what_constitutes_ai_slop_discussion_thread/)
+- [Open source DP repo: clean Python solutions paired with full written explanations.](https://www.reddit.com/r/Python/comments/1shgyme/open_source_dp_repo_clean_python_solutions_paired/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1sh6n2i/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Tutorial: How to build a simple Python text-to-SQL agent that can automatically recover from bad SQL](https://www.reddit.com/r/Python/comments/1sgq83w/tutorial_how_to_build_a_simple_python_texttosql/)
 - [FastAPI vs Djanjo](https://www.reddit.com/r/Python/comments/1sgm12t/fastapi_vs_djanjo/)
-- [Ideas for Scientific/Statistics Python Library](https://www.reddit.com/r/Python/comments/1sf0yxk/ideas_for_scientificstatistics_python_library/)
 <!-- BLOG-POST-LIST:END -->
