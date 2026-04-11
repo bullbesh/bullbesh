@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pure Python library for drawing IEC 60617 electrical schematics &lpar;not electronics&rpar;](https://www.reddit.com/r/Python/comments/1sibokv/pure_python_library_for_drawing_iec_60617/)
+- [AI - Generated Code](https://www.reddit.com/r/Python/comments/1si5kv7/ai_generated_code/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1si3h2j/saturday_daily_thread_resource_request_and/)
+- [Tutorial: Decentralized AI in 50 Lines of Python](https://www.reddit.com/r/Python/comments/1shxf8v/tutorial_decentralized_ai_in_50_lines_of_python/)
 - [What constitutes AI slop? Discussion thread](https://www.reddit.com/r/Python/comments/1shhyfp/what_constitutes_ai_slop_discussion_thread/)
-- [Open source DP repo: clean Python solutions paired with full written explanations.](https://www.reddit.com/r/Python/comments/1shgyme/open_source_dp_repo_clean_python_solutions_paired/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1sh6n2i/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Tutorial: How to build a simple Python text-to-SQL agent that can automatically recover from bad SQL](https://www.reddit.com/r/Python/comments/1sgq83w/tutorial_how_to_build_a_simple_python_texttosql/)
-- [FastAPI vs Djanjo](https://www.reddit.com/r/Python/comments/1sgm12t/fastapi_vs_djanjo/)
 <!-- BLOG-POST-LIST:END -->
