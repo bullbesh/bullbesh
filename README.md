@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting a job after certificates](https://www.reddit.com/r/Python/comments/1sirev1/getting_a_job_after_certificates/)
+- [Vale a pena começar a estudar Python ?](https://www.reddit.com/r/Python/comments/1siobfm/vale_a_pena_começar_a_estudar_python/)
 - [Pure Python library for drawing IEC 60617 electrical schematics &lpar;not electronics&rpar;](https://www.reddit.com/r/Python/comments/1sibokv/pure_python_library_for_drawing_iec_60617/)
 - [AI - Generated Code](https://www.reddit.com/r/Python/comments/1si5kv7/ai_generated_code/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1si3h2j/saturday_daily_thread_resource_request_and/)
-- [Tutorial: Decentralized AI in 50 Lines of Python](https://www.reddit.com/r/Python/comments/1shxf8v/tutorial_decentralized_ai_in_50_lines_of_python/)
-- [What constitutes AI slop? Discussion thread](https://www.reddit.com/r/Python/comments/1shhyfp/what_constitutes_ai_slop_discussion_thread/)
 <!-- BLOG-POST-LIST:END -->
