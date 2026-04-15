@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Need Advice: Hosting Python script Full-time](https://www.reddit.com/r/Python/comments/1sm8gb9/need_advice_hosting_python_script_fulltime/)
 - [Taming the AI code generation &lpar;somewhat&rpar;](https://www.reddit.com/r/Python/comments/1sm02s1/taming_the_ai_code_generation_somewhat/)
 - [What if we hade slicing unpacking for tuples](https://www.reddit.com/r/Python/comments/1slqqn4/what_if_we_hade_slicing_unpacking_for_tuples/)
 - [PEP 831 – Frame Pointers Everywhere: Enabling System-Level Observability for Python](https://www.reddit.com/r/Python/comments/1slli7z/pep_831_frame_pointers_everywhere_enabling/)
 - [What’s a low memory way to run a Python http endpoint?](https://www.reddit.com/r/Python/comments/1slbp28/whats_a_low_memory_way_to_run_a_python_http/)
-- [Reviews about pyinstaller](https://www.reddit.com/r/Python/comments/1sl3g4u/reviews_about_pyinstaller/)
 <!-- BLOG-POST-LIST:END -->
