@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1siz0zm/sunday_daily_thread_whats_everyone_working_on/)
-- [Getting a job after certificates](https://www.reddit.com/r/Python/comments/1sirev1/getting_a_job_after_certificates/)
-- [Vale a pena começar a estudar Python ?](https://www.reddit.com/r/Python/comments/1siobfm/vale_a_pena_começar_a_estudar_python/)
-- [Pure Python library for drawing IEC 60617 electrical schematics &lpar;not electronics&rpar;](https://www.reddit.com/r/Python/comments/1sibokv/pure_python_library_for_drawing_iec_60617/)
-- [AI - Generated Code](https://www.reddit.com/r/Python/comments/1si5kv7/ai_generated_code/)
+- [Taming the AI code generation &lpar;somewhat&rpar;](https://www.reddit.com/r/Python/comments/1sm02s1/taming_the_ai_code_generation_somewhat/)
+- [What if we hade slicing unpacking for tuples](https://www.reddit.com/r/Python/comments/1slqqn4/what_if_we_hade_slicing_unpacking_for_tuples/)
+- [PEP 831 – Frame Pointers Everywhere: Enabling System-Level Observability for Python](https://www.reddit.com/r/Python/comments/1slli7z/pep_831_frame_pointers_everywhere_enabling/)
+- [What’s a low memory way to run a Python http endpoint?](https://www.reddit.com/r/Python/comments/1slbp28/whats_a_low_memory_way_to_run_a_python_http/)
+- [Reviews about pyinstaller](https://www.reddit.com/r/Python/comments/1sl3g4u/reviews_about_pyinstaller/)
 <!-- BLOG-POST-LIST:END -->
