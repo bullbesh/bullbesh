@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a typed superset of Python that compiles to standard .py — would you use it?](https://www.reddit.com/r/Python/comments/1smemv4/i_built_a_typed_superset_of_python_that_compiles/)
+- [Agent-written tests missed 37% of injected bugs. Mutation-aware prompting dropped that to 13%.](https://www.reddit.com/r/Python/comments/1sma2ch/agentwritten_tests_missed_37_of_injected_bugs/)
+- [Managing invoices from multiple email accounts without losing files](https://www.reddit.com/r/Python/comments/1sma0ky/managing_invoices_from_multiple_email_accounts/)
 - [Need Advice: Hosting Python script Full-time](https://www.reddit.com/r/Python/comments/1sm8gb9/need_advice_hosting_python_script_fulltime/)
-- [Taming the AI code generation &lpar;somewhat&rpar;](https://www.reddit.com/r/Python/comments/1sm02s1/taming_the_ai_code_generation_somewhat/)
 - [What if we hade slicing unpacking for tuples](https://www.reddit.com/r/Python/comments/1slqqn4/what_if_we_hade_slicing_unpacking_for_tuples/)
-- [PEP 831 – Frame Pointers Everywhere: Enabling System-Level Observability for Python](https://www.reddit.com/r/Python/comments/1slli7z/pep_831_frame_pointers_everywhere_enabling/)
-- [What’s a low memory way to run a Python http endpoint?](https://www.reddit.com/r/Python/comments/1slbp28/whats_a_low_memory_way_to_run_a_python_http/)
 <!-- BLOG-POST-LIST:END -->
