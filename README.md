@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Designing an in-app WAF for Python &lpar;Django/Flask/FastAPI&rpar; — feedback on approach](https://www.reddit.com/r/Python/comments/1sowf8k/designing_an_inapp_waf_for_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1sohwt6/saturday_daily_thread_resource_request_and/)
 - [Live code reloading](https://www.reddit.com/r/Python/comments/1sogvkj/live_code_reloading/)
 - [Does AI change what actually matters about Jupyter notebooks?](https://www.reddit.com/r/Python/comments/1snwubm/does_ai_change_what_actually_matters_about/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1snkrup/friday_daily_thread_rpython_meta_and_freetalk/)
-- [PyTexas 2026 is this weekend &lpar;Apr 18th-19th&rpar; at Austin&#39;s beautiful central library.](https://www.reddit.com/r/Python/comments/1sneqww/pytexas_2026_is_this_weekend_apr_18th19th_at/)
 <!-- BLOG-POST-LIST:END -->
