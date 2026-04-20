@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1sq99nz/monday_daily_thread_project_ideas/)
 - [Why doesn’t Python have true private variables like Java?](https://www.reddit.com/r/Python/comments/1sq73fk/why_doesnt_python_have_true_private_variables/)
 - [Building a Python Library in 2026](https://www.reddit.com/r/Python/comments/1spt2kb/building_a_python_library_in_2026/)
 - [Question about posting rules &lpar;showcases&rpar;](https://www.reddit.com/r/Python/comments/1sprylo/question_about_posting_rules_showcases/)
 - [Got a job offer as Odoo ERP Python Developer but my passion is Cybersecurity — should I take it?](https://www.reddit.com/r/Python/comments/1splp7r/got_a_job_offer_as_odoo_erp_python_developer_but/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1spdhgt/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
