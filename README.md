@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a web game](https://www.reddit.com/r/Python/comments/1srfaqg/building_a_web_game/)
-- [My first two hours in python](https://www.reddit.com/r/Python/comments/1sr7ul8/my_first_two_hours_in_python/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1sr7fke/tuesday_daily_thread_advanced_questions/)
-- [Why We Rewrote Bub](https://www.reddit.com/r/Python/comments/1sqy2h5/why_we_rewrote_bub/)
-- [100 Prisoners Problem &lpar;unlabelled-box variant&rpar; — a recursive approach](https://www.reddit.com/r/Python/comments/1sqvlzg/100_prisoners_problem_unlabelledbox_variant_a/)
+- [I&#39;ve rewritten my core engine 20+ times over 2 years, And I know it&#39;s only the beginning.](https://www.reddit.com/r/Python/comments/1sskuyv/ive_rewritten_my_core_engine_20_times_over_2/)
+- [Saw this on eBay while browsing—anyone collect Python swag?](https://www.reddit.com/r/Python/comments/1ssbq74/saw_this_on_ebay_while_browsinganyone_collect/)
+- [When Your Bug Report Gets a &#39;Lol&#39; Response: A Python Debugging Saga](https://www.reddit.com/r/Python/comments/1ss3gff/when_your_bug_report_gets_a_lol_response_a_python/)
+- [SQLalchemy vs Psycopg3](https://www.reddit.com/r/Python/comments/1ss23d4/sqlalchemy_vs_psycopg3/)
+- [Async routes in FastAPI - how to prevent blocking?](https://www.reddit.com/r/Python/comments/1srm2up/async_routes_in_fastapi_how_to_prevent_blocking/)
 <!-- BLOG-POST-LIST:END -->
