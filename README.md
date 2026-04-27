@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [pip 26.1: experimental support for installing lockfiles + dependency cooldowns!](https://www.reddit.com/r/Python/comments/1sxjntb/pip_261_experimental_support_for_installing/)
+- [Using pre-commit as a polyglot task runner: elegant or kludgy?](https://www.reddit.com/r/Python/comments/1sxezgm/using_precommit_as_a_polyglot_task_runner_elegant/)
+- [Why do Python packages get downloads but little GitHub engagement?](https://www.reddit.com/r/Python/comments/1sx2wnr/why_do_python_packages_get_downloads_but_little/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1swnpp5/monday_daily_thread_project_ideas/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1svs0ef/sunday_daily_thread_whats_everyone_working_on/)
-- [What do you use to manage multiple Python versions?](https://www.reddit.com/r/Python/comments/1svrnht/what_do_you_use_to_manage_multiple_python_versions/)
-- [Do you guys write code on paper or only in IDE?](https://www.reddit.com/r/Python/comments/1sv0gnu/do_you_guys_write_code_on_paper_or_only_in_ide/)
-- [Why auto-fixing secrets in CI doesn’t really work](https://www.reddit.com/r/Python/comments/1sv0ayy/why_autofixing_secrets_in_ci_doesnt_really_work/)
 <!-- BLOG-POST-LIST:END -->
