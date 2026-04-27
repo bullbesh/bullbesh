@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Programming Compition Coming up](https://www.reddit.com/r/Python/comments/1subrn8/programming_compition_coming_up/)
-- [Looking for Programming Buddies](https://www.reddit.com/r/Python/comments/1su7y76/looking_for_programming_buddies/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1stzoky/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Mastering Asyncio Synchronization: A Python Guide](https://www.reddit.com/r/Python/comments/1stev0b/mastering_asyncio_synchronization_a_python_guide/)
-- [Python beginners, before college starts](https://www.reddit.com/r/Python/comments/1stctm7/python_beginners_before_college_starts/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1swnpp5/monday_daily_thread_project_ideas/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1svs0ef/sunday_daily_thread_whats_everyone_working_on/)
+- [What do you use to manage multiple Python versions?](https://www.reddit.com/r/Python/comments/1svrnht/what_do_you_use_to_manage_multiple_python_versions/)
+- [Do you guys write code on paper or only in IDE?](https://www.reddit.com/r/Python/comments/1sv0gnu/do_you_guys_write_code_on_paper_or_only_in_ide/)
+- [Why auto-fixing secrets in CI doesn’t really work](https://www.reddit.com/r/Python/comments/1sv0ayy/why_autofixing_secrets_in_ci_doesnt_really_work/)
 <!-- BLOG-POST-LIST:END -->
