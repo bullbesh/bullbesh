@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [pip 26.1: experimental support for installing lockfiles + dependency cooldowns!](https://www.reddit.com/r/Python/comments/1sxjntb/pip_261_experimental_support_for_installing/)
-- [Using pre-commit as a polyglot task runner: elegant or kludgy?](https://www.reddit.com/r/Python/comments/1sxezgm/using_precommit_as_a_polyglot_task_runner_elegant/)
-- [Why do Python packages get downloads but little GitHub engagement?](https://www.reddit.com/r/Python/comments/1sx2wnr/why_do_python_packages_get_downloads_but_little/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1swnpp5/monday_daily_thread_project_ideas/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1svs0ef/sunday_daily_thread_whats_everyone_working_on/)
+- [Multi-provider LLM fallback in Python — rolling your own ProviderPool vs existing solutions](https://www.reddit.com/r/Python/comments/1t0liz0/multiprovider_llm_fallback_in_python_rolling_your/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1t0dari/friday_daily_thread_rpython_meta_and_freetalk/)
+- [Single file Python CLIs when do you split, when do you keep it monolithic?](https://www.reddit.com/r/Python/comments/1t0crw2/single_file_python_clis_when_do_you_split_when_do/)
+- [Marimo together with Scanpy/SpatialData](https://www.reddit.com/r/Python/comments/1t063xn/marimo_together_with_scanpyspatialdata/)
+- [Tutorial: Fast Mesh Booleans in Python](https://www.reddit.com/r/Python/comments/1t05ufl/tutorial_fast_mesh_booleans_in_python/)
 <!-- BLOG-POST-LIST:END -->
