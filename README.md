@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi-provider LLM fallback in Python — rolling your own ProviderPool vs existing solutions](https://www.reddit.com/r/Python/comments/1t0liz0/multiprovider_llm_fallback_in_python_rolling_your/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1t0dari/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Single file Python CLIs when do you split, when do you keep it monolithic?](https://www.reddit.com/r/Python/comments/1t0crw2/single_file_python_clis_when_do_you_split_when_do/)
-- [Marimo together with Scanpy/SpatialData](https://www.reddit.com/r/Python/comments/1t063xn/marimo_together_with_scanpyspatialdata/)
-- [Tutorial: Fast Mesh Booleans in Python](https://www.reddit.com/r/Python/comments/1t05ufl/tutorial_fast_mesh_booleans_in_python/)
+- [Showcase Thread](https://www.reddit.com/r/Python/comments/1t3m2rn/showcase_thread/)
+- [How much meaning do you encode into names before they become too long?](https://www.reddit.com/r/Python/comments/1t3lohg/how_much_meaning_do_you_encode_into_names_before/)
+- [A 100-line async request coalescer for batched embedding inference](https://www.reddit.com/r/Python/comments/1t3itm5/a_100line_async_request_coalescer_for_batched/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1t31owo/monday_daily_thread_project_ideas/)
+- [PyCon US 2026 Room Sharing](https://www.reddit.com/r/Python/comments/1t2n9jt/pycon_us_2026_room_sharing/)
 <!-- BLOG-POST-LIST:END -->
