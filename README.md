@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Showcase Thread](https://www.reddit.com/r/Python/comments/1t3m2rn/showcase_thread/)
-- [How much meaning do you encode into names before they become too long?](https://www.reddit.com/r/Python/comments/1t3lohg/how_much_meaning_do_you_encode_into_names_before/)
-- [A 100-line async request coalescer for batched embedding inference](https://www.reddit.com/r/Python/comments/1t3itm5/a_100line_async_request_coalescer_for_batched/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1t31owo/monday_daily_thread_project_ideas/)
-- [PyCon US 2026 Room Sharing](https://www.reddit.com/r/Python/comments/1t2n9jt/pycon_us_2026_room_sharing/)
+- [Variable names do not travel with values. When should domain meaning live in types?](https://www.reddit.com/r/Python/comments/1t4kkds/variable_names_do_not_travel_with_values_when/)
+- [Is the market still hiring for this Gen AI tech stack?](https://www.reddit.com/r/Python/comments/1t4iu12/is_the_market_still_hiring_for_this_gen_ai_tech/)
+- [Approaches to protecting Python code when sharing apps](https://www.reddit.com/r/Python/comments/1t48tih/approaches_to_protecting_python_code_when_sharing/)
+- [PySimpleGUI 6 is LGPL again](https://www.reddit.com/r/Python/comments/1t46tp1/pysimplegui_6_is_lgpl_again/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1t3z4n1/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
