@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Variable names do not travel with values. When should domain meaning live in types?](https://www.reddit.com/r/Python/comments/1t4kkds/variable_names_do_not_travel_with_values_when/)
-- [Is the market still hiring for this Gen AI tech stack?](https://www.reddit.com/r/Python/comments/1t4iu12/is_the_market_still_hiring_for_this_gen_ai_tech/)
-- [Approaches to protecting Python code when sharing apps](https://www.reddit.com/r/Python/comments/1t48tih/approaches_to_protecting_python_code_when_sharing/)
-- [PySimpleGUI 6 is LGPL again](https://www.reddit.com/r/Python/comments/1t46tp1/pysimplegui_6_is_lgpl_again/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1t3z4n1/tuesday_daily_thread_advanced_questions/)
+- [The more I ship Python apps, the more distribution becomes the real problem](https://www.reddit.com/r/Python/comments/1t65ir0/the_more_i_ship_python_apps_the_more_distribution/)
+- [Looking for Small Python Projects to Refactor](https://www.reddit.com/r/Python/comments/1t606gb/looking_for_small_python_projects_to_refactor/)
+- [how i used python to find out i am a terrible manual trader data analysis](https://www.reddit.com/r/Python/comments/1t5zjnp/how_i_used_python_to_find_out_i_am_a_terrible/)
+- [Pass-by-reference default constructor parameters](https://www.reddit.com/r/Python/comments/1t5wox7/passbyreference_default_constructor_parameters/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1t5uadx/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
