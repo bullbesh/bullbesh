@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Do you put DTOs in one file or in several?](https://www.reddit.com/r/Python/comments/1t672sk/do_you_put_dtos_in_one_file_or_in_several/)
-- [Where are the real latency bottlenecks in Python inference pipelines?](https://www.reddit.com/r/Python/comments/1t672hp/where_are_the_real_latency_bottlenecks_in_python/)
-- [The more I ship Python apps, the more distribution becomes the real problem](https://www.reddit.com/r/Python/comments/1t65ir0/the_more_i_ship_python_apps_the_more_distribution/)
-- [Looking for Small Python Projects to Refactor](https://www.reddit.com/r/Python/comments/1t606gb/looking_for_small_python_projects_to_refactor/)
-- [how i used python to find out i am a terrible manual trader data analysis](https://www.reddit.com/r/Python/comments/1t5zjnp/how_i_used_python_to_find_out_i_am_a_terrible/)
+- [[Ann] Pyrefly v1.0 &lpar;fast type checker &amp; language server&rpar;](https://www.reddit.com/r/Python/comments/1tbyd7m/ann_pyrefly_v10_fast_type_checker_language_server/)
+- [Pyrefly v1.0.0 is here!](https://www.reddit.com/r/Python/comments/1tbxzza/pyrefly_v100_is_here/)
+- [A production-focused Python guide for working with Binance REST/WebSocket APIs](https://www.reddit.com/r/Python/comments/1tbt1nk/a_productionfocused_python_guide_for_working_with/)
+- [Direct kernel input injection via Python uinput on Android &lpar;GPad2Mouse&rpar;](https://www.reddit.com/r/Python/comments/1tb5zb0/direct_kernel_input_injection_via_python_uinput/)
+- [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1tase87/removed_by_reddit/)
 <!-- BLOG-POST-LIST:END -->
