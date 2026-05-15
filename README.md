@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1tdfo9l/friday_daily_thread_rpython_meta_and_freetalk/)
+- [Polars code runs slower on 128-core EC2](https://www.reddit.com/r/Python/comments/1td1790/polars_code_runs_slower_on_128core_ec2/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1tchdya/thursday_daily_thread_python_careers_courses_and/)
+- [Python for Java developers](https://www.reddit.com/r/Python/comments/1tcbqzy/python_for_java_developers/)
 - [[Ann] Pyrefly v1.0 &lpar;fast type checker &amp; language server&rpar;](https://www.reddit.com/r/Python/comments/1tbyd7m/ann_pyrefly_v10_fast_type_checker_language_server/)
-- [Pyrefly v1.0.0 is here!](https://www.reddit.com/r/Python/comments/1tbxzza/pyrefly_v100_is_here/)
-- [A production-focused Python guide for working with Binance REST/WebSocket APIs](https://www.reddit.com/r/Python/comments/1tbt1nk/a_productionfocused_python_guide_for_working_with/)
-- [Direct kernel input injection via Python uinput on Android &lpar;GPad2Mouse&rpar;](https://www.reddit.com/r/Python/comments/1tb5zb0/direct_kernel_input_injection_via_python_uinput/)
-- [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1tase87/removed_by_reddit/)
 <!-- BLOG-POST-LIST:END -->
