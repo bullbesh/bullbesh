@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I used librosa to auto-detect BPM + beat offset for a video game&#39;s custom music format, and had to a](https://www.reddit.com/r/Python/comments/1tq6yck/i_used_librosa_to_autodetect_bpm_beat_offset_for/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1tpn1t3/thursday_daily_thread_python_careers_courses_and/)
-- [Apache Fory Serialization 1.0.0 Released Now](https://www.reddit.com/r/Python/comments/1tp7yno/apache_fory_serialization_100_released_now/)
-- [Millions of AI agents imperiled by critical vulnerability in open source package](https://www.reddit.com/r/Python/comments/1top1ru/millions_of_ai_agents_imperiled_by_critical/)
-- [CI pipeline, overkill or a stable foundation?](https://www.reddit.com/r/Python/comments/1tonw41/ci_pipeline_overkill_or_a_stable_foundation/)
+- [Another Asyncio Tutorial](https://www.reddit.com/r/Python/comments/1tuuj37/another_asyncio_tutorial/)
+- [Is mitigating FastAPI event loop I/O overhead via PyO3 worth the FFI complexity? &lpar;Benchmarks inside&rpar;](https://www.reddit.com/r/Python/comments/1tuq0ib/is_mitigating_fastapi_event_loop_io_overhead_via/)
+- [What&#39;s the rationale for Panda&#39;s notation to denote IntervalArrays?](https://www.reddit.com/r/Python/comments/1tun6e4/whats_the_rationale_for_pandas_notation_to_denote/)
+- [Is openpyxl still relevant?](https://www.reddit.com/r/Python/comments/1tum2hg/is_openpyxl_still_relevant/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1tuabj3/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
