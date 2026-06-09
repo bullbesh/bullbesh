@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Another Asyncio Tutorial](https://www.reddit.com/r/Python/comments/1tuuj37/another_asyncio_tutorial/)
-- [Is mitigating FastAPI event loop I/O overhead via PyO3 worth the FFI complexity? &lpar;Benchmarks inside&rpar;](https://www.reddit.com/r/Python/comments/1tuq0ib/is_mitigating_fastapi_event_loop_io_overhead_via/)
-- [What&#39;s the rationale for Panda&#39;s notation to denote IntervalArrays?](https://www.reddit.com/r/Python/comments/1tun6e4/whats_the_rationale_for_pandas_notation_to_denote/)
-- [Is openpyxl still relevant?](https://www.reddit.com/r/Python/comments/1tum2hg/is_openpyxl_still_relevant/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1tuabj3/tuesday_daily_thread_advanced_questions/)
+- [Why PydanticAI Costs More Than You Think in Production](https://www.reddit.com/r/Python/comments/1u0wj02/why_pydanticai_costs_more_than_you_think_in/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1u0p4h3/tuesday_daily_thread_advanced_questions/)
+- [Blog: Are you really expected to run five type-checkers now?](https://www.reddit.com/r/Python/comments/1u06jd2/blog_are_you_really_expected_to_run_five/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1tzs47z/monday_daily_thread_project_ideas/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1tywsq6/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
