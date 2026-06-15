@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are we happy with SQLAlchemy?](https://www.reddit.com/r/Python/comments/1u63t90/are_we_happy_with_sqlalchemy/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1u60skc/monday_daily_thread_project_ideas/)
 - [TY is still not professionally good](https://www.reddit.com/r/Python/comments/1u5mtpv/ty_is_still_not_professionally_good/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1u5601h/sunday_daily_thread_whats_everyone_working_on/)
 - [I scaled my local async rate limiter for distributed PowerBI ingestion and everything broke.](https://www.reddit.com/r/Python/comments/1u4qbzz/i_scaled_my_local_async_rate_limiter_for/)
-- [System and game performance monitoring with Python](https://www.reddit.com/r/Python/comments/1u4n10a/system_and_game_performance_monitoring_with_python/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1u4bs1t/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
