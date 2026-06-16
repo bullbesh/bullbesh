@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Choosing a Python task queue library in 2026: Celery vs Dramatiq vs FastStream vs Taskiq vs Repid](https://www.reddit.com/r/Python/comments/1u775lo/choosing_a_python_task_queue_library_in_2026/)
+- [Are there any python modules that automatically generated a requirements.txt, given an entry point?](https://www.reddit.com/r/Python/comments/1u74rvm/are_there_any_python_modules_that_automatically/)
+- [Dealing with warped/tilted phone photos in coordinate-based OMR grading](https://www.reddit.com/r/Python/comments/1u74imy/dealing_with_warpedtilted_phone_photos_in/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1u6xpou/tuesday_daily_thread_advanced_questions/)
 - [The Elm Architecture in Python?](https://www.reddit.com/r/Python/comments/1u6j8ph/the_elm_architecture_in_python/)
-- [How and why to run modified Python code using the ast module](https://www.reddit.com/r/Python/comments/1u6fb0y/how_and_why_to_run_modified_python_code_using_the/)
-- [Are we happy with SQLAlchemy?](https://www.reddit.com/r/Python/comments/1u63t90/are_we_happy_with_sqlalchemy/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1u60skc/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
