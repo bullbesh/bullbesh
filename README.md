@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Giving back to the community - The Complete Backend Development Course](https://www.reddit.com/r/Python/comments/1u8cp1q/giving_back_to_the_community_the_complete_backend/)
+- [LiteLLM Stability Announcement](https://www.reddit.com/r/Python/comments/1u8i2xq/litellm_stability_announcement/)
 - [Financial data apis are basically killing hobbyist algo trading](https://www.reddit.com/r/Python/comments/1u886u4/financial_data_apis_are_basically_killing/)
 - [IKM Python test coming up for job prerequisite](https://www.reddit.com/r/Python/comments/1u8831j/ikm_python_test_coming_up_for_job_prerequisite/)
 - [Honest question — is workflow orchestration still a solved problem in 2026?](https://www.reddit.com/r/Python/comments/1u85hdv/honest_question_is_workflow_orchestration_still_a/)
