@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Showcase: a full-stack LiveKit voice agent starter, typed and tested](https://www.reddit.com/r/Python/comments/1u7qskx/showcase_a_fullstack_livekit_voice_agent_starter/)
+- [Honest question — is workflow orchestration still a solved problem in 2026?](https://www.reddit.com/r/Python/comments/1u85hdv/honest_question_is_workflow_orchestration_still_a/)
 - [Would typed schemas for pytest-bdd / Gherkin tables be useful?](https://www.reddit.com/r/Python/comments/1u7q9t0/would_typed_schemas_for_pytestbdd_gherkin_tables/)
-- [id-agent - Token efficient IDs for AI agents. UUID alternative for the agentic era.](https://www.reddit.com/r/Python/comments/1u7o4e0/idagent_token_efficient_ids_for_ai_agents_uuid/)
 - [Is there even chances becoming python dev](https://www.reddit.com/r/Python/comments/1u7exv2/is_there_even_chances_becoming_python_dev/)
 - [What is one thing you wish you knew before distributing your first Python application?](https://www.reddit.com/r/Python/comments/1u7c1nq/what_is_one_thing_you_wish_you_knew_before/)
+- [Choosing a Python task queue library in 2026: Celery vs Dramatiq vs FastStream vs Taskiq vs Repid](https://www.reddit.com/r/Python/comments/1u775lo/choosing_a_python_task_queue_library_in_2026/)
 <!-- BLOG-POST-LIST:END -->
