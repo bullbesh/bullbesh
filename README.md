@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello I am building my own ai keyboard thing does anyone wants to collaborate?](https://www.reddit.com/r/Python/comments/1ua465t/hello_i_am_building_my_own_ai_keyboard_thing_does/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1u9mkq4/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Alembic migration ordering problems when staging and prod deploy from the same branch](https://www.reddit.com/r/Python/comments/1u9lx51/alembic_migration_ordering_problems_when_staging/)
 - [Talks from the PyCon US Typing Summit - Intersections, Tensor Shapes, and more!](https://www.reddit.com/r/Python/comments/1u94fl8/talks_from_the_pycon_us_typing_summit/)
 - [Computing the journey of NASA&#39;s Cassini to Saturn](https://www.reddit.com/r/Python/comments/1u92s99/computing_the_journey_of_nasas_cassini_to_saturn/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1u8quph/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
