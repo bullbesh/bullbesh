@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Moving from float-based mtime to strict nanosecond precision for Optimistic Concurrency Control](https://www.reddit.com/r/Python/comments/1uaj96r/moving_from_floatbased_mtime_to_strict_nanosecond/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1uahq4u/saturday_daily_thread_resource_request_and/)
-- [Hello I am building my own ai keyboard thing does anyone wants to collaborate?](https://www.reddit.com/r/Python/comments/1ua465t/hello_i_am_building_my_own_ai_keyboard_thing_does/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1u9mkq4/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Alembic migration ordering problems when staging and prod deploy from the same branch](https://www.reddit.com/r/Python/comments/1u9lx51/alembic_migration_ordering_problems_when_staging/)
+- [Talks from the PyCon US Typing Summit - Intersections, Tensor Shapes, and more!](https://www.reddit.com/r/Python/comments/1u94fl8/talks_from_the_pycon_us_typing_summit/)
 <!-- BLOG-POST-LIST:END -->
