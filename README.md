@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python automation deployment](https://www.reddit.com/r/Python/comments/1ubjn3e/python_automation_deployment/)
+- [coverage.py&#39;s sysmon core silently breaks per-test selection &lpar;it&#39;s the 3.14+ default&rpar;](https://www.reddit.com/r/Python/comments/1ubifs2/coveragepys_sysmon_core_silently_breaks_pertest/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ubbcng/sunday_daily_thread_whats_everyone_working_on/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1uahq4u/saturday_daily_thread_resource_request_and/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1u9mkq4/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Alembic migration ordering problems when staging and prod deploy from the same branch](https://www.reddit.com/r/Python/comments/1u9lx51/alembic_migration_ordering_problems_when_staging/)
-- [Talks from the PyCon US Typing Summit - Intersections, Tensor Shapes, and more!](https://www.reddit.com/r/Python/comments/1u94fl8/talks_from_the_pycon_us_typing_summit/)
 <!-- BLOG-POST-LIST:END -->
