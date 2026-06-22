@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [reaktiv 0.23.0: ReactiveModel for class-based reactive state in Python](https://www.reddit.com/r/Python/comments/1ucicxn/reaktiv_0230_reactivemodel_for_classbased/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1uc56nt/monday_daily_thread_project_ideas/)
 - [Python automation deployment](https://www.reddit.com/r/Python/comments/1ubjn3e/python_automation_deployment/)
 - [coverage.py&#39;s sysmon core silently breaks per-test selection &lpar;it&#39;s the 3.14+ default&rpar;](https://www.reddit.com/r/Python/comments/1ubifs2/coveragepys_sysmon_core_silently_breaks_pertest/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1ubbcng/sunday_daily_thread_whats_everyone_working_on/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1uahq4u/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
