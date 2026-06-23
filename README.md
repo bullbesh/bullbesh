@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ud1cha/tuesday_daily_thread_advanced_questions/)
 - [Astral&#39;s ty readiness for CI](https://www.reddit.com/r/Python/comments/1uct0sx/astrals_ty_readiness_for_ci/)
 - [I just found a Python script I wrote 3 years ago…](https://www.reddit.com/r/Python/comments/1ucrolh/i_just_found_a_python_script_i_wrote_3_years_ago/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1uc56nt/monday_daily_thread_project_ideas/)
 - [Python automation deployment](https://www.reddit.com/r/Python/comments/1ubjn3e/python_automation_deployment/)
-- [coverage.py&#39;s sysmon core silently breaks per-test selection &lpar;it&#39;s the 3.14+ default&rpar;](https://www.reddit.com/r/Python/comments/1ubifs2/coveragepys_sysmon_core_silently_breaks_pertest/)
 <!-- BLOG-POST-LIST:END -->
