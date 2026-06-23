@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Replacing a fixed sleep&lpar;&rpar; between batch DB writes with a self-tuning latency feedback throttle](https://www.reddit.com/r/Python/comments/1udfh38/replacing_a_fixed_sleep_between_batch_db_writes/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ud1cha/tuesday_daily_thread_advanced_questions/)
 - [Astral&#39;s ty readiness for CI](https://www.reddit.com/r/Python/comments/1uct0sx/astrals_ty_readiness_for_ci/)
 - [I just found a Python script I wrote 3 years ago…](https://www.reddit.com/r/Python/comments/1ucrolh/i_just_found_a_python_script_i_wrote_3_years_ago/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1uc56nt/monday_daily_thread_project_ideas/)
-- [Python automation deployment](https://www.reddit.com/r/Python/comments/1ubjn3e/python_automation_deployment/)
 <!-- BLOG-POST-LIST:END -->
