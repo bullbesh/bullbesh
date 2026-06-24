@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Asteroid-detection pipeline built with astropy + photutils-feedback welcome](https://www.reddit.com/r/Python/comments/1ue9y5i/asteroiddetection_pipeline_built_with_astropy/)
 - [AI agentic workflow built on python sent around 200 emails to customers at 10 pm .](https://www.reddit.com/r/Python/comments/1ue9fgw/ai_agentic_workflow_built_on_python_sent_around/)
-- [Best institute to join in hyd?](https://www.reddit.com/r/Python/comments/1ue7wkr/best_institute_to_join_in_hyd/)
 - [FastAPI Cloud in Public Beta ⚡️](https://www.reddit.com/r/Python/comments/1udg2sm/fastapi_cloud_in_public_beta/)
 - [Replacing a fixed sleep&lpar;&rpar; between batch DB writes with a self-tuning latency feedback throttle](https://www.reddit.com/r/Python/comments/1udfh38/replacing_a_fixed_sleep_between_batch_db_writes/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1ud1cha/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
