@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [When do you actually need residential proxies? Python developers scraping websites](https://www.reddit.com/r/Python/comments/1uewkhi/when_do_you_actually_need_residential_proxies/)
+- [Ruff + Ty vs Ruff + Pyrefly — which type checking stack makes more sense in 2026?](https://www.reddit.com/r/Python/comments/1uf2eoz/ruff_ty_vs_ruff_pyrefly_which_type_checking_stack/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ueu9q1/thursday_daily_thread_python_careers_courses_and/)
 - [Do AI coding agents need architectural guardrails before making changes?](https://www.reddit.com/r/Python/comments/1uer0d2/do_ai_coding_agents_need_architectural_guardrails/)
 - [Asteroid-detection pipeline built with astropy + photutils-feedback welcome](https://www.reddit.com/r/Python/comments/1ue9y5i/asteroiddetection_pipeline_built_with_astropy/)
