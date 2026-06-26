@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python For Beginners](https://www.reddit.com/r/Python/comments/1ug5280/python_for_beginners/)
+- [Let an agent loose on a real python repo for a week, where it actually helped](https://www.reddit.com/r/Python/comments/1ugbois/let_an_agent_loose_on_a_real_python_repo_for_a/)
 - [What backend projects would actually aid me stand out for a junior Python backend developer role?](https://www.reddit.com/r/Python/comments/1ug0ynn/what_backend_projects_would_actually_aid_me_stand/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ufqt3x/friday_daily_thread_rpython_meta_and_freetalk/)
 - [What software do people use?](https://www.reddit.com/r/Python/comments/1uferjy/what_software_do_people_use/)
