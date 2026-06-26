@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python For Beginners](https://www.reddit.com/r/Python/comments/1ug5280/python_for_beginners/)
 - [What backend projects would actually aid me stand out for a junior Python backend developer role?](https://www.reddit.com/r/Python/comments/1ug0ynn/what_backend_projects_would_actually_aid_me_stand/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ufqt3x/friday_daily_thread_rpython_meta_and_freetalk/)
 - [What software do people use?](https://www.reddit.com/r/Python/comments/1uferjy/what_software_do_people_use/)
 - [Windows defender blocks python executables](https://www.reddit.com/r/Python/comments/1ufer3u/windows_defender_blocks_python_executables/)
-- [Monorepo, testing and deployment](https://www.reddit.com/r/Python/comments/1uf89x0/monorepo_testing_and_deployment/)
 <!-- BLOG-POST-LIST:END -->
