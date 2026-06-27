@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made a python program that transcript any YouTube video for you](https://www.reddit.com/r/Python/comments/1uhbtqz/i_made_a_python_program_that_transcript_any/)
 - [Handling Errors as Values in Python with Katharos](https://www.reddit.com/r/Python/comments/1ugsdwl/handling_errors_as_values_in_python_with_katharos/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ugnaii/saturday_daily_thread_resource_request_and/)
 - [Let an agent loose on a real python repo for a week, where it actually helped](https://www.reddit.com/r/Python/comments/1ugbois/let_an_agent_loose_on_a_real_python_repo_for_a/)
 - [What backend projects would actually aid me stand out for a junior Python backend developer role?](https://www.reddit.com/r/Python/comments/1ug0ynn/what_backend_projects_would_actually_aid_me_stand/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ufqt3x/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
