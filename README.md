@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello I made this Program which fix ci/cd pipeline automatically using ai and auto commitcse 2nd yr](https://www.reddit.com/r/Python/comments/1ui68mj/hello_i_made_this_program_which_fix_cicd_pipeline/)
 - [Computing the close encounter between Apophis and Earth in 2029 &lpar;tutorial&rpar;](https://www.reddit.com/r/Python/comments/1uhutaj/computing_the_close_encounter_between_apophis_and/)
 - [Neural Sorting Algorithms: Gumbel-Sinkhorn Networks](https://www.reddit.com/r/Python/comments/1uhkicg/neural_sorting_algorithms_gumbelsinkhorn_networks/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1uhhza7/sunday_daily_thread_whats_everyone_working_on/)
 - [Handling Errors as Values in Python with Katharos](https://www.reddit.com/r/Python/comments/1ugsdwl/handling_errors_as_values_in_python_with_katharos/)
-- [Nowdays posting a post in this subreddit getting flagged.](https://www.reddit.com/r/Python/comments/1ugq786/nowdays_posting_a_post_in_this_subreddit_getting/)
 <!-- BLOG-POST-LIST:END -->
