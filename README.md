@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [DeepManga — Open Source Manga Translation Tool &lpar;PaddleOCR + Gemini AI&rpar;](https://www.reddit.com/r/Python/comments/1uip9tu/deepmanga_open_source_manga_translation_tool/)
+- [Comparison and Benchmarks of Python Mesh Boolean Libraries at Industry Scale](https://www.reddit.com/r/Python/comments/1uins5r/comparison_and_benchmarks_of_python_mesh_boolean/)
+- [Terminal Pilot – A lightweight terminal-first AI CLI built in Python](https://www.reddit.com/r/Python/comments/1uilgwj/terminal_pilot_a_lightweight_terminalfirst_ai_cli/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1uictw2/monday_daily_thread_project_ideas/)
 - [Anyone taking Hitesh Choudhary &amp; Piyush Garg&#39;s Agentic AI course? Let&#39;s connect!](https://www.reddit.com/r/Python/comments/1uicbrg/anyone_taking_hitesh_choudhary_piyush_gargs/)
-- [Computing the close encounter between Apophis and Earth in 2029 &lpar;tutorial&rpar;](https://www.reddit.com/r/Python/comments/1uhutaj/computing_the_close_encounter_between_apophis_and/)
-- [Neural Sorting Algorithms: Gumbel-Sinkhorn Networks](https://www.reddit.com/r/Python/comments/1uhkicg/neural_sorting_algorithms_gumbelsinkhorn_networks/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1uhhza7/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
