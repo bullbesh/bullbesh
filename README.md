@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [DeepManga — Open Source Manga Translation Tool &lpar;PaddleOCR + Gemini AI&rpar;](https://www.reddit.com/r/Python/comments/1uip9tu/deepmanga_open_source_manga_translation_tool/)
+- [I built a free in-browser Python learning platform – no installs, just open and code](https://www.reddit.com/r/Python/comments/1uiw602/i_built_a_free_inbrowser_python_learning_platform/)
+- [Async/Await is a Plague: Part 1 Roots](https://www.reddit.com/r/Python/comments/1uisy46/asyncawait_is_a_plague_part_1_roots/)
 - [Comparison and Benchmarks of Python Mesh Boolean Libraries at Industry Scale](https://www.reddit.com/r/Python/comments/1uins5r/comparison_and_benchmarks_of_python_mesh_boolean/)
 - [Terminal Pilot – A lightweight terminal-first AI CLI built in Python](https://www.reddit.com/r/Python/comments/1uilgwj/terminal_pilot_a_lightweight_terminalfirst_ai_cli/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1uictw2/monday_daily_thread_project_ideas/)
-- [Anyone taking Hitesh Choudhary &amp; Piyush Garg&#39;s Agentic AI course? Let&#39;s connect!](https://www.reddit.com/r/Python/comments/1uicbrg/anyone_taking_hitesh_choudhary_piyush_gargs/)
 <!-- BLOG-POST-LIST:END -->
