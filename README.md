@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Shuuten – zero-config Slack/Teams/email alerts for Python automations on AWS Lambda](https://www.reddit.com/r/Python/comments/1ujs84u/shuuten_zeroconfig_slackteamsemail_alerts_for/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1uj99ws/tuesday_daily_thread_advanced_questions/)
 - [why is pycharm doing this after a windows update](https://www.reddit.com/r/Python/comments/1uj092r/why_is_pycharm_doing_this_after_a_windows_update/)
 - [Async/Await is a Plague: Part 1 Roots](https://www.reddit.com/r/Python/comments/1uisy46/asyncawait_is_a_plague_part_1_roots/)
 - [Comparison and Benchmarks of Python Mesh Boolean Libraries at Industry Scale](https://www.reddit.com/r/Python/comments/1uins5r/comparison_and_benchmarks_of_python_mesh_boolean/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1uictw2/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
