@@ -12,5 +12,5 @@
 - [Python handbook for spring devs](https://www.reddit.com/r/Python/comments/1ukn0wi/python_handbook_for_spring_devs/)
 - [Why is sending an automated email with python still a nightmare in 2026](https://www.reddit.com/r/Python/comments/1ukljb6/why_is_sending_an_automated_email_with_python/)
 - [Tip: use msgspec for JSON decoding — it decodes straight into your type at C speed](https://www.reddit.com/r/Python/comments/1ukh3q5/tip_use_msgspec_for_json_decoding_it_decodes/)
-- [I scanned 250 Python repos for AI-generated runtime bugs. Here&#39;s what I found.](https://www.reddit.com/r/Python/comments/1ukeoqp/i_scanned_250_python_repos_for_aigenerated/)
+- [When&#39;s the last time you saw Python 2 Super&lpar;&rpar; syntax?](https://www.reddit.com/r/Python/comments/1uk3ym6/whens_the_last_time_you_saw_python_2_super_syntax/)
 <!-- BLOG-POST-LIST:END -->
