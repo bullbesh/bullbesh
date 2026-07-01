@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a typed Python SDK for scoring and filtering data reliability before records enter analytics](https://www.reddit.com/r/Python/comments/1ukosas/i_built_a_typed_python_sdk_for_scoring_and/)
 - [Annotated Triple Product Property Matrix Multiplication Algorithm In Python](https://www.reddit.com/r/Python/comments/1uknaq3/annotated_triple_product_property_matrix/)
 - [Python handbook for spring devs](https://www.reddit.com/r/Python/comments/1ukn0wi/python_handbook_for_spring_devs/)
 - [Why is sending an automated email with python still a nightmare in 2026](https://www.reddit.com/r/Python/comments/1ukljb6/why_is_sending_an_automated_email_with_python/)
 - [Tip: use msgspec for JSON decoding — it decodes straight into your type at C speed](https://www.reddit.com/r/Python/comments/1ukh3q5/tip_use_msgspec_for_json_decoding_it_decodes/)
+- [I scanned 250 Python repos for AI-generated runtime bugs. Here&#39;s what I found.](https://www.reddit.com/r/Python/comments/1ukeoqp/i_scanned_250_python_repos_for_aigenerated/)
 <!-- BLOG-POST-LIST:END -->
