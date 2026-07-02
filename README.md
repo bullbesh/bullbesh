@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEXUS — AI Developer Hub &amp; Local Workspace](https://www.reddit.com/r/Python/comments/1ulclia/nexus_ai_developer_hub_local_workspace/)
+- [I got tired of messy prompts so I wrote a small parser to split them into fields](https://www.reddit.com/r/Python/comments/1ulb8tv/i_got_tired_of_messy_prompts_so_i_wrote_a_small/)
 - [Learned a lot building a macro signal scoring system in Python - sharing architecture decisions](https://www.reddit.com/r/Python/comments/1ul7qiv/learned_a_lot_building_a_macro_signal_scoring/)
 - [Pythonista IDE for IOS should be added to the Wiki](https://www.reddit.com/r/Python/comments/1ul4j9h/pythonista_ide_for_ios_should_be_added_to_the_wiki/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ul2dky/thursday_daily_thread_python_careers_courses_and/)
-- [Annotated Triple Product Property Matrix Multiplication Algorithm In Python](https://www.reddit.com/r/Python/comments/1uknaq3/annotated_triple_product_property_matrix/)
-- [Python handbook for spring devs](https://www.reddit.com/r/Python/comments/1ukn0wi/python_handbook_for_spring_devs/)
 <!-- BLOG-POST-LIST:END -->
