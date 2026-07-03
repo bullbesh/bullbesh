@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ulyrvh/friday_daily_thread_rpython_meta_and_freetalk/)
 - [PyNear 2.5 is out — exact &amp; binary k-NN for Python: 13× faster than Faiss brute force below 256-D](https://www.reddit.com/r/Python/comments/1ulrmp7/pynear_25_is_out_exact_binary_knn_for_python_13/)
 - [Celery on AWS ECS - prevent lost tasks and ensure the work is always done](https://www.reddit.com/r/Python/comments/1uleyez/celery_on_aws_ecs_prevent_lost_tasks_and_ensure/)
 - [Learned a lot building a macro signal scoring system in Python - sharing architecture decisions](https://www.reddit.com/r/Python/comments/1ul7qiv/learned_a_lot_building_a_macro_signal_scoring/)
 - [Pythonista IDE for IOS should be added to the Wiki](https://www.reddit.com/r/Python/comments/1ul4j9h/pythonista_ide_for_ios_should_be_added_to_the_wiki/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ul2dky/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
