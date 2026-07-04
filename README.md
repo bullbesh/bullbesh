@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the most useful Python library you discovered this year?](https://www.reddit.com/r/Python/comments/1uneu6j/whats_the_most_useful_python_library_you/)
 - [What&#39;s one Python library you discovered this year that instantly became part of your toolkit ?](https://www.reddit.com/r/Python/comments/1une80e/whats_one_python_library_you_discovered_this_year/)
 - [Showcase Thread](https://www.reddit.com/r/Python/comments/1unctej/showcase_thread/)
 - [ever had a log file get corrupted from a crash mid-write?](https://www.reddit.com/r/Python/comments/1un9f87/ever_had_a_log_file_get_corrupted_from_a_crash/)
 - [refactor or don&#39;t touch](https://www.reddit.com/r/Python/comments/1umxiti/refactor_or_dont_touch/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1umu29k/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
