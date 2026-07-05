@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1unnrxo/sunday_daily_thread_whats_everyone_working_on/)
 - [Showcase Thread](https://www.reddit.com/r/Python/comments/1unctej/showcase_thread/)
-- [ever had a log file get corrupted from a crash mid-write?](https://www.reddit.com/r/Python/comments/1un9f87/ever_had_a_log_file_get_corrupted_from_a_crash/)
-- [refactor or don&#39;t touch](https://www.reddit.com/r/Python/comments/1umxiti/refactor_or_dont_touch/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1umu29k/saturday_daily_thread_resource_request_and/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1ulyrvh/friday_daily_thread_rpython_meta_and_freetalk/)
+- [Celery on AWS ECS - prevent lost tasks and ensure the work is always done](https://www.reddit.com/r/Python/comments/1uleyez/celery_on_aws_ecs_prevent_lost_tasks_and_ensure/)
 <!-- BLOG-POST-LIST:END -->
