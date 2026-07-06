@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [asyncio.TaskGroup.cancel&lpar;&rpar; in Python 3.15](https://www.reddit.com/r/Python/comments/1uol7f1/asynciotaskgroupcancel_in_python_315/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1uohman/monday_daily_thread_project_ideas/)
 - [Thoughts on a simple way to hold objects, for beginners.](https://www.reddit.com/r/Python/comments/1uo8few/thoughts_on_a_simple_way_to_hold_objects_for/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1unnrxo/sunday_daily_thread_whats_everyone_working_on/)
 - [Showcase Thread](https://www.reddit.com/r/Python/comments/1unctej/showcase_thread/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1umu29k/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
