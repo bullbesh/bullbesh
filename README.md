@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Python libraries for fast/real-time voice cloning TTS in 2026?](https://www.reddit.com/r/Python/comments/1ur2mlf/best_python_libraries_for_fastrealtime_voice/)
 - [Otary - Image &amp; Geometry Python Library now includes Tutorials](https://www.reddit.com/r/Python/comments/1uqqc6l/otary_image_geometry_python_library_now_includes/)
 - [my python requests were vanishing with no errors. the bug was !response_time in my node backend](https://www.reddit.com/r/Python/comments/1uqaxso/my_python_requests_were_vanishing_with_no_errors/)
 - [Any good open source python runtime instrumentation?](https://www.reddit.com/r/Python/comments/1upzetm/any_good_open_source_python_runtime/)
 - [How has working with other languages and frameworks improved your Python?](https://www.reddit.com/r/Python/comments/1upni6b/how_has_working_with_other_languages_and/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1upeq3d/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
