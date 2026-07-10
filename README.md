@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is there ever a point where you don&#39;t feel like an idiot?](https://www.reddit.com/r/Python/comments/1usfgmg/is_there_ever_a_point_where_you_dont_feel_like_an/)
 - [Are you using some online Python notebook editor?](https://www.reddit.com/r/Python/comments/1us8qha/are_you_using_some_online_python_notebook_editor/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1us7j8k/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Polars and the ecosystem](https://www.reddit.com/r/Python/comments/1urufsu/polars_and_the_ecosystem/)
 - [pypimap.com: an interactive visualization map of pypi packages](https://www.reddit.com/r/Python/comments/1urox25/pypimapcom_an_interactive_visualization_map_of/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1ura2av/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
