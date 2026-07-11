@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ut4i7l/saturday_daily_thread_resource_request_and/)
 - [Pure python can be faster than cython/rust?](https://www.reddit.com/r/Python/comments/1usid6y/pure_python_can_be_faster_than_cythonrust/)
 - [Is there ever a point where you don&#39;t feel like an idiot?](https://www.reddit.com/r/Python/comments/1usfgmg/is_there_ever_a_point_where_you_dont_feel_like_an/)
 - [Are you using some online Python notebook editor?](https://www.reddit.com/r/Python/comments/1us8qha/are_you_using_some_online_python_notebook_editor/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1us7j8k/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Polars and the ecosystem](https://www.reddit.com/r/Python/comments/1urufsu/polars_and_the_ecosystem/)
 <!-- BLOG-POST-LIST:END -->
