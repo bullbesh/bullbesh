@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [learn seriously](https://www.reddit.com/r/Python/comments/1utv66m/learn_seriously/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1utzp3j/sunday_daily_thread_whats_everyone_working_on/)
 - [What Every Python Developer Should Know About the CPython ABI](https://www.reddit.com/r/Python/comments/1uts313/what_every_python_developer_should_know_about_the/)
 - [Python study guides?](https://www.reddit.com/r/Python/comments/1utczac/python_study_guides/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ut4i7l/saturday_daily_thread_resource_request_and/)
