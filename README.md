@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [NobodyWho now supports Text-to-Speech &amp; Speech-to-Text! 🔊🎙️](https://www.reddit.com/r/Python/comments/1uw7hbe/nobodywho_now_supports_texttospeech_speechtotext/)
 - [Pydantic AI structured outputs and evals on Bedrock](https://www.reddit.com/r/Python/comments/1uw4izd/pydantic_ai_structured_outputs_and_evals_on/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1uvslp7/tuesday_daily_thread_advanced_questions/)
 - [Today I realized building projects teaches more than finishing courses.](https://www.reddit.com/r/Python/comments/1uvddw8/today_i_realized_building_projects_teaches_more/)
 - [Bundling in Python](https://www.reddit.com/r/Python/comments/1uv4mb0/bundling_in_python/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1uuvp38/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
