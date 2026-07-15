@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I built aksharam — a Malayalam→Manglish transliterator that fixes several issues in ml2en](https://www.reddit.com/r/Python/comments/1uwye0f/i_built_aksharam_a_malayalammanglish/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1uvslp7/tuesday_daily_thread_advanced_questions/)
 - [Today I realized building projects teaches more than finishing courses.](https://www.reddit.com/r/Python/comments/1uvddw8/today_i_realized_building_projects_teaches_more/)
 - [Bundling in Python](https://www.reddit.com/r/Python/comments/1uv4mb0/bundling_in_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1uuvp38/monday_daily_thread_project_ideas/)
-- [Will PEP 505 ever be accepted?](https://www.reddit.com/r/Python/comments/1uuuf9c/will_pep_505_ever_be_accepted/)
 <!-- BLOG-POST-LIST:END -->
