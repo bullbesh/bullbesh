@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1uxmsnj/thursday_daily_thread_python_careers_courses_and/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1uvslp7/tuesday_daily_thread_advanced_questions/)
 - [Bundling in Python](https://www.reddit.com/r/Python/comments/1uv4mb0/bundling_in_python/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1uuvp38/monday_daily_thread_project_ideas/)
 - [Will PEP 505 ever be accepted?](https://www.reddit.com/r/Python/comments/1uuuf9c/will_pep_505_ever_be_accepted/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1utzp3j/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
