@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [A tiny watchdog pattern that’s saved me more headaches than any framework](https://www.reddit.com/r/Python/comments/1uz9itv/a_tiny_watchdog_pattern_thats_saved_me_more/)
 - [Agentic Travel Assistant with Django, Celery and AWS- Technical Review](https://www.reddit.com/r/Python/comments/1uz4w7y/agentic_travel_assistant_with_django_celery_and/)
 - [Reaching users on this sub](https://www.reddit.com/r/Python/comments/1uywjuc/reaching_users_on_this_sub/)
 - [⚠️ Heads up: ast_grep_cli 0.44.1 on PyPI flagged by Windows Defender as Trojan — anyone seeing this?](https://www.reddit.com/r/Python/comments/1uyos93/heads_up_ast_grep_cli_0441_on_pypi_flagged_by/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1uyjpnv/friday_daily_thread_rpython_meta_and_freetalk/)
+- [20 itertools functions, sorted by how often you&#39;d actually reach for them &lpar;not the docs order&rpar;](https://www.reddit.com/r/Python/comments/1uyervv/20_itertools_functions_sorted_by_how_often_youd/)
 <!-- BLOG-POST-LIST:END -->
