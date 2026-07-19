@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Explore Database internals with python](https://www.reddit.com/r/Python/comments/1v0ipnv/explore_database_internals_with_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1v0bd90/sunday_daily_thread_whats_everyone_working_on/)
-- [Top down map generation in pygame](https://www.reddit.com/r/Python/comments/1v02p48/top_down_map_generation_in_pygame/)
-- [Python Interview Beginners:](https://www.reddit.com/r/Python/comments/1uzw7ts/python_interview_beginners/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1uzgdns/saturday_daily_thread_resource_request_and/)
 - [Agentic Travel Assistant with Django, Celery and AWS- Technical Review](https://www.reddit.com/r/Python/comments/1uz4w7y/agentic_travel_assistant_with_django_celery_and/)
+- [Reaching users on this sub](https://www.reddit.com/r/Python/comments/1uywjuc/reaching_users_on_this_sub/)
 <!-- BLOG-POST-LIST:END -->
