@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Explore Database internals with python](https://www.reddit.com/r/Python/comments/1v0ipnv/explore_database_internals_with_python/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1v0bd90/sunday_daily_thread_whats_everyone_working_on/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1uzgdns/saturday_daily_thread_resource_request_and/)
 - [Agentic Travel Assistant with Django, Celery and AWS- Technical Review](https://www.reddit.com/r/Python/comments/1uz4w7y/agentic_travel_assistant_with_django_celery_and/)
 - [Reaching users on this sub](https://www.reddit.com/r/Python/comments/1uywjuc/reaching_users_on_this_sub/)
+- [⚠️ Heads up: ast_grep_cli 0.44.1 on PyPI flagged by Windows Defender as Trojan — anyone seeing this?](https://www.reddit.com/r/Python/comments/1uyos93/heads_up_ast_grep_cli_0441_on_pypi_flagged_by/)
 <!-- BLOG-POST-LIST:END -->
