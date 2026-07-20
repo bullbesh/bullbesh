@@ -11,6 +11,6 @@
 - [PEP 541 - Package Index Name Retention](https://www.reddit.com/r/Python/comments/1v1ao4e/pep_541_package_index_name_retention/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1v15v67/monday_daily_thread_project_ideas/)
 - [Unpopular opinion: I find it counterproductive to shorten function and variable names](https://www.reddit.com/r/Python/comments/1v1102x/unpopular_opinion_i_find_it_counterproductive_to/)
+- [Metered — Production-ready Rate Limiting &amp; Quota Management for Python](https://www.reddit.com/r/Python/comments/1v0suge/metered_productionready_rate_limiting_quota/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1v0bd90/sunday_daily_thread_whats_everyone_working_on/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1uzgdns/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
