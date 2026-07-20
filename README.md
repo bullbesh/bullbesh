@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cyber Security wants us to use the latest version all the time](https://www.reddit.com/r/Python/comments/1v1ngel/cyber_security_wants_us_to_use_the_latest_version/)
+- [Blog: Making Type Coverage Visible in Dify&#39;s CI](https://www.reddit.com/r/Python/comments/1v1lghu/blog_making_type_coverage_visible_in_difys_ci/)
 - [PEP 541 - Package Index Name Retention](https://www.reddit.com/r/Python/comments/1v1ao4e/pep_541_package_index_name_retention/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1v15v67/monday_daily_thread_project_ideas/)
 - [Unpopular opinion: I find it counterproductive to shorten function and variable names](https://www.reddit.com/r/Python/comments/1v1102x/unpopular_opinion_i_find_it_counterproductive_to/)
-- [Metered — Production-ready Rate Limiting &amp; Quota Management for Python](https://www.reddit.com/r/Python/comments/1v0suge/metered_productionready_rate_limiting_quota/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1v0bd90/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
