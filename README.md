@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1v15v67/monday_daily_thread_project_ideas/)
 - [Unpopular opinion: I find it counterproductive to shorten function and variable names](https://www.reddit.com/r/Python/comments/1v1102x/unpopular_opinion_i_find_it_counterproductive_to/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1v0bd90/sunday_daily_thread_whats_everyone_working_on/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1uzgdns/saturday_daily_thread_resource_request_and/)
 - [Agentic Travel Assistant with Django, Celery and AWS- Technical Review](https://www.reddit.com/r/Python/comments/1uz4w7y/agentic_travel_assistant_with_django_celery_and/)
-- [Reaching users on this sub](https://www.reddit.com/r/Python/comments/1uywjuc/reaching_users_on_this_sub/)
 <!-- BLOG-POST-LIST:END -->
