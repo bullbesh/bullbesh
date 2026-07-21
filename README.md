@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [If you had to choose one Python skill to make money as a freelancer, what would it be?](https://www.reddit.com/r/Python/comments/1v2ez9h/if_you_had_to_choose_one_python_skill_to_make/)
 - [What can you do with Python embedded in MS Excel?](https://www.reddit.com/r/Python/comments/1v2da9q/what_can_you_do_with_python_embedded_in_ms_excel/)
 - [Is PHP better for commercial software than Python?](https://www.reddit.com/r/Python/comments/1v2bvdv/is_php_better_for_commercial_software_than_python/)
-- [Infosys Python virtual coding assessment coming up — any tips or resources?](https://www.reddit.com/r/Python/comments/1v28bs9/infosys_python_virtual_coding_assessment_coming/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1v22a2p/tuesday_daily_thread_advanced_questions/)
 - [LLVMLite and first step to get Numba in the browser](https://www.reddit.com/r/Python/comments/1v1x1ps/llvmlite_and_first_step_to_get_numba_in_the/)
 <!-- BLOG-POST-LIST:END -->
