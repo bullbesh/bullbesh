@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Infosys Python virtual coding assessment coming up — any tips or resources?](https://www.reddit.com/r/Python/comments/1v28bs9/infosys_python_virtual_coding_assessment_coming/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1v22a2p/tuesday_daily_thread_advanced_questions/)
 - [LLVMLite and first step to get Numba in the browser](https://www.reddit.com/r/Python/comments/1v1x1ps/llvmlite_and_first_step_to_get_numba_in_the/)
 - [PyOhio 2026 is this weekend, July 25-26 at the Cleveland State University Student Center &lpar;and free!&rpar;](https://www.reddit.com/r/Python/comments/1v1tg45/pyohio_2026_is_this_weekend_july_2526_at_the/)
 - [Cyber Security wants us to use the latest version all the time](https://www.reddit.com/r/Python/comments/1v1ngel/cyber_security_wants_us_to_use_the_latest_version/)
-- [Blog: Making Type Coverage Visible in Dify&#39;s CI](https://www.reddit.com/r/Python/comments/1v1lghu/blog_making_type_coverage_visible_in_difys_ci/)
 <!-- BLOG-POST-LIST:END -->
