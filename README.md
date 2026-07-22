@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anyone running free-threaded Python 3.14 in production yet? Curious what actually breaks](https://www.reddit.com/r/Python/comments/1v3ayph/anyone_running_freethreaded_python_314_in/)
+- [Python Architecture Design](https://www.reddit.com/r/Python/comments/1v39o8s/python_architecture_design/)
 - [Is Google wrong?](https://www.reddit.com/r/Python/comments/1v35rti/is_google_wrong/)
 - [Running 60 python scripts as &quot;services&quot;](https://www.reddit.com/r/Python/comments/1v2i2hn/running_60_python_scripts_as_services/)
 - [If you had to choose one Python skill to make money as a freelancer, what would it be?](https://www.reddit.com/r/Python/comments/1v2ez9h/if_you_had_to_choose_one_python_skill_to_make/)
-- [What can you do with Python embedded in MS Excel?](https://www.reddit.com/r/Python/comments/1v2da9q/what_can_you_do_with_python_embedded_in_ms_excel/)
-- [Is PHP better for commercial software than Python?](https://www.reddit.com/r/Python/comments/1v2bvdv/is_php_better_for_commercial_software_than_python/)
 <!-- BLOG-POST-LIST:END -->
