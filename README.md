@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What frustrates you the most about Python Development](https://www.reddit.com/r/Python/comments/1v4whin/what_frustrates_you_the_most_about_python/)
+- [How I scraped 800+ queries across 8 news portals without writing a single custom spider](https://www.reddit.com/r/Python/comments/1v4wbgb/how_i_scraped_800_queries_across_8_news_portals/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1v4v4hx/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Does anyone use Python IDLE?](https://www.reddit.com/r/Python/comments/1v4lvfv/does_anyone_use_python_idle/)
 - [Pip 26.2: –only-deps solves 16 years of app deployment hacks](https://www.reddit.com/r/Python/comments/1v43rio/pip_262_onlydeps_solves_16_years_of_app/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1v3xk7p/thursday_daily_thread_python_careers_courses_and/)
-- [PyArrow tutorials in your browser](https://www.reddit.com/r/Python/comments/1v3ft5b/pyarrow_tutorials_in_your_browser/)
-- [Anyone running free-threaded Python 3.14 in production yet? Curious what actually breaks](https://www.reddit.com/r/Python/comments/1v3ayph/anyone_running_freethreaded_python_314_in/)
 <!-- BLOG-POST-LIST:END -->
