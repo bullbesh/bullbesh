@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Python when C and Rust are faster](https://www.reddit.com/r/Python/comments/1v5tb79/why_python_when_c_and_rust_are_faster/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1v5scej/saturday_daily_thread_resource_request_and/)
 - [ruff: no date.today&lpar;&rpar; ?](https://www.reddit.com/r/Python/comments/1v59ter/ruff_no_datetoday/)
 - [What is your strangest syntax monstrocity?](https://www.reddit.com/r/Python/comments/1v57lhj/what_is_your_strangest_syntax_monstrocity/)
 - [OpenCV notebooks tutorials in your browser](https://www.reddit.com/r/Python/comments/1v5482z/opencv_notebooks_tutorials_in_your_browser/)
-- [What frustrates you the most about Python Development](https://www.reddit.com/r/Python/comments/1v4whin/what_frustrates_you_the_most_about_python/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1v4v4hx/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
