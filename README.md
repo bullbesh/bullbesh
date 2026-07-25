@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Parameterize a Fixture instead of a Test Case with Pytest](https://www.reddit.com/r/Python/comments/1v6gbps/parameterize_a_fixture_instead_of_a_test_case/)
 - [[D]How are you testing AI backends without making CI slow?](https://www.reddit.com/r/Python/comments/1v64q2c/dhow_are_you_testing_ai_backends_without_making/)
 - [Why Python when C and Rust are faster](https://www.reddit.com/r/Python/comments/1v5tb79/why_python_when_c_and_rust_are_faster/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1v5scej/saturday_daily_thread_resource_request_and/)
 - [ruff: no date.today&lpar;&rpar; ?](https://www.reddit.com/r/Python/comments/1v59ter/ruff_no_datetoday/)
-- [What is your strangest syntax monstrocity?](https://www.reddit.com/r/Python/comments/1v57lhj/what_is_your_strangest_syntax_monstrocity/)
 <!-- BLOG-POST-LIST:END -->
