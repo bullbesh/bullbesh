@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Giveaway draw: 3 Python ebooks &lpar;PDF + ePub&rpar;, free to enter](https://www.reddit.com/r/Python/comments/1v80wlk/giveaway_draw_3_python_ebooks_pdf_epub_free_to/)
 - [Python automations are so much better than AI Agents and LLMs](https://www.reddit.com/r/Python/comments/1v7tfx9/python_automations_are_so_much_better_than_ai/)
+- [What the #@&lpar;% are Monads &lpar;and how you can use them to write better python&rpar; - A Beginner&#39;s Guide](https://www.reddit.com/r/Python/comments/1v7rn85/what_the_are_monads_and_how_you_can_use_them_to/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1v7kdc2/monday_daily_thread_project_ideas/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1v6o0cr/sunday_daily_thread_whats_everyone_working_on/)
-- [Lightweight Python helpers for Event Driven Programming](https://www.reddit.com/r/Python/comments/1v6know/lightweight_python_helpers_for_event_driven/)
 <!-- BLOG-POST-LIST:END -->
