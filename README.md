@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1v7kdc2/monday_daily_thread_project_ideas/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1v6o0cr/sunday_daily_thread_whats_everyone_working_on/)
 - [Lightweight Python helpers for Event Driven Programming](https://www.reddit.com/r/Python/comments/1v6know/lightweight_python_helpers_for_event_driven/)
 - [Parameterize a Fixture instead of a Test Case with Pytest](https://www.reddit.com/r/Python/comments/1v6gbps/parameterize_a_fixture_instead_of_a_test_case/)
 - [[D]How are you testing AI backends without making CI slow?](https://www.reddit.com/r/Python/comments/1v64q2c/dhow_are_you_testing_ai_backends_without_making/)
-- [Why Python when C and Rust are faster](https://www.reddit.com/r/Python/comments/1v5tb79/why_python_when_c_and_rust_are_faster/)
 <!-- BLOG-POST-LIST:END -->
