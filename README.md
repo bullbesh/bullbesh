@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Keyboard navigation for Python docs](https://www.reddit.com/r/Python/comments/1v8k2cw/keyboard_navigation_for_python_docs/)
 - [2 hours of learning how am i?](https://www.reddit.com/r/Python/comments/1v8jlbh/2_hours_of_learning_how_am_i/)
-- [Online converters with file limits, I coded a lightweight alternative &lpar;ImageForge&rpar;](https://www.reddit.com/r/Python/comments/1v8hte8/online_converters_with_file_limits_i_coded_a/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1v8hp1p/tuesday_daily_thread_advanced_questions/)
 - [Percentage formatting or f-strings with logging?](https://www.reddit.com/r/Python/comments/1v88quw/percentage_formatting_or_fstrings_with_logging/)
+- [The log line announcing a successful Redis connection is what disabled Redis](https://www.reddit.com/r/Python/comments/1v88a95/the_log_line_announcing_a_successful_redis/)
 <!-- BLOG-POST-LIST:END -->
