@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Diagrams](https://www.reddit.com/r/Python/comments/1v99rq6/architecture_diagrams/)
 - [How are you handling editable large datasets in Plotly Dash?](https://www.reddit.com/r/Python/comments/1v95vfy/how_are_you_handling_editable_large_datasets_in/)
 - [Define less, check more: special support for attrs in Pyrefly](https://www.reddit.com/r/Python/comments/1v8xi2u/define_less_check_more_special_support_for_attrs/)
+- [Important news A new calculator for projectile motion coded in python](https://www.reddit.com/r/Python/comments/1v8x4dh/important_news_a_new_calculator_for_projectile/)
 - [Keyboard navigation for Python docs](https://www.reddit.com/r/Python/comments/1v8k2cw/keyboard_navigation_for_python_docs/)
-- [2 hours of learning how am i?](https://www.reddit.com/r/Python/comments/1v8jlbh/2_hours_of_learning_how_am_i/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1v8hp1p/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
