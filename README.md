@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Keyboard navigation for Python docs](https://www.reddit.com/r/Python/comments/1v8k2cw/keyboard_navigation_for_python_docs/)
+- [2 hours of learning how am i?](https://www.reddit.com/r/Python/comments/1v8jlbh/2_hours_of_learning_how_am_i/)
+- [Online converters with file limits, I coded a lightweight alternative &lpar;ImageForge&rpar;](https://www.reddit.com/r/Python/comments/1v8hte8/online_converters_with_file_limits_i_coded_a/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1v8hp1p/tuesday_daily_thread_advanced_questions/)
 - [Percentage formatting or f-strings with logging?](https://www.reddit.com/r/Python/comments/1v88quw/percentage_formatting_or_fstrings_with_logging/)
-- [The log line announcing a successful Redis connection is what disabled Redis](https://www.reddit.com/r/Python/comments/1v88a95/the_log_line_announcing_a_successful_redis/)
-- [Giveaway draw: 3 Python ebooks &lpar;PDF + ePub&rpar;, free to enter](https://www.reddit.com/r/Python/comments/1v80wlk/giveaway_draw_3_python_ebooks_pdf_epub_free_to/)
-- [Python automations are so much better than AI Agents and LLMs](https://www.reddit.com/r/Python/comments/1v7tfx9/python_automations_are_so_much_better_than_ai/)
-- [What the #@&lpar;% are Monads &lpar;and how you can use them to write better python&rpar; - A Beginner&#39;s Guide](https://www.reddit.com/r/Python/comments/1v7rn85/what_the_are_monads_and_how_you_can_use_them_to/)
 <!-- BLOG-POST-LIST:END -->
