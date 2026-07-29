@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I rebuilt my person-recognition prototype into a local-first PyQt desktop app](https://www.reddit.com/r/Python/comments/1v9zxuj/i_rebuilt_my_personrecognition_prototype_into_a/)
 - [5 tools that saved my sanity while modernizing a legacy app](https://www.reddit.com/r/Python/comments/1v9xzsh/5_tools_that_saved_my_sanity_while_modernizing_a/)
 - [PyWebLib editable code with Turtle and Game library support](https://www.reddit.com/r/Python/comments/1v9em7q/pyweblib_editable_code_with_turtle_and_game/)
 - [How are you handling editable large datasets in Plotly Dash?](https://www.reddit.com/r/Python/comments/1v95vfy/how_are_you_handling_editable_large_datasets_in/)
 - [Define less, check more: special support for attrs in Pyrefly](https://www.reddit.com/r/Python/comments/1v8xi2u/define_less_check_more_special_support_for_attrs/)
+- [Important news A new calculator for projectile motion coded in python](https://www.reddit.com/r/Python/comments/1v8x4dh/important_news_a_new_calculator_for_projectile/)
 <!-- BLOG-POST-LIST:END -->
