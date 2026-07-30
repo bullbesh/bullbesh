@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of the Command Line: building a new IDE &lpar;2017–2026&rpar;](https://www.reddit.com/r/Python/comments/1vb3t6f/the_rise_of_the_command_line_building_a_new_ide/)
+- [Scaling NumPy on Free-Threaded Python](https://www.reddit.com/r/Python/comments/1vb2ruy/scaling_numpy_on_freethreaded_python/)
 - [Python iOS UI development](https://www.reddit.com/r/Python/comments/1vauefo/python_ios_ui_development/)
 - [Optimizing person-pair comparison in Python: from loops to precomputed NumPy matrices](https://www.reddit.com/r/Python/comments/1vat5sg/optimizing_personpair_comparison_in_python_from/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1vadgb5/thursday_daily_thread_python_careers_courses_and/)
-- [5 tools that saved my sanity while modernizing a legacy app](https://www.reddit.com/r/Python/comments/1v9xzsh/5_tools_that_saved_my_sanity_while_modernizing_a/)
-- [PyWebLib editable code with Turtle and Game library support](https://www.reddit.com/r/Python/comments/1v9em7q/pyweblib_editable_code_with_turtle_and_game/)
 <!-- BLOG-POST-LIST:END -->
