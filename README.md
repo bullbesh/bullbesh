@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Can we make Python Development less frustrating?](https://www.reddit.com/r/Python/comments/1vckgul/can_we_make_python_development_less_frustrating/)
-- [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1vci94e/removed_by_reddit/)
 - [Settle an argument](https://www.reddit.com/r/Python/comments/1vcfrea/settle_an_argument/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1vc7lgz/saturday_daily_thread_resource_request_and/)
 - [PEP 842: Module Exports](https://www.reddit.com/r/Python/comments/1vc53z8/pep_842_module_exports/)
+- [pip 26.2 - --only-deps, --no-require-hashes, venv isolation, and more!](https://www.reddit.com/r/Python/comments/1vbzpsz/pip_262_onlydeps_norequirehashes_venv_isolation/)
 <!-- BLOG-POST-LIST:END -->
