@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A rule that lives only in a comment will decay. Enforce it with an ast test](https://www.reddit.com/r/Python/comments/1vcsnt7/a_rule_that_lives_only_in_a_comment_will_decay/)
+- [Tutorial: From your first Celery task to advanced recipes](https://www.reddit.com/r/Python/comments/1vcrxpc/tutorial_from_your_first_celery_task_to_advanced/)
 - [Can we make Python Development less frustrating?](https://www.reddit.com/r/Python/comments/1vckgul/can_we_make_python_development_less_frustrating/)
 - [Settle an argument](https://www.reddit.com/r/Python/comments/1vcfrea/settle_an_argument/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1vc7lgz/saturday_daily_thread_resource_request_and/)
-- [PEP 842: Module Exports](https://www.reddit.com/r/Python/comments/1vc53z8/pep_842_module_exports/)
-- [pip 26.2 - --only-deps, --no-require-hashes, venv isolation, and more!](https://www.reddit.com/r/Python/comments/1vbzpsz/pip_262_onlydeps_norequirehashes_venv_isolation/)
 <!-- BLOG-POST-LIST:END -->
