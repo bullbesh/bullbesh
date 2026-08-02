@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Xberg v1 is out](https://www.reddit.com/r/Python/comments/1vdcyip/xberg_v1_is_out/)
 - [Hit a concurrency bug building a local voice assistant with llama-cpp-python](https://www.reddit.com/r/Python/comments/1vdbj2q/hit_a_concurrency_bug_building_a_local_voice/)
-- [made a voice assistant with a full custom sci-fi HUD in PyQt6, wanted to share](https://www.reddit.com/r/Python/comments/1vd6unh/made_a_voice_assistant_with_a_full_custom_scifi/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1vd2rk6/sunday_daily_thread_whats_everyone_working_on/)
 - [Tutorial: From your first Celery task to advanced recipes](https://www.reddit.com/r/Python/comments/1vcrxpc/tutorial_from_your_first_celery_task_to_advanced/)
 - [Can we make Python Development less frustrating?](https://www.reddit.com/r/Python/comments/1vckgul/can_we_make_python_development_less_frustrating/)
