@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are you using to manage your dev environments in 2026?](https://www.reddit.com/r/Python/comments/1vexrvf/what_are_you_using_to_manage_your_dev/)
+- [Is := widely used?](https://www.reddit.com/r/Python/comments/1vev5k1/is_widely_used/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1veu9y9/tuesday_daily_thread_advanced_questions/)
 - [Anyone running FastAPI in production with high traffic? How has your experience been?](https://www.reddit.com/r/Python/comments/1veq8jh/anyone_running_fastapi_in_production_with_high/)
 - [Just created two apps and made the dumbest mistake in one of them 😭](https://www.reddit.com/r/Python/comments/1vdylxq/just_created_two_apps_and_made_the_dumbest/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1vdxnhc/monday_daily_thread_project_ideas/)
-- [Turned a folder of ad-hoc scripts into a proper installable CLI &lpar;pyproject.toml entry point&rpar;](https://www.reddit.com/r/Python/comments/1vdrvh6/turned_a_folder_of_adhoc_scripts_into_a_proper/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1vd2rk6/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
