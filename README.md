@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI tool that feeds LLMs the real project context so they stop hallucinating imports](https://www.reddit.com/r/Python/comments/1vfyet4/i_built_a_cli_tool_that_feeds_llms_the_real/)
-- [Do I need more Type Hint?](https://www.reddit.com/r/Python/comments/1vfx7ov/do_i_need_more_type_hint/)
+- [What linter rules make code worse?](https://www.reddit.com/r/Python/comments/1vg0amj/what_linter_rules_make_code_worse/)
 - [I am trying to automate the Python Development Lifecycle](https://www.reddit.com/r/Python/comments/1vfq75x/i_am_trying_to_automate_the_python_development/)
 - [Showcase Thread](https://www.reddit.com/r/Python/comments/1vfemi1/showcase_thread/)
 - [What are you using to manage your dev environments in 2026?](https://www.reddit.com/r/Python/comments/1vexrvf/what_are_you_using_to_manage_your_dev/)
+- [Is := widely used?](https://www.reddit.com/r/Python/comments/1vev5k1/is_widely_used/)
 <!-- BLOG-POST-LIST:END -->
