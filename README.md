@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1vgob5u/thursday_daily_thread_python_careers_courses_and/)
+- [LiteLLM alternatives in production](https://www.reddit.com/r/Python/comments/1vgoad5/litellm_alternatives_in_production/)
 - [What linter rules make code worse?](https://www.reddit.com/r/Python/comments/1vg0amj/what_linter_rules_make_code_worse/)
 - [I am trying to automate the Python Development Lifecycle](https://www.reddit.com/r/Python/comments/1vfq75x/i_am_trying_to_automate_the_python_development/)
 - [Showcase Thread](https://www.reddit.com/r/Python/comments/1vfemi1/showcase_thread/)
-- [What are you using to manage your dev environments in 2026?](https://www.reddit.com/r/Python/comments/1vexrvf/what_are_you_using_to_manage_your_dev/)
-- [Is := widely used?](https://www.reddit.com/r/Python/comments/1vev5k1/is_widely_used/)
 <!-- BLOG-POST-LIST:END -->
