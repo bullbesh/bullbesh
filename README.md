@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1vhky8j/friday_daily_thread_rpython_meta_and_freetalk/)
+- [Seg Fault, what do you do?](https://www.reddit.com/r/Python/comments/1vhg0dw/seg_fault_what_do_you_do/)
+- [Python 3.14.7 and 3.13.15 are now available!](https://www.reddit.com/r/Python/comments/1vhftff/python_3147_and_31315_are_now_available/)
+- [New in programming](https://www.reddit.com/r/Python/comments/1vhf290/new_in_programming/)
 - [What is a built-in Python module you use all the time but rarely see others talk about?](https://www.reddit.com/r/Python/comments/1vh3jf3/what_is_a_builtin_python_module_you_use_all_the/)
-- [FastAPI Conf 2026 - first ever official FastAPI conference](https://www.reddit.com/r/Python/comments/1vh33qd/fastapi_conf_2026_first_ever_official_fastapi/)
-- [taught myself numerical and analytical gradient &lpar;backpropagation&rpar; in 5 days](https://www.reddit.com/r/Python/comments/1vh2zqm/taught_myself_numerical_and_analytical_gradient/)
-- [2026 Python Type System and Tooling Survey](https://www.reddit.com/r/Python/comments/1vh295u/2026_python_type_system_and_tooling_survey/)
-- [New data visualization package](https://www.reddit.com/r/Python/comments/1vgqi3f/new_data_visualization_package/)
 <!-- BLOG-POST-LIST:END -->
