@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 841 – Adding Frozen Syntax to Optimize Immutable Types](https://www.reddit.com/r/Python/comments/1vhtazc/pep_841_adding_frozen_syntax_to_optimize/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1vhky8j/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Seg Fault, what do you do?](https://www.reddit.com/r/Python/comments/1vhg0dw/seg_fault_what_do_you_do/)
 - [Python 3.14.7 and 3.13.15 are now available!](https://www.reddit.com/r/Python/comments/1vhftff/python_3147_and_31315_are_now_available/)
 - [New in programming](https://www.reddit.com/r/Python/comments/1vhf290/new_in_programming/)
-- [What is a built-in Python module you use all the time but rarely see others talk about?](https://www.reddit.com/r/Python/comments/1vh3jf3/what_is_a_builtin_python_module_you_use_all_the/)
 <!-- BLOG-POST-LIST:END -->
