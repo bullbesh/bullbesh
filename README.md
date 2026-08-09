@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1vjaxcj/sunday_daily_thread_whats_everyone_working_on/)
 - [Small external evaluation of PatchForge](https://www.reddit.com/r/Python/comments/1vj34ud/small_external_evaluation_of_patchforge/)
-- [New online Python IDE: Strype](https://www.reddit.com/r/Python/comments/1viv482/new_online_python_ide_strype/)
 - [Python 3.15.0 RC1 Is Here — Python 3.15 Is Almost Ready 🚀](https://www.reddit.com/r/Python/comments/1viucj5/python_3150_rc1_is_here_python_315_is_almost_ready/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1vigv7n/saturday_daily_thread_resource_request_and/)
+- [Improving Project Maintenance](https://www.reddit.com/r/Python/comments/1vhwaiz/improving_project_maintenance/)
 <!-- BLOG-POST-LIST:END -->
