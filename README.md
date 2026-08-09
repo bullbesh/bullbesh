@@ -12,5 +12,5 @@
 - [Small external evaluation of PatchForge](https://www.reddit.com/r/Python/comments/1vj34ud/small_external_evaluation_of_patchforge/)
 - [New online Python IDE: Strype](https://www.reddit.com/r/Python/comments/1viv482/new_online_python_ide_strype/)
 - [Python 3.15.0 RC1 Is Here — Python 3.15 Is Almost Ready 🚀](https://www.reddit.com/r/Python/comments/1viucj5/python_3150_rc1_is_here_python_315_is_almost_ready/)
-- [Will &quot;no ai generated code was used&quot; be misleading in my situation](https://www.reddit.com/r/Python/comments/1vit693/will_no_ai_generated_code_was_used_be_misleading/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1vigv7n/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
