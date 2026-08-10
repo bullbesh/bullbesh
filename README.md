@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What do you love and dislike the most about Python? &lpar;beginners and long-time devs&rpar;](https://www.reddit.com/r/Python/comments/1vkrvhc/what_do_you_love_and_dislike_the_most_about/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1vk5bis/monday_daily_thread_project_ideas/)
 - [Third party Python libraries and supply chain security](https://www.reddit.com/r/Python/comments/1vk3w9b/third_party_python_libraries_and_supply_chain/)
 - [Should we standardize docstring formats?](https://www.reddit.com/r/Python/comments/1vjweaj/should_we_standardize_docstring_formats/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1vjaxcj/sunday_daily_thread_whats_everyone_working_on/)
-- [Small external evaluation of PatchForge](https://www.reddit.com/r/Python/comments/1vj34ud/small_external_evaluation_of_patchforge/)
 <!-- BLOG-POST-LIST:END -->
