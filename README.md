@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recommendations and discussion on codebase visualizer and dependence mapper.](https://www.reddit.com/r/Python/comments/1vllhs3/recommendations_and_discussion_on_codebase/)
+- [Python in production](https://www.reddit.com/r/Python/comments/1vlk33u/python_in_production/)
+- [Benchmarking Python API frameworks with real workloads: FastAPI, Litestar, DRF, Ninja, Bolt](https://www.reddit.com/r/Python/comments/1vlfhlt/benchmarking_python_api_frameworks_with_real/)
 - [Learning cython](https://www.reddit.com/r/Python/comments/1vlerx2/learning_cython/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1vl1mwt/tuesday_daily_thread_advanced_questions/)
-- [What do you love and dislike the most about Python? &lpar;beginners and long-time devs&rpar;](https://www.reddit.com/r/Python/comments/1vkrvhc/what_do_you_love_and_dislike_the_most_about/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1vk5bis/monday_daily_thread_project_ideas/)
-- [Third party Python libraries and supply chain security](https://www.reddit.com/r/Python/comments/1vk3w9b/third_party_python_libraries_and_supply_chain/)
 <!-- BLOG-POST-LIST:END -->
