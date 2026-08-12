@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a Kindle book packed with practical Python projects to build your python skills](https://www.reddit.com/r/Python/comments/1vmq139/i_wrote_a_kindle_book_packed_with_practical/)
+- [Hypothesis: the Python library that kills PhDs](https://www.reddit.com/r/Python/comments/1vmnmk0/hypothesis_the_python_library_that_kills_phds/)
 - [How are you actually handling API abuse in FastAPI? Scrapers, credential stuffing, bots...](https://www.reddit.com/r/Python/comments/1vmj0o0/how_are_you_actually_handling_api_abuse_in/)
+- [On the introduction of new features into programming languages](https://www.reddit.com/r/Python/comments/1vmf3g9/on_the_introduction_of_new_features_into/)
 - [Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite](https://www.reddit.com/r/Python/comments/1vm8nkn/numba_in_the_browser_unlocking_a_new_scientific/)
-- [asyncio RabbitMQ client without pika, feedback welcome](https://www.reddit.com/r/Python/comments/1vlqme0/asyncio_rabbitmq_client_without_pika_feedback/)
-- [Recommendations and discussion on codebase visualizer and dependence mapper.](https://www.reddit.com/r/Python/comments/1vllhs3/recommendations_and_discussion_on_codebase/)
-- [Python in production](https://www.reddit.com/r/Python/comments/1vlk33u/python_in_production/)
 <!-- BLOG-POST-LIST:END -->
