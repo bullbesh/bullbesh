@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite](https://www.reddit.com/r/Python/comments/1vm8nkn/numba_in_the_browser_unlocking_a_new_scientific/)
 - [asyncio RabbitMQ client without pika, feedback welcome](https://www.reddit.com/r/Python/comments/1vlqme0/asyncio_rabbitmq_client_without_pika_feedback/)
 - [Recommendations and discussion on codebase visualizer and dependence mapper.](https://www.reddit.com/r/Python/comments/1vllhs3/recommendations_and_discussion_on_codebase/)
 - [Python in production](https://www.reddit.com/r/Python/comments/1vlk33u/python_in_production/)
 - [Benchmarking Python API frameworks with real workloads: FastAPI, Litestar, DRF, Ninja, Bolt](https://www.reddit.com/r/Python/comments/1vlfhlt/benchmarking_python_api_frameworks_with_real/)
-- [Learning cython](https://www.reddit.com/r/Python/comments/1vlerx2/learning_cython/)
 <!-- BLOG-POST-LIST:END -->
