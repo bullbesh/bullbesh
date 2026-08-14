@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [attune-forms is now on PyPI — and as of this week, it&#39;s a Claude Code plugin.](https://www.reddit.com/r/Python/comments/1vo8kp2/attuneforms_is_now_on_pypi_and_as_of_this_week/)
+- [[Python] Low-Level Physical Media &amp; Storage Architecture Simulator &lpar;_Prime_Floppy&rpar;](https://www.reddit.com/r/Python/comments/1vo7t3u/python_lowlevel_physical_media_storage/)
 - [Other Python forums - Stack Overflow](https://www.reddit.com/r/Python/comments/1vo3rrb/other_python_forums_stack_overflow/)
 - [Is Python an industry-ready technology for backends?](https://www.reddit.com/r/Python/comments/1vo2fxk/is_python_an_industryready_technology_for_backends/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1vnrksf/friday_daily_thread_rpython_meta_and_freetalk/)
-- [In the age of agentic coding what are you doing with your “human” tooling like uv, linters, etc?](https://www.reddit.com/r/Python/comments/1vn87qc/in_the_age_of_agentic_coding_what_are_you_doing/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1vmuw0z/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
