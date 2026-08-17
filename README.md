@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1vqco2a/monday_daily_thread_project_ideas/)
 - [Writing the typing.Protocol before the class that satisfies it](https://www.reddit.com/r/Python/comments/1vq4svz/writing_the_typingprotocol_before_the_class_that/)
 - [What are some fun Python-heavy niches?](https://www.reddit.com/r/Python/comments/1vpk70t/what_are_some_fun_pythonheavy_niches/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1vpi01q/sunday_daily_thread_whats_everyone_working_on/)
 - [Composable, reusable WebSocket components for any ASGI framework &lpar;Django, FastAPI, Litestar&rpar;](https://www.reddit.com/r/Python/comments/1vp8c3e/composable_reusable_websocket_components_for_any/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1vonnet/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
