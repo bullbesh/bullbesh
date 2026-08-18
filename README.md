@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1vrmieo/removed_by_reddit/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1vr96e1/tuesday_daily_thread_advanced_questions/)
 - [a tool to convert itunes backup to whatsapp](https://www.reddit.com/r/Python/comments/1vr8s5u/a_tool_to_convert_itunes_backup_to_whatsapp/)
 - [What are some Python automations you built for your life?](https://www.reddit.com/r/Python/comments/1vqggbo/what_are_some_python_automations_you_built_for/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1vqco2a/monday_daily_thread_project_ideas/)
-- [Writing the typing.Protocol before the class that satisfies it](https://www.reddit.com/r/Python/comments/1vq4svz/writing_the_typingprotocol_before_the_class_that/)
 <!-- BLOG-POST-LIST:END -->
