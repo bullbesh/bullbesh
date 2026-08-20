@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I need to frame my photos so I frame all with Python](https://www.reddit.com/r/Python/comments/1vtuoyp/i_need_to_frame_my_photos_so_i_frame_all_with/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1vt3i53/thursday_daily_thread_python_careers_courses_and/)
 - [Docling in databricks](https://www.reddit.com/r/Python/comments/1vshux7/docling_in_databricks/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1vr96e1/tuesday_daily_thread_advanced_questions/)
 - [What are some Python automations you built for your life?](https://www.reddit.com/r/Python/comments/1vqggbo/what_are_some_python_automations_you_built_for/)
+- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1vqco2a/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
