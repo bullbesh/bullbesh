@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Any free STT/TTS APIs for a voice AI app?](https://www.reddit.com/r/Python/comments/1vv9ut4/any_free_stttts_apis_for_a_voice_ai_app/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1vuwujm/saturday_daily_thread_resource_request_and/)
 - [VS Code vs Pycharm for more than python?](https://www.reddit.com/r/Python/comments/1vunmhj/vs_code_vs_pycharm_for_more_than_python/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1vu0doy/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1vt3i53/thursday_daily_thread_python_careers_courses_and/)
-- [Docling in databricks](https://www.reddit.com/r/Python/comments/1vshux7/docling_in_databricks/)
 <!-- BLOG-POST-LIST:END -->
