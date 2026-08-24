@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Updating Python &lpar;sub&rpar;versions](https://www.reddit.com/r/Python/comments/1vx09z1/updating_python_subversions/)
 - [GUI based Python Tkinter Serial Port Program for communicating with Arduino Microcontroller from PC](https://www.reddit.com/r/Python/comments/1vwtd2g/gui_based_python_tkinter_serial_port_program_for/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1vwn3pg/monday_daily_thread_project_ideas/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1vvrwwj/sunday_daily_thread_whats_everyone_working_on/)
 - [Any free STT/TTS APIs for a voice AI app?](https://www.reddit.com/r/Python/comments/1vv9ut4/any_free_stttts_apis_for_a_voice_ai_app/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1vuwujm/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
