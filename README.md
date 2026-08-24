@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [GUI based Python Tkinter Serial Port Program for communicating with Arduino Microcontroller from PC](https://www.reddit.com/r/Python/comments/1vwtd2g/gui_based_python_tkinter_serial_port_program_for/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1vwn3pg/monday_daily_thread_project_ideas/)
 - [Python/Chat GPT](https://www.reddit.com/r/Python/comments/1vwa6zz/pythonchat_gpt/)
 - [Trying HikerAPI from Termux on Android — my experience so far](https://www.reddit.com/r/Python/comments/1vw5be5/trying_hikerapi_from_termux_on_android_my/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1vvrwwj/sunday_daily_thread_whats_everyone_working_on/)
-- [I built a compressive &quot;context DNA&quot; &lpar;for LLM&rpar; attention mechanism + an honest eval harness - looking](https://www.reddit.com/r/Python/comments/1vve15w/i_built_a_compressive_context_dna_for_llm/)
 <!-- BLOG-POST-LIST:END -->
