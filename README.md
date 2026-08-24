@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [TIL: Dict Patterns Don&#39;t Match Dict Shapes](https://www.reddit.com/r/Python/comments/1vx87dz/til_dict_patterns_dont_match_dict_shapes/)
 - [Updating Python &lpar;sub&rpar;versions](https://www.reddit.com/r/Python/comments/1vx09z1/updating_python_subversions/)
 - [GUI based Python Tkinter Serial Port Program for communicating with Arduino Microcontroller from PC](https://www.reddit.com/r/Python/comments/1vwtd2g/gui_based_python_tkinter_serial_port_program_for/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1vwn3pg/monday_daily_thread_project_ideas/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1vvrwwj/sunday_daily_thread_whats_everyone_working_on/)
-- [Any free STT/TTS APIs for a voice AI app?](https://www.reddit.com/r/Python/comments/1vv9ut4/any_free_stttts_apis_for_a_voice_ai_app/)
 <!-- BLOG-POST-LIST:END -->
