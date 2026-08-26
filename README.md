@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1vz1mfw/removed_by_reddit/)
 - [Pyrefly opinion](https://www.reddit.com/r/Python/comments/1vyz3e8/pyrefly_opinion/)
 - [Blog: What&#39;s type-coverage, and why should I care?](https://www.reddit.com/r/Python/comments/1vyvh9i/blog_whats_typecoverage_and_why_should_i_care/)
+- [I’m building a C++ app for managing Python environments — would you use it? [Survey]](https://www.reddit.com/r/Python/comments/1vysxyn/im_building_a_c_app_for_managing_python/)
 - [Fun and entertaining Content and Resource for Python?](https://www.reddit.com/r/Python/comments/1vyajkm/fun_and_entertaining_content_and_resource_for/)
-- [Benchmarking Popular Python Runtime Type Checkers: Beartype, Typeguard, type_enforced, Pydantic](https://www.reddit.com/r/Python/comments/1vy1bo3/benchmarking_popular_python_runtime_type_checkers/)
-- [The Python &lpar;3.16&rpar; docs now have a page detailing the time complexity of operations on built-in types](https://www.reddit.com/r/Python/comments/1vy0ywg/the_python_316_docs_now_have_a_page_detailing_the/)
 <!-- BLOG-POST-LIST:END -->
