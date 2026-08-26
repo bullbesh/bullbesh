@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Preventing Grid Collapsing in Neural PDE Solvers: A lightweight PyTorch Log-Barrier Loss for 2D Tras](https://www.reddit.com/r/Python/comments/1vydm14/preventing_grid_collapsing_in_neural_pde_solvers/)
+- [Blog: What&#39;s type-coverage, and why should I care?](https://www.reddit.com/r/Python/comments/1vyvh9i/blog_whats_typecoverage_and_why_should_i_care/)
 - [Fun and entertaining Content and Resource for Python?](https://www.reddit.com/r/Python/comments/1vyajkm/fun_and_entertaining_content_and_resource_for/)
 - [Benchmarking Popular Python Runtime Type Checkers: Beartype, Typeguard, type_enforced, Pydantic](https://www.reddit.com/r/Python/comments/1vy1bo3/benchmarking_popular_python_runtime_type_checkers/)
 - [The Python &lpar;3.16&rpar; docs now have a page detailing the time complexity of operations on built-in types](https://www.reddit.com/r/Python/comments/1vy0ywg/the_python_316_docs_now_have_a_page_detailing_the/)
