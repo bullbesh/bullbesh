@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Preventing Grid Collapsing in Neural PDE Solvers: A lightweight PyTorch Log-Barrier Loss for 2D Tras](https://www.reddit.com/r/Python/comments/1vydm14/preventing_grid_collapsing_in_neural_pde_solvers/)
-- [What&#39;s the best Python course you know of that is available in Udemy?](https://www.reddit.com/r/Python/comments/1vycnps/whats_the_best_python_course_you_know_of_that_is/)
 - [Fun and entertaining Content and Resource for Python?](https://www.reddit.com/r/Python/comments/1vyajkm/fun_and_entertaining_content_and_resource_for/)
 - [Benchmarking Popular Python Runtime Type Checkers: Beartype, Typeguard, type_enforced, Pydantic](https://www.reddit.com/r/Python/comments/1vy1bo3/benchmarking_popular_python_runtime_type_checkers/)
 - [The Python &lpar;3.16&rpar; docs now have a page detailing the time complexity of operations on built-in types](https://www.reddit.com/r/Python/comments/1vy0ywg/the_python_316_docs_now_have_a_page_detailing_the/)
+- [pdftotext -layout still isn&#39;t enough when a government PDF is secretly a 3-column table](https://www.reddit.com/r/Python/comments/1vxrna7/pdftotext_layout_still_isnt_enough_when_a/)
 <!-- BLOG-POST-LIST:END -->
