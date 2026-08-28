@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding to comparing filenames and foldernames on android](https://www.reddit.com/r/Python/comments/1w0s5gk/coding_to_comparing_filenames_and_foldernames_on/)
+- [CPython’s Experimental JIT in Python 3.15](https://www.reddit.com/r/Python/comments/1w0njpn/cpythons_experimental_jit_in_python_315/)
+- [I shipped an auth bypass into my own AI security tool. Writeup of how it happened.](https://www.reddit.com/r/Python/comments/1w0mc05/i_shipped_an_auth_bypass_into_my_own_ai_security/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1w0atup/friday_daily_thread_rpython_meta_and_freetalk/)
 - [🍹 The Long Pygame Summer Jam 🔥](https://www.reddit.com/r/Python/comments/1w07q7n/the_long_pygame_summer_jam/)
-- [Python 3.15 Release Highlights](https://www.reddit.com/r/Python/comments/1vzr2eg/python_315_release_highlights/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1vze3ct/thursday_daily_thread_python_careers_courses_and/)
-- [The Move to Python 3 Begins!](https://www.reddit.com/r/Python/comments/1vz33md/the_move_to_python_3_begins/)
 <!-- BLOG-POST-LIST:END -->
