@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Contribution to pyperf](https://www.reddit.com/r/Python/comments/1w1kkiq/contribution_to_pyperf/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1w1727w/saturday_daily_thread_resource_request_and/)
 - [Coding to comparing filenames and foldernames on android](https://www.reddit.com/r/Python/comments/1w0s5gk/coding_to_comparing_filenames_and_foldernames_on/)
 - [CPython’s Experimental JIT in Python 3.15](https://www.reddit.com/r/Python/comments/1w0njpn/cpythons_experimental_jit_in_python_315/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1w0atup/friday_daily_thread_rpython_meta_and_freetalk/)
-- [🍹 The Long Pygame Summer Jam 🔥](https://www.reddit.com/r/Python/comments/1w07q7n/the_long_pygame_summer_jam/)
 <!-- BLOG-POST-LIST:END -->
