@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nathan Goldbaum Interviewed about the Move to Free Threading and its Implementation](https://www.reddit.com/r/Python/comments/1w2n8yc/nathan_goldbaum_interviewed_about_the_move_to/)
 - [Software engineer resume keywords, measured across 1,360 job postings](https://www.reddit.com/r/Python/comments/1w2lowb/software_engineer_resume_keywords_measured_across/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1w223jv/sunday_daily_thread_whats_everyone_working_on/)
 - [Contribution to pyperf](https://www.reddit.com/r/Python/comments/1w1kkiq/contribution_to_pyperf/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1w1727w/saturday_daily_thread_resource_request_and/)
-- [Coding to comparing filenames and foldernames on android](https://www.reddit.com/r/Python/comments/1w0s5gk/coding_to_comparing_filenames_and_foldernames_on/)
 <!-- BLOG-POST-LIST:END -->
