@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thank You | from Nova](https://www.reddit.com/r/Python/comments/1w36c9s/thank_you_from_nova/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1w2xjjk/monday_daily_thread_project_ideas/)
 - [Nathan Goldbaum Interviewed about the Move to Free Threading and its Implementation](https://www.reddit.com/r/Python/comments/1w2n8yc/nathan_goldbaum_interviewed_about_the_move_to/)
-- [Software engineer resume keywords, measured across 1,360 job postings](https://www.reddit.com/r/Python/comments/1w2lowb/software_engineer_resume_keywords_measured_across/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1w223jv/sunday_daily_thread_whats_everyone_working_on/)
 - [Contribution to pyperf](https://www.reddit.com/r/Python/comments/1w1kkiq/contribution_to_pyperf/)
 <!-- BLOG-POST-LIST:END -->
