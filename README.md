@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Python Projects for beginners](https://www.reddit.com/r/Python/comments/1w3ilra/python_projects_for_beginners/)
+- [Pycon 2026 in Aveiro](https://www.reddit.com/r/Python/comments/1w3jqtj/pycon_2026_in_aveiro/)
 - [Which repos have merged PRs worth reading?](https://www.reddit.com/r/Python/comments/1w3hzr7/which_repos_have_merged_prs_worth_reading/)
 - [Thank You | from Nova](https://www.reddit.com/r/Python/comments/1w36c9s/thank_you_from_nova/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1w2xjjk/monday_daily_thread_project_ideas/)
