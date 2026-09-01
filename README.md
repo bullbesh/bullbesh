@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I know I’m late, but Python 3.14.7 is out. Anyone actually upgraded yet?](https://www.reddit.com/r/Python/comments/1w44lnm/i_know_im_late_but_python_3147_is_out_anyone/)
+- [When do you prefer asyncio.Semaphore over an asyncio.Queue for limiting concurrency?](https://www.reddit.com/r/Python/comments/1w43div/when_do_you_prefer_asynciosemaphore_over_an/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1w3vlyn/tuesday_daily_thread_advanced_questions/)
 - [Pycon 2026 in Aveiro](https://www.reddit.com/r/Python/comments/1w3jqtj/pycon_2026_in_aveiro/)
 - [Which repos have merged PRs worth reading?](https://www.reddit.com/r/Python/comments/1w3hzr7/which_repos_have_merged_prs_worth_reading/)
-- [Thank You | from Nova](https://www.reddit.com/r/Python/comments/1w36c9s/thank_you_from_nova/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1w2xjjk/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
