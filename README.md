@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ideas for project](https://www.reddit.com/r/Python/comments/1w56r4o/ideas_for_project/)
 - [Python Under the Hood Update: Chapter 3 &lpar;Conditional Statements &amp; Control Flow&rpar; is now complete](https://www.reddit.com/r/Python/comments/1w4j7m0/python_under_the_hood_update_chapter_3/)
 - [DeployProof 1.1.11: Fast diff-scoped mutation testing and pre-push quality gate for Python](https://www.reddit.com/r/Python/comments/1w4gvug/deployproof_1111_fast_diffscoped_mutation_testing/)
 - [I know I’m late, but Python 3.14.7 is out. Anyone actually upgraded yet?](https://www.reddit.com/r/Python/comments/1w44lnm/i_know_im_late_but_python_3147_is_out_anyone/)
 - [When do you prefer asyncio.Semaphore over an asyncio.Queue for limiting concurrency?](https://www.reddit.com/r/Python/comments/1w43div/when_do_you_prefer_asynciosemaphore_over_an/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1w3vlyn/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
