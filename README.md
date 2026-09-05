@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [file directory and launcher i made](https://www.reddit.com/r/Python/comments/1w7dpty/file_directory_and_launcher_i_made/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1w7l34y/saturday_daily_thread_resource_request_and/)
 - [Showcase Thread](https://www.reddit.com/r/Python/comments/1w78kp5/showcase_thread/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1w6ohky/friday_daily_thread_rpython_meta_and_freetalk/)
 - [It seems like there was a change for how hex values and bytes can be compared](https://www.reddit.com/r/Python/comments/1w6latb/it_seems_like_there_was_a_change_for_how_hex/)
