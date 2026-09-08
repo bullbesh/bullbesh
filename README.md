@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1wa9tpu/removed_by_reddit/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1wa8mn4/tuesday_daily_thread_advanced_questions/)
 - [DAE feel like python is a lot harder now](https://www.reddit.com/r/Python/comments/1wa3kjb/dae_feel_like_python_is_a_lot_harder_now/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1w9cd7u/monday_daily_thread_project_ideas/)
 - [Astral&#39;s endorsements for Python&#39;s first Packaging Council](https://www.reddit.com/r/Python/comments/1w928wf/astrals_endorsements_for_pythons_first_packaging/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1w8glvb/sunday_daily_thread_whats_everyone_working_on/)
-- [When scaling application pods with SQLAlchemy pools, who redistributes existing connections?](https://www.reddit.com/r/Python/comments/1w7tis5/when_scaling_application_pods_with_sqlalchemy/)
 <!-- BLOG-POST-LIST:END -->
