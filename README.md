@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1wa9tpu/removed_by_reddit/)
+- [amazon ml challenge 2-26 &lpar;ml require python&rpar;](https://www.reddit.com/r/Python/comments/1wah2h0/amazon_ml_challenge_226_ml_require_python/)
+- [Why can’t python devs just move to c++ or rust or smth](https://www.reddit.com/r/Python/comments/1wacmyc/why_cant_python_devs_just_move_to_c_or_rust_or/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1wa8mn4/tuesday_daily_thread_advanced_questions/)
 - [DAE feel like python is a lot harder now](https://www.reddit.com/r/Python/comments/1wa3kjb/dae_feel_like_python_is_a_lot_harder_now/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1w9cd7u/monday_daily_thread_project_ideas/)
-- [Astral&#39;s endorsements for Python&#39;s first Packaging Council](https://www.reddit.com/r/Python/comments/1w928wf/astrals_endorsements_for_pythons_first_packaging/)
 <!-- BLOG-POST-LIST:END -->
