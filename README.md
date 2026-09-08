@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How hard is it actually to find a remote Python job? I counted 10 years of HN &quot;Who is hiring?&quot;](https://www.reddit.com/r/Python/comments/1wamo6o/how_hard_is_it_actually_to_find_a_remote_python/)
 - [amazon ml challenge 2-26 &lpar;ml require python&rpar;](https://www.reddit.com/r/Python/comments/1wah2h0/amazon_ml_challenge_226_ml_require_python/)
 - [Why can’t python devs just move to c++ or rust or smth](https://www.reddit.com/r/Python/comments/1wacmyc/why_cant_python_devs_just_move_to_c_or_rust_or/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1wa8mn4/tuesday_daily_thread_advanced_questions/)
 - [DAE feel like python is a lot harder now](https://www.reddit.com/r/Python/comments/1wa3kjb/dae_feel_like_python_is_a_lot_harder_now/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1w9cd7u/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
