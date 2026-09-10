@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I scored 720 YouTube videos against their own channel&#39;s median to find which topics actually have de](https://www.reddit.com/r/Python/comments/1wcjor7/i_scored_720_youtube_videos_against_their_own/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1wc2s1s/thursday_daily_thread_python_careers_courses_and/)
 - [Conference: Django on the Med 2026 &lpar;Pescara, Italy&rpar;](https://www.reddit.com/r/Python/comments/1wc287n/conference_django_on_the_med_2026_pescara_italy/)
 - [Anthropic model uploaded a malicious package to the real PyPI during a simulated CTF [09/09/26]](https://www.reddit.com/r/Python/comments/1wbwx4y/anthropic_model_uploaded_a_malicious_package_to/)
 - [A game where writing python IS the game just released on steam. &lpar;Not my game, I&#39;m just a big fan&rpar;](https://www.reddit.com/r/Python/comments/1wbtc21/a_game_where_writing_python_is_the_game_just/)
-- [Python 3.15.0 candidate 2 is here!](https://www.reddit.com/r/Python/comments/1wazxal/python_3150_candidate_2_is_here/)
 <!-- BLOG-POST-LIST:END -->
