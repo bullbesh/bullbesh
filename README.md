@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pyrefly v1.3.0 released](https://www.reddit.com/r/Python/comments/1wdk4lp/pyrefly_v130_released/)
+- [Scikit-learn 1.9.1 released with Python 3.15 support](https://www.reddit.com/r/Python/comments/1wdjwj1/scikitlearn_191_released_with_python_315_support/)
 - [failed my first Python exam](https://www.reddit.com/r/Python/comments/1wdbpxm/failed_my_first_python_exam/)
 - [Astral&#39;s python distribution is fast](https://www.reddit.com/r/Python/comments/1wdbhda/astrals_python_distribution_is_fast/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1wd061u/friday_daily_thread_rpython_meta_and_freetalk/)
-- [I scored 720 YouTube videos against their own channel&#39;s median to find which topics actually have de](https://www.reddit.com/r/Python/comments/1wcjor7/i_scored_720_youtube_videos_against_their_own/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1wc2s1s/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
