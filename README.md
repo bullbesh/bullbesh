@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [HikerAPI fOR Osintgram](https://www.reddit.com/r/Python/comments/1wf9lcd/hikerapi_for_osintgram/)
 - [Is dropping support for Python versions 3.8 and 3.9 a breaking change?](https://www.reddit.com/r/Python/comments/1wf9l09/is_dropping_support_for_python_versions_38_and_39/)
-- [Python Asyncio Crash Course: Complete Tutorial](https://www.reddit.com/r/Python/comments/1wf6m75/python_asyncio_crash_course_complete_tutorial/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1wesa5w/sunday_daily_thread_whats_everyone_working_on/)
 - [Appreciation to Hynek Schlawack](https://www.reddit.com/r/Python/comments/1wehjjy/appreciation_to_hynek_schlawack/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1wdwz1l/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
