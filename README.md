@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Encore announces Python support](https://www.reddit.com/r/Python/comments/1wg6epg/encore_announces_python_support/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1wfnsfa/monday_daily_thread_project_ideas/)
 - [Is dropping support for Python versions 3.8 and 3.9 a breaking change?](https://www.reddit.com/r/Python/comments/1wf9l09/is_dropping_support_for_python_versions_38_and_39/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1wesa5w/sunday_daily_thread_whats_everyone_working_on/)
 - [Appreciation to Hynek Schlawack](https://www.reddit.com/r/Python/comments/1wehjjy/appreciation_to_hynek_schlawack/)
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1wdwz1l/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
