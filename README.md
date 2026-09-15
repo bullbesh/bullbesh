@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python in Python!](https://www.reddit.com/r/Python/comments/1whdssh/python_in_python/)
 - [Custom Python autocompletions using Jet ✈️](https://www.reddit.com/r/Python/comments/1wh5k6m/custom_python_autocompletions_using_jet/)
 - [does Python run on Batocera-type machines/have any Fantasy Consoles?](https://www.reddit.com/r/Python/comments/1wgp6w1/does_python_run_on_batoceratype_machineshave_any/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1wgke1m/tuesday_daily_thread_advanced_questions/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1wfnsfa/monday_daily_thread_project_ideas/)
-- [Is dropping support for Python versions 3.8 and 3.9 a breaking change?](https://www.reddit.com/r/Python/comments/1wf9l09/is_dropping_support_for_python_versions_38_and_39/)
 <!-- BLOG-POST-LIST:END -->
