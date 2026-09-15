@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Ajuda em Python Básico](https://www.reddit.com/r/Python/comments/1wh1obe/ajuda_em_python_básico/)
+- [Custom Python autocompletions using Jet ✈️](https://www.reddit.com/r/Python/comments/1wh5k6m/custom_python_autocompletions_using_jet/)
 - [does Python run on Batocera-type machines/have any Fantasy Consoles?](https://www.reddit.com/r/Python/comments/1wgp6w1/does_python_run_on_batoceratype_machineshave_any/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1wgke1m/tuesday_daily_thread_advanced_questions/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1wfnsfa/monday_daily_thread_project_ideas/)
