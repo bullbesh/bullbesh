@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [iceoryx2 0.10 released: full flatbuffer integration, zero copy ipc with unbounded data, robust event](https://www.reddit.com/r/Python/comments/1wjxeiu/iceoryx2_010_released_full_flatbuffer_integration/)
 - [I automated a 300-video localization job in python for less than the quote from one agency](https://www.reddit.com/r/Python/comments/1wjqtd2/i_automated_a_300video_localization_job_in_python/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1wjak2y/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python and Web Manipulation](https://www.reddit.com/r/Python/comments/1wizo9q/python_and_web_manipulation/)
 - [dumb question, why not python organizes dependencies as flatpak logic?](https://www.reddit.com/r/Python/comments/1wimp9r/dumb_question_why_not_python_organizes/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1wie2p8/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
