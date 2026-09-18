@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m planning to start my python journey this weekend.](https://www.reddit.com/r/Python/comments/1wj8bf0/im_planning_to_start_my_python_journey_this/)
+- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1wjak2y/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python and Web Manipulation](https://www.reddit.com/r/Python/comments/1wizo9q/python_and_web_manipulation/)
 - [dumb question, why not python organizes dependencies as flatpak logic?](https://www.reddit.com/r/Python/comments/1wimp9r/dumb_question_why_not_python_organizes/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1wie2p8/thursday_daily_thread_python_careers_courses_and/)
