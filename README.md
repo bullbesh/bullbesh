@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I automated a 300-video localization job in python for less than the quote from one agency](https://www.reddit.com/r/Python/comments/1wjqtd2/i_automated_a_300video_localization_job_in_python/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1wjak2y/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Python and Web Manipulation](https://www.reddit.com/r/Python/comments/1wizo9q/python_and_web_manipulation/)
 - [dumb question, why not python organizes dependencies as flatpak logic?](https://www.reddit.com/r/Python/comments/1wimp9r/dumb_question_why_not_python_organizes/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1wie2p8/thursday_daily_thread_python_careers_courses_and/)
-- [Flet 1.0 released: build desktop, mobile, and web apps in Python](https://www.reddit.com/r/Python/comments/1wi6dpv/flet_10_released_build_desktop_mobile_and_web/)
 <!-- BLOG-POST-LIST:END -->
