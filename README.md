@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Confused about a case of membership operator](https://www.reddit.com/r/Python/comments/1wlbyh8/confused_about_a_case_of_membership_operator/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1wl1mi1/sunday_daily_thread_whats_everyone_working_on/)
 - [State of the art in Python 2026?](https://www.reddit.com/r/Python/comments/1wkziub/state_of_the_art_in_python_2026/)
 - [What’s a debugging technique that saved you hours and you wish you’d learned earlier?](https://www.reddit.com/r/Python/comments/1wktvbr/whats_a_debugging_technique_that_saved_you_hours/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1wk6nck/saturday_daily_thread_resource_request_and/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1wjak2y/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
