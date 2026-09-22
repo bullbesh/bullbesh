@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s under your Python app - Postgres, SQLite, MySQL, MariaDB - and why? Yearly database survey](https://www.reddit.com/r/Python/comments/1wn2tuu/whats_under_your_python_app_postgres_sqlite_mysql/)
+- [Python is now a first-class language on Cloudflare Workers](https://www.reddit.com/r/Python/comments/1wn1d94/python_is_now_a_firstclass_language_on_cloudflare/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1wmtrz2/tuesday_daily_thread_advanced_questions/)
 - [Common mistakes devs make when starting with FastAPI, and the fastest path to learning it](https://www.reddit.com/r/Python/comments/1wm1s0r/common_mistakes_devs_make_when_starting_with/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1wlx1up/monday_daily_thread_project_ideas/)
-- [Effective Python Book](https://www.reddit.com/r/Python/comments/1wlm5c4/effective_python_book/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1wl1mi1/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
