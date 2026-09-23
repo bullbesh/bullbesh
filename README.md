@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Sanka: open-source DRF → FastAPI migration engine with AI bench](https://www.reddit.com/r/Python/comments/1wo6jek/sanka_opensource_drf_fastapi_migration_engine/)
+- [What&#39;s new in Python 3.15?](https://www.reddit.com/r/Python/comments/1woh8y4/whats_new_in_python_315/)
 - [Someone hijacked MemoryOS PyPI releases by replacing the build backend](https://www.reddit.com/r/Python/comments/1wo314v/someone_hijacked_memoryos_pypi_releases_by/)
 - [Anyone using Nix for production Python projects?](https://www.reddit.com/r/Python/comments/1wo17hn/anyone_using_nix_for_production_python_projects/)
-- [Why query Redis over TCP on every request? Exploring in-process reactive caching with server invalid](https://www.reddit.com/r/Python/comments/1wo0x9l/why_query_redis_over_tcp_on_every_request/)
 - [What&#39;s your testing philosophy for scripts vs. production-grade Python code?&quot;](https://www.reddit.com/r/Python/comments/1wne8wt/whats_your_testing_philosophy_for_scripts_vs/)
+- [Checking whether a mysql.connector is connected](https://www.reddit.com/r/Python/comments/1wn7mq7/checking_whether_a_mysqlconnector_is_connected/)
 <!-- BLOG-POST-LIST:END -->
