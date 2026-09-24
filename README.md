@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Yoo... https://subprocess.run actually redirects to the Python docs for subprocess.run&lpar;&rpar;](https://www.reddit.com/r/Python/comments/1wp8325/yoo_httpssubprocessrun_actually_redirects_to_the/)
+- [Runtime contracts for Python modules: where should compatibility validation live?](https://www.reddit.com/r/Python/comments/1wp7akk/runtime_contracts_for_python_modules_where_should/)
 - [SQLite in Production: Why WAL Mode, busy_timeout, and 1-Writer Pools](https://www.reddit.com/r/Python/comments/1wowf4q/sqlite_in_production_why_wal_mode_busy_timeout/)
 - [PEP 823, 824 – None-aware access operators &amp; None-coalescing operators](https://www.reddit.com/r/Python/comments/1worhqr/pep_823_824_noneaware_access_operators/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1wome9v/thursday_daily_thread_python_careers_courses_and/)
-- [What&#39;s new in Python 3.15?](https://www.reddit.com/r/Python/comments/1woh8y4/whats_new_in_python_315/)
-- [Someone hijacked MemoryOS PyPI releases by replacing the build backend](https://www.reddit.com/r/Python/comments/1wo314v/someone_hijacked_memoryos_pypi_releases_by/)
 <!-- BLOG-POST-LIST:END -->
