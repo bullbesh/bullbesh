@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1wq2vmx/removed_by_reddit/)
+- [Ephemora Cell v1.0.4.3 — a WASM sandbox for executing untrusted AI-generated code, now with per-exec](https://www.reddit.com/r/Python/comments/1wq8p5l/ephemora_cell_v1043_a_wasm_sandbox_for_executing/)
+- [Image upload file type verification on FastAPI](https://www.reddit.com/r/Python/comments/1wq79hw/image_upload_file_type_verification_on_fastapi/)
 - [RUFF linter usage](https://www.reddit.com/r/Python/comments/1wpsxkm/ruff_linter_usage/)
 - [Why does this Python + SQL code return different results?](https://www.reddit.com/r/Python/comments/1wpsmnz/why_does_this_python_sql_code_return_different/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1wphm8i/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Yoo... https://subprocess.run actually redirects to the Python docs for subprocess.run&lpar;&rpar;](https://www.reddit.com/r/Python/comments/1wp8325/yoo_httpssubprocessrun_actually_redirects_to_the/)
 <!-- BLOG-POST-LIST:END -->
