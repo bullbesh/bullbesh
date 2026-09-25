@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1wq2vmx/removed_by_reddit/)
 - [RUFF linter usage](https://www.reddit.com/r/Python/comments/1wpsxkm/ruff_linter_usage/)
 - [Why does this Python + SQL code return different results?](https://www.reddit.com/r/Python/comments/1wpsmnz/why_does_this_python_sql_code_return_different/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1wphm8i/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Yoo... https://subprocess.run actually redirects to the Python docs for subprocess.run&lpar;&rpar;](https://www.reddit.com/r/Python/comments/1wp8325/yoo_httpssubprocessrun_actually_redirects_to_the/)
-- [Runtime contracts for Python modules: where should compatibility validation live?](https://www.reddit.com/r/Python/comments/1wp7akk/runtime_contracts_for_python_modules_where_should/)
 <!-- BLOG-POST-LIST:END -->
