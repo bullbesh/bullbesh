@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Slopbrake: a standard-library AST check for tautological tests and a mutation floor](https://www.reddit.com/r/Python/comments/1wqve2s/slopbrake_a_standardlibrary_ast_check_for/)
 - [I need your genuien feedback!!](https://www.reddit.com/r/Python/comments/1wqo0dm/i_need_your_genuien_feedback/)
 - [Consuming Typesafe Jev api in Python](https://www.reddit.com/r/Python/comments/1wqhvoq/consuming_typesafe_jev_api_in_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1wqbw40/saturday_daily_thread_resource_request_and/)
 - [Image upload file type verification on FastAPI](https://www.reddit.com/r/Python/comments/1wq79hw/image_upload_file_type_verification_on_fastapi/)
-- [RUFF linter usage](https://www.reddit.com/r/Python/comments/1wpsxkm/ruff_linter_usage/)
 <!-- BLOG-POST-LIST:END -->
