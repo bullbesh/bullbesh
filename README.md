@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Slopbrake: a standard-library AST check for tautological tests and a mutation floor](https://www.reddit.com/r/Python/comments/1wqve2s/slopbrake_a_standardlibrary_ast_check_for/)
+- [[ Removed by Reddit ]](https://www.reddit.com/r/Python/comments/1wqyquh/removed_by_reddit/)
+- [[FOR HIRE] AI Engineer — custom chatbot, scraper or automation, delivered in 24 hours — from $100](https://www.reddit.com/r/Python/comments/1wqyj5w/for_hire_ai_engineer_custom_chatbot_scraper_or/)
+- [The Python documentation is now available in Persian](https://www.reddit.com/r/Python/comments/1wqy9yg/the_python_documentation_is_now_available_in/)
 - [I need your genuien feedback!!](https://www.reddit.com/r/Python/comments/1wqo0dm/i_need_your_genuien_feedback/)
 - [Consuming Typesafe Jev api in Python](https://www.reddit.com/r/Python/comments/1wqhvoq/consuming_typesafe_jev_api_in_python/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1wqbw40/saturday_daily_thread_resource_request_and/)
-- [Image upload file type verification on FastAPI](https://www.reddit.com/r/Python/comments/1wq79hw/image_upload_file_type_verification_on_fastapi/)
 <!-- BLOG-POST-LIST:END -->
