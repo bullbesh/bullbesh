@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [What are you using to monitor small Python web apps?](https://www.reddit.com/r/Python/comments/1wtq622/what_are_you_using_to_monitor_small_python_web/)
 - [Two SBOMs for the same service never match and the SBOM tools I tried only cover one layer](https://www.reddit.com/r/Python/comments/1wtined/two_sboms_for_the_same_service_never_match_and/)
 - [Generating a tidy HTML report in Python](https://www.reddit.com/r/Python/comments/1wtdhqc/generating_a_tidy_html_report_in_python/)
 - [What do you think of how Nix is used in xo-python?](https://www.reddit.com/r/Python/comments/1wt098z/what_do_you_think_of_how_nix_is_used_in_xopython/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1wsv244/tuesday_daily_thread_advanced_questions/)
-- [Compute! - Open-source and Data Science conference - Paris - November 2026](https://www.reddit.com/r/Python/comments/1ws9o3w/compute_opensource_and_data_science_conference/)
 <!-- BLOG-POST-LIST:END -->
