@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Closing mysql-connector-python pooled sockets](https://www.reddit.com/r/Python/comments/1wuflfo/closing_mysqlconnectorpython_pooled_sockets/)
 - [Suggesting ppl to go from unmaintainted library X to yours in github issues?](https://www.reddit.com/r/Python/comments/1wu3r86/suggesting_ppl_to_go_from_unmaintainted_library_x/)
 - [Two SBOMs for the same service never match and the SBOM tools I tried only cover one layer](https://www.reddit.com/r/Python/comments/1wtined/two_sboms_for_the_same_service_never_match_and/)
 - [Generating a tidy HTML report in Python](https://www.reddit.com/r/Python/comments/1wtdhqc/generating_a_tidy_html_report_in_python/)
 - [What do you think of how Nix is used in xo-python?](https://www.reddit.com/r/Python/comments/1wt098z/what_do_you_think_of_how_nix_is_used_in_xopython/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1wsv244/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
