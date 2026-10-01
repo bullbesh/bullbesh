@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I tested my Docling JSON checker against real exports and found my own bug](https://www.reddit.com/r/Python/comments/1wuu6gq/i_tested_my_docling_json_checker_against_real/)
+- [Hooked OpenCV &amp; MediaPipe up to a 3D-printed robotic hand for real-time gesture mirroring](https://www.reddit.com/r/Python/comments/1wutco2/hooked_opencv_mediapipe_up_to_a_3dprinted_robotic/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1wuks3u/thursday_daily_thread_python_careers_courses_and/)
 - [Closing mysql-connector-python pooled sockets](https://www.reddit.com/r/Python/comments/1wuflfo/closing_mysqlconnectorpython_pooled_sockets/)
 - [Suggesting ppl to go from unmaintainted library X to yours in github issues?](https://www.reddit.com/r/Python/comments/1wu3r86/suggesting_ppl_to_go_from_unmaintainted_library_x/)
-- [Two SBOMs for the same service never match and the SBOM tools I tried only cover one layer](https://www.reddit.com/r/Python/comments/1wtined/two_sboms_for_the_same_service_never_match_and/)
-- [Generating a tidy HTML report in Python](https://www.reddit.com/r/Python/comments/1wtdhqc/generating_a_tidy_html_report_in_python/)
 <!-- BLOG-POST-LIST:END -->
