@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [New Python releases are out, 3.10.x reaches EOL, &lpar;and 3.15.0 is scheduled for today&rpar;!](https://www.reddit.com/r/Python/comments/1wv4f0d/new_python_releases_are_out_310x_reaches_eol_and/)
+- [Architecture Deep Dive: Startup Time &amp; Import Optimization](https://www.reddit.com/r/Python/comments/1wv3y4z/architecture_deep_dive_startup_time_import/)
+- [I looked for the most bug-fixed file in 8 well known Python projects](https://www.reddit.com/r/Python/comments/1wv0rcz/i_looked_for_the_most_bugfixed_file_in_8_well/)
+- [We built a way to make Python sessions portable across runtimes!](https://www.reddit.com/r/Python/comments/1wuxhmp/we_built_a_way_to_make_python_sessions_portable/)
 - [I tested my Docling JSON checker against real exports and found my own bug](https://www.reddit.com/r/Python/comments/1wuu6gq/i_tested_my_docling_json_checker_against_real/)
-- [Hooked OpenCV &amp; MediaPipe up to a 3D-printed robotic hand for real-time gesture mirroring](https://www.reddit.com/r/Python/comments/1wutco2/hooked_opencv_mediapipe_up_to_a_3dprinted_robotic/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1wuks3u/thursday_daily_thread_python_careers_courses_and/)
-- [Closing mysql-connector-python pooled sockets](https://www.reddit.com/r/Python/comments/1wuflfo/closing_mysqlconnectorpython_pooled_sockets/)
-- [Suggesting ppl to go from unmaintainted library X to yours in github issues?](https://www.reddit.com/r/Python/comments/1wu3r86/suggesting_ppl_to_go_from_unmaintainted_library_x/)
 <!-- BLOG-POST-LIST:END -->
