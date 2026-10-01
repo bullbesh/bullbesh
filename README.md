@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Doom in python, sorry to everyone](https://www.reddit.com/r/Python/comments/1wv7qfr/doom_in_python_sorry_to_everyone/)
 - [New Python releases are out, 3.10.x reaches EOL, &lpar;and 3.15.0 is scheduled for today&rpar;!](https://www.reddit.com/r/Python/comments/1wv4f0d/new_python_releases_are_out_310x_reaches_eol_and/)
-- [Architecture Deep Dive: Startup Time &amp; Import Optimization](https://www.reddit.com/r/Python/comments/1wv3y4z/architecture_deep_dive_startup_time_import/)
 - [I looked for the most bug-fixed file in 8 well known Python projects](https://www.reddit.com/r/Python/comments/1wv0rcz/i_looked_for_the_most_bugfixed_file_in_8_well/)
-- [We built a way to make Python sessions portable across runtimes!](https://www.reddit.com/r/Python/comments/1wuxhmp/we_built_a_way_to_make_python_sessions_portable/)
 - [I tested my Docling JSON checker against real exports and found my own bug](https://www.reddit.com/r/Python/comments/1wuu6gq/i_tested_my_docling_json_checker_against_real/)
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1wuks3u/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
