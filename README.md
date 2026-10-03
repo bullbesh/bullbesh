@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ww91rp/saturday_daily_thread_resource_request_and/)
+- [Arjan&#39;s Software Design Mastery Course Reviews](https://www.reddit.com/r/Python/comments/1ww67qy/arjans_software_design_mastery_course_reviews/)
 - [Tuba: Python CLI &amp; PySide6 GUI for yt-dlp/FFmpeg video processing](https://www.reddit.com/r/Python/comments/1ww2uny/tuba_python_cli_pyside6_gui_for_ytdlpffmpeg_video/)
 - [Interview questions for new hires that I can ask](https://www.reddit.com/r/Python/comments/1wvzsl5/interview_questions_for_new_hires_that_i_can_ask/)
 - [Why Isn’t There a Standard Utility for Nested Mapping Introspection in Python?](https://www.reddit.com/r/Python/comments/1wvsg3h/why_isnt_there_a_standard_utility_for_nested/)
-- [Python 3.15 postponed, and a rc3 release](https://www.reddit.com/r/Python/comments/1wvney6/python_315_postponed_and_a_rc3_release/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1wvf8r6/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
