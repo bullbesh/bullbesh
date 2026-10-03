@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why has Python dropped so much in the latest TIOBE Index?](https://www.reddit.com/r/Python/comments/1wwwtbp/why_has_python_dropped_so_much_in_the_latest/)
+- [My Python magic is gone](https://www.reddit.com/r/Python/comments/1wwv97o/my_python_magic_is_gone/)
+- [Jupyter Notebooks vs Scripts — when do you actually switch from one to the other in a project?](https://www.reddit.com/r/Python/comments/1wwt4ab/jupyter_notebooks_vs_scripts_when_do_you_actually/)
 - [Making np.searchsorted up to 25× Faster in NumPy 2.5](https://www.reddit.com/r/Python/comments/1wwr7bn/making_npsearchsorted_up_to_25_faster_in_numpy_25/)
 - [marimohub: open-source, self-hostable hub for running marimo notebooks on your own infra](https://www.reddit.com/r/Python/comments/1wwk1ms/marimohub_opensource_selfhostable_hub_for_running/)
-- [What&#39;s the best way to incorporate LLMs into a python server?](https://www.reddit.com/r/Python/comments/1wwdl7t/whats_the_best_way_to_incorporate_llms_into_a/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ww91rp/saturday_daily_thread_resource_request_and/)
-- [Arjan&#39;s Software Design Mastery Course Reviews](https://www.reddit.com/r/Python/comments/1ww67qy/arjans_software_design_mastery_course_reviews/)
 <!-- BLOG-POST-LIST:END -->
