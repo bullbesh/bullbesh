@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Im 13 and I made my first ever app :D](https://www.reddit.com/r/Python/comments/1wwemgy/im_13_and_i_made_my_first_ever_app_d/)
+- [What&#39;s the best way to incorporate LLMs into a python server?](https://www.reddit.com/r/Python/comments/1wwdl7t/whats_the_best_way_to_incorporate_llms_into_a/)
+- [Aurora, projet experimental fait en python](https://www.reddit.com/r/Python/comments/1wwbasv/aurora_projet_experimental_fait_en_python/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1ww91rp/saturday_daily_thread_resource_request_and/)
 - [Arjan&#39;s Software Design Mastery Course Reviews](https://www.reddit.com/r/Python/comments/1ww67qy/arjans_software_design_mastery_course_reviews/)
-- [Tuba: Python CLI &amp; PySide6 GUI for yt-dlp/FFmpeg video processing](https://www.reddit.com/r/Python/comments/1ww2uny/tuba_python_cli_pyside6_gui_for_ytdlpffmpeg_video/)
-- [Interview questions for new hires that I can ask](https://www.reddit.com/r/Python/comments/1wvzsl5/interview_questions_for_new_hires_that_i_can_ask/)
-- [Why Isn’t There a Standard Utility for Nested Mapping Introspection in Python?](https://www.reddit.com/r/Python/comments/1wvsg3h/why_isnt_there_a_standard_utility_for_nested/)
 <!-- BLOG-POST-LIST:END -->
