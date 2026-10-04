@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1wx1mnx/sunday_daily_thread_whats_everyone_working_on/)
 - [Who is using mobile devices for Python, developement and how?](https://www.reddit.com/r/Python/comments/1wwxwa3/who_is_using_mobile_devices_for_python/)
 - [Why has Python dropped so much in the latest TIOBE Index?](https://www.reddit.com/r/Python/comments/1wwwtbp/why_has_python_dropped_so_much_in_the_latest/)
 - [My Python magic is gone](https://www.reddit.com/r/Python/comments/1wwv97o/my_python_magic_is_gone/)
 - [Jupyter Notebooks vs Scripts — when do you actually switch from one to the other in a project?](https://www.reddit.com/r/Python/comments/1wwt4ab/jupyter_notebooks_vs_scripts_when_do_you_actually/)
-- [Making np.searchsorted up to 25× Faster in NumPy 2.5](https://www.reddit.com/r/Python/comments/1wwr7bn/making_npsearchsorted_up_to_25_faster_in_numpy_25/)
 <!-- BLOG-POST-LIST:END -->
