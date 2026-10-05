@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why are companies choosing Go for backend systems when JavaScript/Node.js already works?](https://www.reddit.com/r/Python/comments/1wyglgq/why_are_companies_choosing_go_for_backend_systems/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1wxud18/monday_daily_thread_project_ideas/)
 - [Zuni: Perplexity for CLI](https://www.reddit.com/r/Python/comments/1wxnx9k/zuni_perplexity_for_cli/)
 - [Anyone still using Flask, or has FastAPI completely taken over? 🤔](https://www.reddit.com/r/Python/comments/1wxkk8m/anyone_still_using_flask_or_has_fastapi/)
 - [Showcase Thread](https://www.reddit.com/r/Python/comments/1wxjay5/showcase_thread/)
-- [I wrote a deep dive on the GIL, from cache lines to free-threading &lpar;PEP 703&rpar;](https://www.reddit.com/r/Python/comments/1wxbxsu/i_wrote_a_deep_dive_on_the_gil_from_cache_lines/)
 <!-- BLOG-POST-LIST:END -->
