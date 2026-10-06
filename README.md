@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [From statically typed languages to Python and IDE IntelliSense/Auto complete](https://www.reddit.com/r/Python/comments/1wz3js8/from_statically_typed_languages_to_python_and_ide/)
+- [Polars 2.0 release](https://www.reddit.com/r/Python/comments/1wz0yz1/polars_20_release/)
+- [2026: Best python linter as of right now?](https://www.reddit.com/r/Python/comments/1wyz8qw/2026_best_python_linter_as_of_right_now/)
 - [Space Science - Kirkwood Gap in Asteroids](https://www.reddit.com/r/Python/comments/1wyy5oe/space_science_kirkwood_gap_in_asteroids/)
 - [Free python dev $0](https://www.reddit.com/r/Python/comments/1wyxrcr/free_python_dev_0/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1wyo8d1/tuesday_daily_thread_advanced_questions/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1wxud18/monday_daily_thread_project_ideas/)
-- [Zuni: Perplexity for CLI](https://www.reddit.com/r/Python/comments/1wxnx9k/zuni_perplexity_for_cli/)
 <!-- BLOG-POST-LIST:END -->
