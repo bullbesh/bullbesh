@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turboenv and Simple new open source projects](https://www.reddit.com/r/Python/comments/1wz82u3/turboenv_and_simple_new_open_source_projects/)
 - [From statically typed languages to Python and IDE IntelliSense/Auto complete](https://www.reddit.com/r/Python/comments/1wz3js8/from_statically_typed_languages_to_python_and_ide/)
 - [Polars 2.0 release](https://www.reddit.com/r/Python/comments/1wz0yz1/polars_20_release/)
 - [2026: Best python linter as of right now?](https://www.reddit.com/r/Python/comments/1wyz8qw/2026_best_python_linter_as_of_right_now/)
 - [Space Science - Kirkwood Gap in Asteroids](https://www.reddit.com/r/Python/comments/1wyy5oe/space_science_kirkwood_gap_in_asteroids/)
-- [Free python dev $0](https://www.reddit.com/r/Python/comments/1wyxrcr/free_python_dev_0/)
 <!-- BLOG-POST-LIST:END -->
