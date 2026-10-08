@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1x0cd1y/thursday_daily_thread_python_careers_courses_and/)
+- [MasterProjectRecoverer: An open-source tool for automated dependency analysis and project recovery](https://www.reddit.com/r/Python/comments/1x05sy6/masterprojectrecoverer_an_opensource_tool_for/)
 - [Future of programming/python with AI](https://www.reddit.com/r/Python/comments/1wzy47s/future_of_programmingpython_with_ai/)
 - [Python you grewI up so fast!](https://www.reddit.com/r/Python/comments/1wzlgvn/python_you_grewi_up_so_fast/)
 - [Native PyQt5 wheels for Windows ARM64 &lpar;because they don&#39;t exist upstream&rpar;](https://www.reddit.com/r/Python/comments/1wzgje2/native_pyqt5_wheels_for_windows_arm64_because/)
-- [From statically typed languages to Python and IDE IntelliSense/Auto complete](https://www.reddit.com/r/Python/comments/1wz3js8/from_statically_typed_languages_to_python_and_ide/)
-- [Polars 2.0 release](https://www.reddit.com/r/Python/comments/1wz0yz1/polars_20_release/)
 <!-- BLOG-POST-LIST:END -->
