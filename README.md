@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [A hand-crafted, CPU-only agent clears all 25 public ARC-AGI-3 games](https://www.reddit.com/r/Python/comments/1x1wcx3/a_handcrafted_cpuonly_agent_clears_all_25_public/)
+- [Python 3.15 Released](https://www.reddit.com/r/Python/comments/1x1t161/python_315_released/)
+- [Spreadsheet automation idea](https://www.reddit.com/r/Python/comments/1x1sy07/spreadsheet_automation_idea/)
 - [Colloquio di ammissione magistrale SHC : cosa mi consigliate di preparare?](https://www.reddit.com/r/Python/comments/1x1lxh3/colloquio_di_ammissione_magistrale_shc_cosa_mi/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1x16rfy/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Runtime overhead of wildcard import](https://www.reddit.com/r/Python/comments/1x159mp/runtime_overhead_of_wildcard_import/)
-- [What&#39;s your approach to testing your Python code?](https://www.reddit.com/r/Python/comments/1x0vavw/whats_your_approach_to_testing_your_python_code/)
-- [Where to learn computational neuroscience?](https://www.reddit.com/r/Python/comments/1x0uw1u/where_to_learn_computational_neuroscience/)
 <!-- BLOG-POST-LIST:END -->
