@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [I made 100 Python flashcards](https://www.reddit.com/r/Python/comments/1x3fray/i_made_100_python_flashcards/)
 - [I wrote a funny esoteric interpreter in Python called CatScript](https://www.reddit.com/r/Python/comments/1x36pgz/i_wrote_a_funny_esoteric_interpreter_in_python/)
 - [GeoPolars is being actively developed again: geometry types, CRS-aware measurements and GeoParquet](https://www.reddit.com/r/Python/comments/1x31w69/geopolars_is_being_actively_developed_again/)
 - [Are fewer young people getting into Python these days?](https://www.reddit.com/r/Python/comments/1x2z666/are_fewer_young_people_getting_into_python_these/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1x2ts60/sunday_daily_thread_whats_everyone_working_on/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1x20vqs/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
