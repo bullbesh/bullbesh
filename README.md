@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Jazzband is shutting down](https://www.reddit.com/r/Python/comments/1x5caxn/jazzband_is_shutting_down/)
 - [Lessons from building a live IoT ingestion server in Python](https://www.reddit.com/r/Python/comments/1x4ozs0/lessons_from_building_a_live_iot_ingestion_server/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1x4hx6b/tuesday_daily_thread_advanced_questions/)
 - [What are some features in Python that you discovered many years later?](https://www.reddit.com/r/Python/comments/1x3vy20/what_are_some_features_in_python_that_you/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1x3nb6l/monday_daily_thread_project_ideas/)
-- [I made 100 Python flashcards](https://www.reddit.com/r/Python/comments/1x3fray/i_made_100_python_flashcards/)
 <!-- BLOG-POST-LIST:END -->
