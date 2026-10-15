@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Bypassing heavy PyTorch wheels for desktop Python application distribution](https://www.reddit.com/r/Python/comments/1x6iq32/bypassing_heavy_pytorch_wheels_for_desktop_python/)
+- [opinion on CWH data science course?](https://www.reddit.com/r/Python/comments/1x6njwr/opinion_on_cwh_data_science_course/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1x67275/thursday_daily_thread_python_careers_courses_and/)
 - [What do you think of this small introductory Python course for complete beginners?](https://www.reddit.com/r/Python/comments/1x5e558/what_do_you_think_of_this_small_introductory/)
 - [Jazzband is shutting down](https://www.reddit.com/r/Python/comments/1x5caxn/jazzband_is_shutting_down/)
