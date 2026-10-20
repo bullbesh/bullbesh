@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Compiling django with Nuitka or Cython ?](https://www.reddit.com/r/Python/comments/1xadd8u/compiling_django_with_nuitka_or_cython/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1xad7jf/tuesday_daily_thread_advanced_questions/)
+- [PSA: How to get auto import to work in Pylance &lpar;Python&rpar; for third party libraries](https://www.reddit.com/r/Python/comments/1xabfbd/psa_how_to_get_auto_import_to_work_in_pylance/)
+- [Announcing Python Software Foundation Fellow Members for Q3 2026!](https://www.reddit.com/r/Python/comments/1xa9jpd/announcing_python_software_foundation_fellow/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1x9i7qn/monday_daily_thread_project_ideas/)
-- [Question regarding a python course](https://www.reddit.com/r/Python/comments/1x9fbxn/question_regarding_a_python_course/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1x8ozeh/sunday_daily_thread_whats_everyone_working_on/)
-- [Python 3.10–3.15 encoding benchmarks: big gains for Base32 and Base85, but 3.14 leads Base16](https://www.reddit.com/r/Python/comments/1x89bnq/python_310315_encoding_benchmarks_big_gains_for/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1x7vxv4/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
