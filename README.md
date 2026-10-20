@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Summary of Major Changes Between Python Versions &lpar;2026 Update&rpar;](https://www.reddit.com/r/Python/comments/1xak07n/summary_of_major_changes_between_python_versions/)
+- [OSS Projects with Strict Maintainers?](https://www.reddit.com/r/Python/comments/1xadqzr/oss_projects_with_strict_maintainers/)
 - [Compiling django with Nuitka or Cython ?](https://www.reddit.com/r/Python/comments/1xadd8u/compiling_django_with_nuitka_or_cython/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1xad7jf/tuesday_daily_thread_advanced_questions/)
 - [PSA: How to get auto import to work in Pylance &lpar;Python&rpar; for third party libraries](https://www.reddit.com/r/Python/comments/1xabfbd/psa_how_to_get_auto_import_to_work_in_pylance/)
-- [Announcing Python Software Foundation Fellow Members for Q3 2026!](https://www.reddit.com/r/Python/comments/1xa9jpd/announcing_python_software_foundation_fellow/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1x9i7qn/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
