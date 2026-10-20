@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Error Handling Considered Unpythonic](https://www.reddit.com/r/Python/comments/1xar0ad/python_error_handling_considered_unpythonic/)
 - [I built a DevSecOps CLI in pure Python &lpar;no heavy ML&rpar; that uses AST and Shannon Entropy.](https://www.reddit.com/r/Python/comments/1xamz65/i_built_a_devsecops_cli_in_pure_python_no_heavy/)
 - [Summary of Major Changes Between Python Versions &lpar;2026 Update&rpar;](https://www.reddit.com/r/Python/comments/1xak07n/summary_of_major_changes_between_python_versions/)
 - [OSS Projects with Strict Maintainers?](https://www.reddit.com/r/Python/comments/1xadqzr/oss_projects_with_strict_maintainers/)
 - [Compiling django with Nuitka or Cython ?](https://www.reddit.com/r/Python/comments/1xadd8u/compiling_django_with_nuitka_or_cython/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1xad7jf/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
