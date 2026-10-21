@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [How much time to wait before adopting a new Python version ?](https://www.reddit.com/r/Python/comments/1xbfbte/how_much_time_to_wait_before_adopting_a_new/)
 - [Anaconda - what is the word on the street, would you work there?](https://www.reddit.com/r/Python/comments/1xb9piz/anaconda_what_is_the_word_on_the_street_would_you/)
 - [Python Hash Verification](https://www.reddit.com/r/Python/comments/1xb8kju/python_hash_verification/)
-- [Mapping tickers to SEC CIKs without getting bitten by BRK.B vs BRK-B](https://www.reddit.com/r/Python/comments/1xb4s0b/mapping_tickers_to_sec_ciks_without_getting/)
 - [Info for Python users regarding eMudhra / emSign CA certificate security incident](https://www.reddit.com/r/Python/comments/1xb1lcf/info_for_python_users_regarding_emudhra_emsign_ca/)
 - [Request for feedback: uv check &amp; PEP 723 script support in ty](https://www.reddit.com/r/Python/comments/1xb18ik/request_for_feedback_uv_check_pep_723_script/)
 <!-- BLOG-POST-LIST:END -->
