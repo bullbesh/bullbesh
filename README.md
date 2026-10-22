@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Emudhra compromise affects older versions of key Python libraries - uv, certifi, pip, sigstore, pixi](https://www.reddit.com/r/Python/comments/1xcgalh/emudhra_compromise_affects_older_versions_of_key/)
+- [I made a free Python ML cheat sheet repo — 9 topics](https://www.reddit.com/r/Python/comments/1xcebo6/i_made_a_free_python_ml_cheat_sheet_repo_9_topics/)
 - [Python - Numpy Pandas](https://www.reddit.com/r/Python/comments/1xcdh70/python_numpy_pandas/)
 - [Parsing EDIFACT with syntax trees](https://www.reddit.com/r/Python/comments/1xccpkl/parsing_edifact_with_syntax_trees/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1xc3ijg/thursday_daily_thread_python_careers_courses_and/)
-- [I have found PyCharm lacking](https://www.reddit.com/r/Python/comments/1xbw0h8/i_have_found_pycharm_lacking/)
-- [Made an accessibility linter for Django templates, is this useful?](https://www.reddit.com/r/Python/comments/1xbtqi2/made_an_accessibility_linter_for_django_templates/)
 <!-- BLOG-POST-LIST:END -->
