@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Whoever got bored and put random stuff in there code](https://www.reddit.com/r/Python/comments/1xc702c/whoever_got_bored_and_put_random_stuff_in_there/)
+- [Python - Numpy Pandas](https://www.reddit.com/r/Python/comments/1xcdh70/python_numpy_pandas/)
+- [Parsing EDIFACT with syntax trees](https://www.reddit.com/r/Python/comments/1xccpkl/parsing_edifact_with_syntax_trees/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1xc3ijg/thursday_daily_thread_python_careers_courses_and/)
 - [I have found PyCharm lacking](https://www.reddit.com/r/Python/comments/1xbw0h8/i_have_found_pycharm_lacking/)
 - [Made an accessibility linter for Django templates, is this useful?](https://www.reddit.com/r/Python/comments/1xbtqi2/made_an_accessibility_linter_for_django_templates/)
-- [litellm 1.107.0 on PyPI is compromised](https://www.reddit.com/r/Python/comments/1xbnrhi/litellm_11070_on_pypi_is_compromised/)
 <!-- BLOG-POST-LIST:END -->
