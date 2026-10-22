@@ -9,8 +9,8 @@
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
 - [Timed every test in my pytest suite: 3% of the tests ate 77% of the time](https://www.reddit.com/r/Python/comments/1xcpai5/timed_every_test_in_my_pytest_suite_3_of_the/)
-- [I made a free Python ML cheat sheet repo — 9 topics](https://www.reddit.com/r/Python/comments/1xcebo6/i_made_a_free_python_ml_cheat_sheet_repo_9_topics/)
-- [Python - Numpy Pandas](https://www.reddit.com/r/Python/comments/1xcdh70/python_numpy_pandas/)
-- [Parsing EDIFACT with syntax trees](https://www.reddit.com/r/Python/comments/1xccpkl/parsing_edifact_with_syntax_trees/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1xc3ijg/thursday_daily_thread_python_careers_courses_and/)
+- [I have found PyCharm lacking](https://www.reddit.com/r/Python/comments/1xbw0h8/i_have_found_pycharm_lacking/)
+- [Made an accessibility linter for Django templates, is this useful?](https://www.reddit.com/r/Python/comments/1xbtqi2/made_an_accessibility_linter_for_django_templates/)
+- [litellm 1.107.0 on PyPI is compromised](https://www.reddit.com/r/Python/comments/1xbnrhi/litellm_11070_on_pypi_is_compromised/)
 <!-- BLOG-POST-LIST:END -->
