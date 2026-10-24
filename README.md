@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Offline webcam login monitor for Windows &lpar;photographs failed logins, local face recognition, alerts&rpar;](https://www.reddit.com/r/Python/comments/1xe0ury/offline_webcam_login_monitor_for_windows/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1xdu1e2/saturday_daily_thread_resource_request_and/)
 - [Tried decouple, Dynaconf, pydantic-settings and more: still hitting the same config gaps. Just me?](https://www.reddit.com/r/Python/comments/1xdlm9d/tried_decouple_dynaconf_pydanticsettings_and_more/)
 - [LiteLLM 1.107.0 on PyPI was malicious &lpar;Oct 21&rpar;: it runs on every Python start via a .pth file.](https://www.reddit.com/r/Python/comments/1xdgdc2/litellm_11070_on_pypi_was_malicious_oct_21_it/)
 - [Heads up time for package devs](https://www.reddit.com/r/Python/comments/1xd6oxc/heads_up_time_for_package_devs/)
-- [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1xcyvqj/friday_daily_thread_rpython_meta_and_freetalk/)
 <!-- BLOG-POST-LIST:END -->
