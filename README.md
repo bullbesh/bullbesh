@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Resource Sharing: Memory Graph Web Debugger, visualize program state](https://www.reddit.com/r/Python/comments/1xe91v7/resource_sharing_memory_graph_web_debugger/)
 - [[CVE-2026-111497] If you run a python server, you should update it right now](https://www.reddit.com/r/Python/comments/1xe1zp2/cve2026111497_if_you_run_a_python_server_you/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1xdu1e2/saturday_daily_thread_resource_request_and/)
 - [Tried decouple, Dynaconf, pydantic-settings and more: still hitting the same config gaps. Just me?](https://www.reddit.com/r/Python/comments/1xdlm9d/tried_decouple_dynaconf_pydanticsettings_and_more/)
 - [LiteLLM 1.107.0 on PyPI was malicious &lpar;Oct 21&rpar;: it runs on every Python start via a .pth file.](https://www.reddit.com/r/Python/comments/1xdgdc2/litellm_11070_on_pypi_was_malicious_oct_21_it/)
-- [Heads up time for package devs](https://www.reddit.com/r/Python/comments/1xd6oxc/heads_up_time_for_package_devs/)
 <!-- BLOG-POST-LIST:END -->
