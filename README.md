@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1xennpj/sunday_daily_thread_whats_everyone_working_on/)
 - [LiteLLM’s root-cause report: the key behind the Oct 21 release attack was leaked on May 27 and never](https://www.reddit.com/r/Python/comments/1xehnro/litellms_rootcause_report_the_key_behind_the_oct/)
 - [[CVE-2026-111497] If you run a python server, you should update it right now](https://www.reddit.com/r/Python/comments/1xe1zp2/cve2026111497_if_you_run_a_python_server_you/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1xdu1e2/saturday_daily_thread_resource_request_and/)
 - [Tried decouple, Dynaconf, pydantic-settings and more: still hitting the same config gaps. Just me?](https://www.reddit.com/r/Python/comments/1xdlm9d/tried_decouple_dynaconf_pydanticsettings_and_more/)
-- [LiteLLM 1.107.0 on PyPI was malicious &lpar;Oct 21&rpar;: it runs on every Python start via a .pth file.](https://www.reddit.com/r/Python/comments/1xdgdc2/litellm_11070_on_pypi_was_malicious_oct_21_it/)
 <!-- BLOG-POST-LIST:END -->
