@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [does using AI to learn code really work?](https://www.reddit.com/r/Python/comments/1xg2d3a/does_using_ai_to_learn_code_really_work/)
+- [Why does python has a middle layer of creating bytecode?](https://www.reddit.com/r/Python/comments/1xg0wft/why_does_python_has_a_middle_layer_of_creating/)
+- [Microsoft partners w/ Meta to bring Pyrefly support to Pylance in VS Code](https://www.reddit.com/r/Python/comments/1xfvk76/microsoft_partners_w_meta_to_bring_pyrefly/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1xfhsgf/monday_daily_thread_project_ideas/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1xennpj/sunday_daily_thread_whats_everyone_working_on/)
-- [LiteLLM’s root-cause report: the key behind the Oct 21 release attack was leaked on May 27 and never](https://www.reddit.com/r/Python/comments/1xehnro/litellms_rootcause_report_the_key_behind_the_oct/)
-- [[CVE-2026-111497] If you run a python server, you should update it right now](https://www.reddit.com/r/Python/comments/1xe1zp2/cve2026111497_if_you_run_a_python_server_you/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1xdu1e2/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
