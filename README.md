@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turn your Cytron MOTION 2350 Pro into a standalone air quality monitor with BleuIO and CircuitPython](https://www.reddit.com/r/Python/comments/1xh1hsf/turn_your_cytron_motion_2350_pro_into_a/)
+- [Towards closing the gap between declaring and verifying Python dependencies](https://www.reddit.com/r/Python/comments/1xgwbul/towards_closing_the_gap_between_declaring_and/)
+- [Pulling numbers from 10-K and 10-Q filings: XBRL or parse the document?](https://www.reddit.com/r/Python/comments/1xguct1/pulling_numbers_from_10k_and_10q_filings_xbrl_or/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1xgdey8/tuesday_daily_thread_advanced_questions/)
 - [Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out](https://www.reddit.com/r/Python/comments/1xgcu6d/python_3152_31410_31318_31216_and_31118_are_out/)
-- [does using AI to learn code really work?](https://www.reddit.com/r/Python/comments/1xg2d3a/does_using_ai_to_learn_code_really_work/)
-- [Why does python has a middle layer of creating bytecode?](https://www.reddit.com/r/Python/comments/1xg0wft/why_does_python_has_a_middle_layer_of_creating/)
-- [Microsoft partners w/ Meta to bring Pyrefly support to Pylance in VS Code](https://www.reddit.com/r/Python/comments/1xfvk76/microsoft_partners_w_meta_to_bring_pyrefly/)
 <!-- BLOG-POST-LIST:END -->
