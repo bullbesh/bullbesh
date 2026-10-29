@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Alternative to libCST](https://www.reddit.com/r/Python/comments/1xiqc6v/alternative_to_libcst/)
 - [Term frequency across 1,360 Software Engineer job postings](https://www.reddit.com/r/Python/comments/1xi5wdz/term_frequency_across_1360_software_engineer_job/)
 - [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1xi4t9j/thursday_daily_thread_python_careers_courses_and/)
 - [Humble x Pragmatic Programmers = elite Python ebooks!](https://www.reddit.com/r/Python/comments/1xi0rmk/humble_x_pragmatic_programmers_elite_python_ebooks/)
 - [If you run Python 3.10 on AWS Lambda: it&#39;s deprecated this Friday &lpar;Oct 31&rpar;. Gotchas moving to 3.12+](https://www.reddit.com/r/Python/comments/1xhoetl/if_you_run_python_310_on_aws_lambda_its/)
-- [Python Typing Survey 2026 Results](https://www.reddit.com/r/Python/comments/1xhnvs0/python_typing_survey_2026_results/)
 <!-- BLOG-POST-LIST:END -->
