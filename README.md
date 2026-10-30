@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PEP 851 – Add list.discard&lpar;&rpar;](https://www.reddit.com/r/Python/comments/1xj9fse/pep_851_add_listdiscard/)
+- [My AsyncAPI Conf 2026 talk: keeping WebSocket APIs honest with a code-first approach in Python](https://www.reddit.com/r/Python/comments/1xj761j/my_asyncapi_conf_2026_talk_keeping_websocket_apis/)
+- [I&#39;m now maintaining passlib](https://www.reddit.com/r/Python/comments/1xj74pw/im_now_maintaining_passlib/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1xj0gbb/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Learn to understand ML libraries: rebuild them from scratch](https://www.reddit.com/r/Python/comments/1xiznqy/learn_to_understand_ml_libraries_rebuild_them/)
-- [Alternative to libCST](https://www.reddit.com/r/Python/comments/1xiqc6v/alternative_to_libcst/)
-- [Term frequency across 1,360 Software Engineer job postings](https://www.reddit.com/r/Python/comments/1xi5wdz/term_frequency_across_1360_software_engineer_job/)
-- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1xi4t9j/thursday_daily_thread_python_careers_courses_and/)
 <!-- BLOG-POST-LIST:END -->
