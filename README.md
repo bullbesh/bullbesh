@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1xjvh23/saturday_daily_thread_resource_request_and/)
 - [PEP 851 – Add list.discard&lpar;&rpar;](https://www.reddit.com/r/Python/comments/1xj9fse/pep_851_add_listdiscard/)
 - [My AsyncAPI Conf 2026 talk: keeping WebSocket APIs honest with a code-first approach in Python](https://www.reddit.com/r/Python/comments/1xj761j/my_asyncapi_conf_2026_talk_keeping_websocket_apis/)
 - [I&#39;m now maintaining passlib](https://www.reddit.com/r/Python/comments/1xj74pw/im_now_maintaining_passlib/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1xj0gbb/friday_daily_thread_rpython_meta_and_freetalk/)
-- [Learn to understand ML libraries: rebuild them from scratch](https://www.reddit.com/r/Python/comments/1xiznqy/learn_to_understand_ml_libraries_rebuild_them/)
 <!-- BLOG-POST-LIST:END -->
