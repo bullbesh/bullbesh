@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Resource Sharing: Python Recursion Visualizer](https://www.reddit.com/r/Python/comments/1xka67h/resource_sharing_python_recursion_visualizer/)
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1xkp2bx/sunday_daily_thread_whats_everyone_working_on/)
 - [Pushing ThreadingHTTPServer past toy use: long-lived streams, a semaphore cap, and when to give up a](https://www.reddit.com/r/Python/comments/1xk4n1t/pushing_threadinghttpserver_past_toy_use/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1xjvh23/saturday_daily_thread_resource_request_and/)
 - [PEP 851 – Add list.discard&lpar;&rpar;](https://www.reddit.com/r/Python/comments/1xj9fse/pep_851_add_listdiscard/)
