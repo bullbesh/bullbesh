@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [litellm&#39;s bad release was up for under 2 hours, so our PyPI installs now wait a week](https://www.reddit.com/r/Python/comments/1xlfsel/litellms_bad_release_was_up_for_under_2_hours_so/)
+- [[Blog Post] The State of Python Profiling in 2026](https://www.reddit.com/r/Python/comments/1xlcdgb/blog_post_the_state_of_python_profiling_in_2026/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1xkp2bx/sunday_daily_thread_whats_everyone_working_on/)
 - [Pushing ThreadingHTTPServer past toy use: long-lived streams, a semaphore cap, and when to give up a](https://www.reddit.com/r/Python/comments/1xk4n1t/pushing_threadinghttpserver_past_toy_use/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1xjvh23/saturday_daily_thread_resource_request_and/)
-- [PEP 851 – Add list.discard&lpar;&rpar;](https://www.reddit.com/r/Python/comments/1xj9fse/pep_851_add_listdiscard/)
-- [My AsyncAPI Conf 2026 talk: keeping WebSocket APIs honest with a code-first approach in Python](https://www.reddit.com/r/Python/comments/1xj761j/my_asyncapi_conf_2026_talk_keeping_websocket_apis/)
 <!-- BLOG-POST-LIST:END -->
