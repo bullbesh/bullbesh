@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [I have a feature suggestion](https://www.reddit.com/r/Python/comments/1xlrvr1/i_have_a_feature_suggestion/)
+- [FastAPI Cloud is now generally available](https://www.reddit.com/r/Python/comments/1xm7oif/fastapi_cloud_is_now_generally_available/)
+- [CPython core dev Larry Hastings on testing race conditions in free-threaded Python and AI-coding](https://www.reddit.com/r/Python/comments/1xm18lx/cpython_core_dev_larry_hastings_on_testing_race/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1xlifaf/monday_daily_thread_project_ideas/)
 - [[Blog Post] The State of Python Profiling in 2026](https://www.reddit.com/r/Python/comments/1xlcdgb/blog_post_the_state_of_python_profiling_in_2026/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1xkp2bx/sunday_daily_thread_whats_everyone_working_on/)
-- [Pushing ThreadingHTTPServer past toy use: long-lived streams, a semaphore cap, and when to give up a](https://www.reddit.com/r/Python/comments/1xk4n1t/pushing_threadinghttpserver_past_toy_use/)
 <!-- BLOG-POST-LIST:END -->
