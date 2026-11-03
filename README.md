@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [My AI discussion time has lead to a script for a sudoku variant](https://www.reddit.com/r/Python/comments/1xmje9n/my_ai_discussion_time_has_lead_to_a_script_for_a/)
+- [Designing a zero-dependency Python scraping SDK: sticking with pure stdlib vs adding httpx?](https://www.reddit.com/r/Python/comments/1xn28q6/designing_a_zerodependency_python_scraping_sdk/)
+- [Best hosting platform other than Render &lpar;Python&rpar; - Django project](https://www.reddit.com/r/Python/comments/1xmr1ap/best_hosting_platform_other_than_render_python/)
 - [Pip 26.3 - Extended Pylock Support, Build Backend Warnings, and a caution on wheel installation](https://www.reddit.com/r/Python/comments/1xmgv01/pip_263_extended_pylock_support_build_backend/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1xmdsr0/tuesday_daily_thread_advanced_questions/)
 - [What is the closest equivalent to AstroJS in the Python ecosystem?](https://www.reddit.com/r/Python/comments/1xmcpk7/what_is_the_closest_equivalent_to_astrojs_in_the/)
-- [FastAPI Cloud is now generally available](https://www.reddit.com/r/Python/comments/1xm7oif/fastapi_cloud_is_now_generally_available/)
 <!-- BLOG-POST-LIST:END -->
