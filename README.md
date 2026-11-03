@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [My AI discussion time has lead to a script for a sudoku variant](https://www.reddit.com/r/Python/comments/1xmje9n/my_ai_discussion_time_has_lead_to_a_script_for_a/)
 - [Pip 26.3 - Extended Pylock Support, Build Backend Warnings, and a caution on wheel installation](https://www.reddit.com/r/Python/comments/1xmgv01/pip_263_extended_pylock_support_build_backend/)
-- [🏔️ Garhwali Language Library v1.3.0 is now live on PyPI!](https://www.reddit.com/r/Python/comments/1xmg1bw/garhwali_language_library_v130_is_now_live_on_pypi/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1xmdsr0/tuesday_daily_thread_advanced_questions/)
 - [What is the closest equivalent to AstroJS in the Python ecosystem?](https://www.reddit.com/r/Python/comments/1xmcpk7/what_is_the_closest_equivalent_to_astrojs_in_the/)
 - [FastAPI Cloud is now generally available](https://www.reddit.com/r/Python/comments/1xm7oif/fastapi_cloud_is_now_generally_available/)
