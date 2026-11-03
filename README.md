@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pip 26.3 - Extended Pylock Support, Build Backend Warnings, and a caution on wheel installation](https://www.reddit.com/r/Python/comments/1xmgv01/pip_263_extended_pylock_support_build_backend/)
+- [🏔️ Garhwali Language Library v1.3.0 is now live on PyPI!](https://www.reddit.com/r/Python/comments/1xmg1bw/garhwali_language_library_v130_is_now_live_on_pypi/)
+- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1xmdsr0/tuesday_daily_thread_advanced_questions/)
+- [What is the closest equivalent to AstroJS in the Python ecosystem?](https://www.reddit.com/r/Python/comments/1xmcpk7/what_is_the_closest_equivalent_to_astrojs_in_the/)
 - [FastAPI Cloud is now generally available](https://www.reddit.com/r/Python/comments/1xm7oif/fastapi_cloud_is_now_generally_available/)
-- [CPython core dev Larry Hastings on testing race conditions in free-threaded Python and AI-coding](https://www.reddit.com/r/Python/comments/1xm18lx/cpython_core_dev_larry_hastings_on_testing_race/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1xlifaf/monday_daily_thread_project_ideas/)
-- [[Blog Post] The State of Python Profiling in 2026](https://www.reddit.com/r/Python/comments/1xlcdgb/blog_post_the_state_of_python_profiling_in_2026/)
-- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1xkp2bx/sunday_daily_thread_whats_everyone_working_on/)
 <!-- BLOG-POST-LIST:END -->
