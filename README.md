@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thursday Daily Thread: Python Careers, Courses, and Furthering Education!](https://www.reddit.com/r/Python/comments/1xo41r2/thursday_daily_thread_python_careers_courses_and/)
 - [Showcase Thread](https://www.reddit.com/r/Python/comments/1xntm2j/showcase_thread/)
 - [What Python project taught you the most about real world development?](https://www.reddit.com/r/Python/comments/1xnp9kl/what_python_project_taught_you_the_most_about/)
 - [Best hosting platform other than Render &lpar;Python&rpar; - Django project](https://www.reddit.com/r/Python/comments/1xmr1ap/best_hosting_platform_other_than_render_python/)
 - [Pip 26.3 - Extended Pylock Support, Build Backend Warnings, and a caution on wheel installation](https://www.reddit.com/r/Python/comments/1xmgv01/pip_263_extended_pylock_support_build_backend/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1xmdsr0/tuesday_daily_thread_advanced_questions/)
 <!-- BLOG-POST-LIST:END -->
