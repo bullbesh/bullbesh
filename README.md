@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [PYTHON 🆚 ALL ...](https://www.reddit.com/r/Python/comments/1xpay57/python_all/)
+- [What will we become in the end?](https://www.reddit.com/r/Python/comments/1xp75ls/what_will_we_become_in_the_end/)
 - [Guys i am thinking to create a Microsoft-office-like Application with python](https://www.reddit.com/r/Python/comments/1xp2j1u/guys_i_am_thinking_to_create_a/)
 - [Friday Daily Thread: r/Python Meta and Free-Talk Fridays](https://www.reddit.com/r/Python/comments/1xoydtc/friday_daily_thread_rpython_meta_and_freetalk/)
 - [Has anyone moved document parsing off their own Python workers?](https://www.reddit.com/r/Python/comments/1xop2ap/has_anyone_moved_document_parsing_off_their_own/)
-- [PyCharm 2026.3 released &lpar;IDE&rpar;](https://www.reddit.com/r/Python/comments/1xol7yf/pycharm_20263_released_ide/)
-- [Feasibility check: Writing a constrained Python-to-Rust transpiler for numeric code](https://www.reddit.com/r/Python/comments/1xoeowp/feasibility_check_writing_a_constrained/)
 <!-- BLOG-POST-LIST:END -->
