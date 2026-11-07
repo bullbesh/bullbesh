@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Computing the size of dwarf planet 2026 ED138](https://www.reddit.com/r/Python/comments/1xqifzx/computing_the_size_of_dwarf_planet_2026_ed138/)
+- [Giving back to the community - The Complete Backend Development Course](https://www.reddit.com/r/Python/comments/1xqgnoh/giving_back_to_the_community_the_complete_backend/)
 - [Mysterious Lazy Imports](https://www.reddit.com/r/Python/comments/1xqblqi/mysterious_lazy_imports/)
-- [Python backend support needed.](https://www.reddit.com/r/Python/comments/1xq8kxq/python_backend_support_needed/)
 - [the faulthandler i turned on to catch crashes was causing them &lpar;windows, all_threads=True&rpar;](https://www.reddit.com/r/Python/comments/1xq4rqx/the_faulthandler_i_turned_on_to_catch_crashes_was/)
 - [Internals of Asyncio](https://www.reddit.com/r/Python/comments/1xq2x06/internals_of_asyncio/)
-- [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1xps4q4/saturday_daily_thread_resource_request_and/)
 <!-- BLOG-POST-LIST:END -->
