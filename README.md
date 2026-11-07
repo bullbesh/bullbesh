@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mysterious Lazy Imports](https://www.reddit.com/r/Python/comments/1xqblqi/mysterious_lazy_imports/)
+- [Python backend support needed.](https://www.reddit.com/r/Python/comments/1xq8kxq/python_backend_support_needed/)
 - [the faulthandler i turned on to catch crashes was causing them &lpar;windows, all_threads=True&rpar;](https://www.reddit.com/r/Python/comments/1xq4rqx/the_faulthandler_i_turned_on_to_catch_crashes_was/)
 - [Internals of Asyncio](https://www.reddit.com/r/Python/comments/1xq2x06/internals_of_asyncio/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1xps4q4/saturday_daily_thread_resource_request_and/)
-- [VSCODE Autofill](https://www.reddit.com/r/Python/comments/1xprvie/vscode_autofill/)
-- [PYTHON 🆚 ALL ...](https://www.reddit.com/r/Python/comments/1xpay57/python_all/)
 <!-- BLOG-POST-LIST:END -->
