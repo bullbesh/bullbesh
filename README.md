@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python events between Nov 09 - Nov 18](https://www.reddit.com/r/Python/comments/1xrsoay/python_events_between_nov_09_nov_18/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1xrd05k/monday_daily_thread_project_ideas/)
-- [Giving back to the community - The Complete Backend Development Course](https://www.reddit.com/r/Python/comments/1xr8mnu/giving_back_to_the_community_the_complete_backend/)
 - [PyPI&#39;s redesigned project pages with clearer security signals are now live](https://www.reddit.com/r/Python/comments/1xr49cg/pypis_redesigned_project_pages_with_clearer/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1xqknnl/sunday_daily_thread_whats_everyone_working_on/)
 - [Mysterious Lazy Imports](https://www.reddit.com/r/Python/comments/1xqblqi/mysterious_lazy_imports/)
