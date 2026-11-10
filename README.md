@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparing two Python game development libraries: Pygame vs Arcade](https://www.reddit.com/r/Python/comments/1xsho6k/comparing_two_python_game_development_libraries/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1xs81uc/tuesday_daily_thread_advanced_questions/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1xrd05k/monday_daily_thread_project_ideas/)
 - [PyPI&#39;s redesigned project pages with clearer security signals are now live](https://www.reddit.com/r/Python/comments/1xr49cg/pypis_redesigned_project_pages_with_clearer/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1xqknnl/sunday_daily_thread_whats_everyone_working_on/)
-- [Mysterious Lazy Imports](https://www.reddit.com/r/Python/comments/1xqblqi/mysterious_lazy_imports/)
 <!-- BLOG-POST-LIST:END -->
