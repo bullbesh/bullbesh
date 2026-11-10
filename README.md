@@ -8,7 +8,7 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [Comparing two Python game development libraries: Pygame vs Arcade](https://www.reddit.com/r/Python/comments/1xsho6k/comparing_two_python_game_development_libraries/)
+- [Consistency of new unpacking syntax in 3.15?](https://www.reddit.com/r/Python/comments/1xsocqz/consistency_of_new_unpacking_syntax_in_315/)
 - [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1xs81uc/tuesday_daily_thread_advanced_questions/)
 - [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1xrd05k/monday_daily_thread_project_ideas/)
 - [PyPI&#39;s redesigned project pages with clearer security signals are now live](https://www.reddit.com/r/Python/comments/1xr49cg/pypis_redesigned_project_pages_with_clearer/)
