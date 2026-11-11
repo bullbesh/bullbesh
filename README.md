@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
-- [My Web Scraping API Named Itself](https://www.reddit.com/r/Python/comments/1xt3yuh/my_web_scraping_api_named_itself/)
-- [I built a music streaming app for Android that runs its own Python server inside the APK](https://www.reddit.com/r/Python/comments/1xt3va8/i_built_a_music_streaming_app_for_android_that/)
+- [Is Python a good choice for learning algorithms and data structures ?](https://www.reddit.com/r/Python/comments/1xto03d/is_python_a_good_choice_for_learning_algorithms/)
+- [Pydantic in 100 lines](https://www.reddit.com/r/Python/comments/1xtcexq/pydantic_in_100_lines/)
+- [Tim Peters has passed away](https://www.reddit.com/r/Python/comments/1xt65ah/tim_peters_has_passed_away/)
+- [Wiimote in Python](https://www.reddit.com/r/Python/comments/1xspb09/wiimote_in_python/)
 - [Consistency of new unpacking syntax in 3.15?](https://www.reddit.com/r/Python/comments/1xsocqz/consistency_of_new_unpacking_syntax_in_315/)
-- [Tuesday Daily Thread: Advanced questions](https://www.reddit.com/r/Python/comments/1xs81uc/tuesday_daily_thread_advanced_questions/)
-- [Monday Daily Thread: Project ideas!](https://www.reddit.com/r/Python/comments/1xrd05k/monday_daily_thread_project_ideas/)
 <!-- BLOG-POST-LIST:END -->
