@@ -8,9 +8,9 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1xwh48g/sunday_daily_thread_whats_everyone_working_on/)
 - [Python gil free computation](https://www.reddit.com/r/Python/comments/1xw3ho3/python_gil_free_computation/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1xvnujf/saturday_daily_thread_resource_request_and/)
 - [Why doesn&#39;t PyCharm warn about this type mismatch?](https://www.reddit.com/r/Python/comments/1xv6qir/why_doesnt_pycharm_warn_about_this_type_mismatch/)
 - [Eventually LLMs will write what will become industry standard python.](https://www.reddit.com/r/Python/comments/1xv34e5/eventually_llms_will_write_what_will_become/)
-- [For devs using Claude Code or similar at work: what’s the 10% you still fix by hand in Python?](https://www.reddit.com/r/Python/comments/1xusxv9/for_devs_using_claude_code_or_similar_at_work/)
 <!-- BLOG-POST-LIST:END -->
