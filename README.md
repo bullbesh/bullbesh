@@ -8,8 +8,8 @@
 
 ## 📕 Latest r/Python Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do Python-specific skills actually improve the agentic coding?](https://www.reddit.com/r/Python/comments/1xwptp0/do_pythonspecific_skills_actually_improve_the/)
 - [Sunday Daily Thread: What&#39;s everyone working on this week?](https://www.reddit.com/r/Python/comments/1xwh48g/sunday_daily_thread_whats_everyone_working_on/)
-- [Python gil free computation](https://www.reddit.com/r/Python/comments/1xw3ho3/python_gil_free_computation/)
 - [Saturday Daily Thread: Resource Request and Sharing! Daily Thread](https://www.reddit.com/r/Python/comments/1xvnujf/saturday_daily_thread_resource_request_and/)
 - [Why doesn&#39;t PyCharm warn about this type mismatch?](https://www.reddit.com/r/Python/comments/1xv6qir/why_doesnt_pycharm_warn_about_this_type_mismatch/)
 - [Eventually LLMs will write what will become industry standard python.](https://www.reddit.com/r/Python/comments/1xv34e5/eventually_llms_will_write_what_will_become/)
